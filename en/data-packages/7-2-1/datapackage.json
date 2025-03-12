@@ -1,0 +1,64 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Share of renewable energy in gross final energy consumption",
+                "2. Percentage shares of total electricity supply in Malta, by source",
+                "3. Percentage shares of total electricity imported via the Interconnector, by source",
+                "4. Percentage shares of power plants' sources, by source",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Power Plants (excl. own use)",
+                "Renewables",
+                "Net imports (imports - exports)",
+                "Fossil fuels",
+                "Coal",
+                "Nucelar power ",
+                "Renewable sources",
+                "Others",
+                "Oil",
+                "Natural Gas",
+                ""
+              ]
+            },
+            "title": "Source"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-2-1",
+  "title": "Renewable energy share in the total final energy consumption"
+}

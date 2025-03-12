@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Freight volume (aviation)",
+                "2. Passenger volume (aviation)",
+                "3. Container port traffic (maritime transport)",
+                "4. Unloaded local cargo (maritime transport)",
+                "5. Loaded local cargo (maritime transport)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millions of Freight Tonne-Kilometres (FTK)",
+                "Millions of Revenue Passenger-Kilometres (RPK)",
+                "Millions of Twenty-foot Equivalent Units (TEU)",
+                "Millions of metric tonnes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-1-2",
+  "title": "Passenger and freight volumes, by mode of transport"
+}

@@ -1,0 +1,83 @@
+Year,Series,Source,Value
+2010,1. Share of renewable energy in gross final energy consumption,,0.98
+2011,1. Share of renewable energy in gross final energy consumption,,1.85
+2012,1. Share of renewable energy in gross final energy consumption,,2.86
+2013,1. Share of renewable energy in gross final energy consumption,,3.76
+2014,1. Share of renewable energy in gross final energy consumption,,4.74
+2015,1. Share of renewable energy in gross final energy consumption,,5.12
+2016,1. Share of renewable energy in gross final energy consumption,,6.21
+2017,1. Share of renewable energy in gross final energy consumption,,7.22
+2018,1. Share of renewable energy in gross final energy consumption,,7.91
+2019,1. Share of renewable energy in gross final energy consumption,,8.23
+2020,1. Share of renewable energy in gross final energy consumption,,10.71
+2021,1. Share of renewable energy in gross final energy consumption,,12.63
+2022,1. Share of renewable energy in gross final energy consumption,,13.97
+2023,1. Share of renewable energy in gross final energy consumption,,15.08
+2017,"2. Percentage shares of total electricity supply in Malta, by source",Power Plants (excl. own use),58.06
+2018,"2. Percentage shares of total electricity supply in Malta, by source",Power Plants (excl. own use),67.64
+2019,"2. Percentage shares of total electricity supply in Malta, by source",Power Plants (excl. own use),68.22
+2020,"2. Percentage shares of total electricity supply in Malta, by source",Power Plants (excl. own use),73.63
+2021,"2. Percentage shares of total electricity supply in Malta, by source",Power Plants (excl. own use),71.01
+2022,"2. Percentage shares of total electricity supply in Malta, by source",Power Plants (excl. own use),67.5
+2023,"2. Percentage shares of total electricity supply in Malta, by source",Power Plants (excl. own use),67.76
+2017,"2. Percentage shares of total electricity supply in Malta, by source",Renewables,6.98
+2018,"2. Percentage shares of total electricity supply in Malta, by source",Renewables,7.86
+2019,"2. Percentage shares of total electricity supply in Malta, by source",Renewables,7.65
+2020,"2. Percentage shares of total electricity supply in Malta, by source",Renewables,9.73
+2021,"2. Percentage shares of total electricity supply in Malta, by source",Renewables,9.85
+2022,"2. Percentage shares of total electricity supply in Malta, by source",Renewables,10.3
+2023,"2. Percentage shares of total electricity supply in Malta, by source",Renewables,10.92
+2017,"2. Percentage shares of total electricity supply in Malta, by source",Net imports (imports - exports),34.96
+2018,"2. Percentage shares of total electricity supply in Malta, by source",Net imports (imports - exports),24.51
+2019,"2. Percentage shares of total electricity supply in Malta, by source",Net imports (imports - exports),24.13
+2020,"2. Percentage shares of total electricity supply in Malta, by source",Net imports (imports - exports),16.65
+2021,"2. Percentage shares of total electricity supply in Malta, by source",Net imports (imports - exports),19.14
+2022,"2. Percentage shares of total electricity supply in Malta, by source",Net imports (imports - exports),22.19
+2023,"2. Percentage shares of total electricity supply in Malta, by source",Net imports (imports - exports),21.32
+2017,"3. Percentage shares of total electricity imported via the Interconnector, by source",Fossil fuels,67.0
+2018,"3. Percentage shares of total electricity imported via the Interconnector, by source",Fossil fuels,65.0
+2019,"3. Percentage shares of total electricity imported via the Interconnector, by source",Fossil fuels,72.0
+2020,"3. Percentage shares of total electricity imported via the Interconnector, by source",Fossil fuels,60.0
+2021,"3. Percentage shares of total electricity imported via the Interconnector, by source",Fossil fuels,68.04
+2022,"3. Percentage shares of total electricity imported via the Interconnector, by source",Fossil fuels,73.39
+2023,"3. Percentage shares of total electricity imported via the Interconnector, by source",Fossil fuels,61.98
+2017,"3. Percentage shares of total electricity imported via the Interconnector, by source",Coal,21.0
+2018,"3. Percentage shares of total electricity imported via the Interconnector, by source",Coal,20.0
+2019,"3. Percentage shares of total electricity imported via the Interconnector, by source",Coal,14.0
+2020,"3. Percentage shares of total electricity imported via the Interconnector, by source",Coal,17.0
+2021,"3. Percentage shares of total electricity imported via the Interconnector, by source",Coal,12.94
+2022,"3. Percentage shares of total electricity imported via the Interconnector, by source",Coal,12.22
+2023,"3. Percentage shares of total electricity imported via the Interconnector, by source",Coal,22.77
+2017,"3. Percentage shares of total electricity imported via the Interconnector, by source",Nucelar power ,5.0
+2018,"3. Percentage shares of total electricity imported via the Interconnector, by source",Nucelar power ,6.0
+2019,"3. Percentage shares of total electricity imported via the Interconnector, by source",Nucelar power ,6.0
+2020,"3. Percentage shares of total electricity imported via the Interconnector, by source",Nucelar power ,11.0
+2021,"3. Percentage shares of total electricity imported via the Interconnector, by source",Nucelar power ,6.42
+2022,"3. Percentage shares of total electricity imported via the Interconnector, by source",Nucelar power ,2.62
+2023,"3. Percentage shares of total electricity imported via the Interconnector, by source",Nucelar power ,4.4
+2017,"3. Percentage shares of total electricity imported via the Interconnector, by source",Renewable sources,2.0
+2018,"3. Percentage shares of total electricity imported via the Interconnector, by source",Renewable sources,4.0
+2019,"3. Percentage shares of total electricity imported via the Interconnector, by source",Renewable sources,3.0
+2020,"3. Percentage shares of total electricity imported via the Interconnector, by source",Renewable sources,10.0
+2021,"3. Percentage shares of total electricity imported via the Interconnector, by source",Renewable sources,10.81
+2022,"3. Percentage shares of total electricity imported via the Interconnector, by source",Renewable sources,9.04
+2023,"3. Percentage shares of total electricity imported via the Interconnector, by source",Renewable sources,7.28
+2017,"3. Percentage shares of total electricity imported via the Interconnector, by source",Others,5.0
+2018,"3. Percentage shares of total electricity imported via the Interconnector, by source",Others,5.0
+2019,"3. Percentage shares of total electricity imported via the Interconnector, by source",Others,5.0
+2020,"3. Percentage shares of total electricity imported via the Interconnector, by source",Others,2.0
+2021,"3. Percentage shares of total electricity imported via the Interconnector, by source",Others,1.79
+2022,"3. Percentage shares of total electricity imported via the Interconnector, by source",Others,2.73
+2023,"3. Percentage shares of total electricity imported via the Interconnector, by source",Others,3.57
+2018,"4. Percentage shares of power plants' sources, by source",Oil,0.57
+2019,"4. Percentage shares of power plants' sources, by source",Oil,1.24
+2020,"4. Percentage shares of power plants' sources, by source",Oil,2.81
+2021,"4. Percentage shares of power plants' sources, by source",Oil,2.27
+2022,"4. Percentage shares of power plants' sources, by source",Oil,2.89
+2023,"4. Percentage shares of power plants' sources, by source",Oil,0.83
+2018,"4. Percentage shares of power plants' sources, by source",Natural Gas,99.43
+2019,"4. Percentage shares of power plants' sources, by source",Natural Gas,98.76
+2020,"4. Percentage shares of power plants' sources, by source",Natural Gas,97.19
+2021,"4. Percentage shares of power plants' sources, by source",Natural Gas,97.73
+2022,"4. Percentage shares of power plants' sources, by source",Natural Gas,97.11
+2023,"4. Percentage shares of power plants' sources, by source",Natural Gas,99.17
