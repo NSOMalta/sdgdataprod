@@ -31,7 +31,7 @@
             "constraints": {
               "enum": [
                 "Number",
-                "Per 1,000 population ",
+                "Per 1,000 population",
                 ""
               ]
             }

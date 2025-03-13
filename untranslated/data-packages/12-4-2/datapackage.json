@@ -19,46 +19,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Electronic waste collected, per capita",
-                "2. Electronic waste collected",
-                "3. Hazardous waste exported",
+                "1. Hazardous waste generation",
+                "2. Total hazardous waste treated locally or abroad",
+                "3. Proportion of hazardous waste treated locally or abroad",
                 "4. Hazardous waste generated",
-                "5. Hazardous waste generated, per capita",
-                "6. Hazardous waste treated, by type of treatment",
-                "7. Hazardous waste treated or disposed",
-                "8. Municipal waste treated by type of treatment",
-                "9. Total waste generation, by activity",
-                "10. Proportion of hazardous waste treated or disposed",
-                "11. Municipal waste generated",
-                "12. Proportion of municipal waste treated, by type of treatment",
-                "13. Hazardous waste generated, per unit of GDP",
-                "14. WEEE Collection Rate based on POM",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Type of waste treatment",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Incineration",
-                "Incineration to generate energy",
-                "Landfilling",
-                "Recycling",
-                "Other type of waste management",
-                "Composting",
-                "Preparing for re-use",
-                "Mining and quarrying",
-                "Agriculture, forestry and fishing",
-                "Manufacturing",
-                "Total",
-                "Construction",
-                "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
-                "Electricity, gas, steam and air conditioning supply",
-                "Water supply; sewerage; waste management and remediation activities",
-                "Services (except wholesale of waste and scrap)",
-                "Wholesale of waste and scrap",
+                "5. WEEE Collection Rate based on POM",
                 ""
               ]
             }
@@ -68,10 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilograms",
-                "Tonnes",
+                "Dry weight in tonnes",
                 "Percentage",
-                "kilograms per constant 2015 United States dollars",
+                "Kilograms",
                 ""
               ]
             }

@@ -26,25 +26,25 @@
             }
           },
           {
-            "name": "Migratory Status",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-Migrant",
-                "All Migratory Statuses",
-                "Migrants",
+                "Both Sexes",
+                "Females",
+                "Males",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "Migratory Status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Males",
-                "Both Sexes",
-                "Females",
+                "Non-Migrant",
+                "Migrants",
+                "All Migratory Statuses",
                 ""
               ]
             }

@@ -28,30 +28,30 @@
             "title": "Series"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Females",
+                "Males",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Migratory Status",
             "type": "string",
             "constraints": {
               "enum": [
                 "Non-Migrant",
-                "All Migratory Statuses",
                 "Migrants",
+                "All Migratory Statuses",
                 ""
               ]
             },
             "title": "Migratory Status"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Males",
-                "Both Sexes",
-                "Females",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Value",

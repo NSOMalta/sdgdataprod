@@ -646,61 +646,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Electronic waste collected, per capita",
-                "2. Electronic waste collected",
-                "3. Hazardous waste exported",
+                "1. Hazardous waste generation",
+                "2. Total hazardous waste treated locally or abroad",
+                "3. Proportion of hazardous waste treated locally or abroad",
                 "4. Hazardous waste generated",
-                "5. Hazardous waste generated, per capita",
-                "6. Hazardous waste treated, by type of treatment",
-                "7. Hazardous waste treated or disposed",
-                "8. Municipal waste treated by type of treatment",
-                "9. Total waste generation, by activity",
-                "10. Proportion of hazardous waste treated or disposed",
-                "11. Municipal waste generated",
-                "12. Proportion of municipal waste treated, by type of treatment",
-                "13. Hazardous waste generated, per unit of GDP",
-                "14. WEEE Collection Rate based on POM",
+                "5. WEEE Collection Rate based on POM",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Type of waste treatment",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Incineration",
-                "Incineration to generate energy",
-                "Landfilling",
-                "Recycling",
-                "Other type of waste management",
-                "Composting",
-                "Preparing for re-use",
-                "Mining and quarrying",
-                "Agriculture, forestry and fishing",
-                "Manufacturing",
-                "Total",
-                "Construction",
-                "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
-                "Electricity, gas, steam and air conditioning supply",
-                "Water supply; sewerage; waste management and remediation activities",
-                "Services (except wholesale of waste and scrap)",
-                "Wholesale of waste and scrap",
-                ""
-              ]
-            },
-            "title": "Type of waste treatment"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilograms",
-                "Tonnes",
+                "Dry weight in tonnes",
                 "Percentage",
-                "kilograms per constant 2015 United States dollars",
+                "Kilograms",
                 ""
               ]
             },
@@ -743,30 +706,30 @@
             "title": "Series"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Females",
+                "Males",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Migratory Status",
             "type": "string",
             "constraints": {
               "enum": [
                 "Non-Migrant",
-                "All Migratory Statuses",
                 "Migrants",
+                "All Migratory Statuses",
                 ""
               ]
             },
             "title": "Migratory Status"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Males",
-                "Both Sexes",
-                "Females",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Value",
@@ -1264,7 +1227,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1687,7 +1650,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1960,7 +1923,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2233,7 +2196,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2741,8 +2704,6 @@
                 "1. Freight volume (aviation)",
                 "2. Passenger volume (aviation)",
                 "3. Container port traffic (maritime transport)",
-                "4. Unloaded local cargo (maritime transport)",
-                "5. Loaded local cargo (maritime transport)",
                 ""
               ]
             },
@@ -2756,7 +2717,6 @@
                 "Millions of Freight Tonne-Kilometres (FTK)",
                 "Millions of Revenue Passenger-Kilometres (RPK)",
                 "Millions of Twenty-foot Equivalent Units (TEU)",
-                "Millions of metric tonnes",
                 ""
               ]
             },
@@ -4203,7 +4163,7 @@
             "constraints": {
               "enum": [
                 "Number",
-                "Per 1,000 population ",
+                "Per 1,000 population",
                 ""
               ]
             },
@@ -5369,7 +5329,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -6197,7 +6157,7 @@
                 "Net imports (imports - exports)",
                 "Fossil fuels",
                 "Coal",
-                "Nucelar power ",
+                "Nucelar power",
                 "Renewable sources",
                 "Others",
                 "Oil",
