@@ -20,9 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Participation rate in formal and non-formal education and training, by sex",
+                "1. Participation rate in education and training in the last 4 weeks",
                 "2. Tertiary educational attainment by sex",
-                "3. Participation rate in education and training (last 4 weeks) by sex and age",
                 ""
               ]
             },
@@ -46,13 +45,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-64",
-                "15-24",
-                "25-54",
-                "25-34",
-                "34-44",
-                "45-54",
-                "55-64",
+                "25-34 years",
+                "35-44 years",
+                "45-54 years",
+                "55-74 years",
                 ""
               ]
             },

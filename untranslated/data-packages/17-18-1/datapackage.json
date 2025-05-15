@@ -19,8 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Data Sources performance index (Statistical Performance Indicators Pillar 4)",
-                "Data Infrastructure performance index (Statistical Performance Indicators Pillar 5)",
+                "1. Data sources performance index (Statistical Performance Indicators Pillar 4)",
+                "2. Data infrastructure performance index (Statistical Performance Indicators Pillar 5)",
+                "3. Open Data Inventory (ODIN) Coverage Index",
                 ""
               ]
             }

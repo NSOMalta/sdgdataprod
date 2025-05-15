@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Area under organic farming",
-                "Utilised agricultural area",
+                "1. Area under organic farming",
+                "2. Utilised agricultural area",
                 ""
               ]
             },

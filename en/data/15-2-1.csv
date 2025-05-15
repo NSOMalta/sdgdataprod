@@ -1,11 +1,6 @@
 Year,Series,Units,Value
-2016,Proportion of forest area with a long-term management plan,Percentage,8.57
-2017,Proportion of forest area with a long-term management plan,Percentage,11.43
-2018,Proportion of forest area with a long-term management plan,Percentage,11.43
-2019,Proportion of forest area with a long-term management plan,Percentage,11.43
-2020,Proportion of forest area with a long-term management plan,Percentage,11.43
-2016,Proportion of forest area within legally established protected areas,Percentage,8.57
-2017,Proportion of forest area within legally established protected areas,Percentage,11.43
-2018,Proportion of forest area within legally established protected areas,Percentage,11.43
-2019,Proportion of forest area within legally established protected areas,Percentage,11.43
-2020,Proportion of forest area within legally established protected areas,Percentage,11.43
+2018,Total area covered by trees,Square kilometers,3.88
+2018,N2K sites overlapping with wooded area,Square kilometers,0.9
+2018,Nationally Designated Areas (CDDA 2020) overlapping with wooded area,Square kilometers,2.37
+2018,Percentage of wooded area with long-term management plan,Percentage (%),23.32
+2018,Percentage of wooded area within legally established protected areas,Percentage (%),61.0

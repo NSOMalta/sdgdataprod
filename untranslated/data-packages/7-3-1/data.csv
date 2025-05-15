@@ -1,14 +1,4 @@
 Year,Series,Units,Value
-2014,Energy productivity in Euro per kilogram of oil equivalent (KGOE),Euro per KGOE,3.9
-2015,Energy productivity in Euro per kilogram of oil equivalent (KGOE),Euro per KGOE,3.94
-2016,Energy productivity in Euro per kilogram of oil equivalent (KGOE),Euro per KGOE,3.81
-2017,Energy productivity in Euro per kilogram of oil equivalent (KGOE),Euro per KGOE,3.6
-2018,Energy productivity in Euro per kilogram of oil equivalent (KGOE),Euro per KGOE,3.73
-2019,Energy productivity in Euro per kilogram of oil equivalent (KGOE),Euro per KGOE,3.75
-2020,Energy productivity in Euro per kilogram of oil equivalent (KGOE),Euro per KGOE,3.89
-2021,Energy productivity in Euro per kilogram of oil equivalent (KGOE),Euro per KGOE,4.74
-2022,Energy productivity in Euro per kilogram of oil equivalent (KGOE),Euro per KGOE,4.45
-2023,Energy productivity in Euro per kilogram of oil equivalent (KGOE),Euro per KGOE,4.52
 2014,Energy intensity of GDP in chain linked volumes (2015),KGOE per thousand euro,226.9
 2015,Energy intensity of GDP in chain linked volumes (2015),KGOE per thousand euro,224.48
 2016,Energy intensity of GDP in chain linked volumes (2015),KGOE per thousand euro,232.22
@@ -19,3 +9,13 @@ Year,Series,Units,Value
 2021,Energy intensity of GDP in chain linked volumes (2015),KGOE per thousand euro,186.6
 2022,Energy intensity of GDP in chain linked volumes (2015),KGOE per thousand euro,198.78
 2023,Energy intensity of GDP in chain linked volumes (2015),KGOE per thousand euro,195.65
+2014,Energy productivity in Euro per kilogramme of oil equivalent (KGOE),Euro per KGOE,3.9
+2015,Energy productivity in Euro per kilogramme of oil equivalent (KGOE),Euro per KGOE,3.94
+2016,Energy productivity in Euro per kilogramme of oil equivalent (KGOE),Euro per KGOE,3.81
+2017,Energy productivity in Euro per kilogramme of oil equivalent (KGOE),Euro per KGOE,3.6
+2018,Energy productivity in Euro per kilogramme of oil equivalent (KGOE),Euro per KGOE,3.73
+2019,Energy productivity in Euro per kilogramme of oil equivalent (KGOE),Euro per KGOE,3.75
+2020,Energy productivity in Euro per kilogramme of oil equivalent (KGOE),Euro per KGOE,3.89
+2021,Energy productivity in Euro per kilogramme of oil equivalent (KGOE),Euro per KGOE,4.74
+2022,Energy productivity in Euro per kilogramme of oil equivalent (KGOE),Euro per KGOE,4.45
+2023,Energy productivity in Euro per kilogramme of oil equivalent (KGOE),Euro per KGOE,4.52

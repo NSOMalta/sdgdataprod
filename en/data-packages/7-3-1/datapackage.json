@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Energy productivity in Euro per kilogram of oil equivalent (KGOE)",
                 "Energy intensity of GDP in chain linked volumes (2015)",
+                "Energy productivity in Euro per kilogramme of oil equivalent (KGOE)",
                 ""
               ]
             },
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Euro per KGOE",
                 "KGOE per thousand euro",
+                "Euro per KGOE",
                 ""
               ]
             },

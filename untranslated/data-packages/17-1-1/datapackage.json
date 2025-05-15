@@ -26,6 +26,23 @@
             }
           },
           {
+            "name": "Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total government revenue",
+                "Market output",
+                "Taxes on production and imports",
+                "Property income receivable",
+                "Current taxes on income and wealth",
+                "Net social contributions receivable",
+                "Current transfers receivable",
+                "Capital transfers receivable",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

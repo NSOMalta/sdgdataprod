@@ -1,46 +1,4 @@
 Year,Series,Sex,Age,Units,Value
-2010,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),15.5
-2011,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),15.6
-2012,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),15.1
-2013,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),15.8
-2014,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),15.8
-2015,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.6
-2016,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.5
-2017,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.7
-2018,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.8
-2019,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),17.1
-2020,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.9
-2021,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.9
-2022,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.7
-2023,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.6
-2010,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),16.2
-2011,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),16.1
-2012,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),15.8
-2013,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),16.1
-2014,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),16.0
-2015,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),16.9
-2016,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),16.5
-2017,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),17.3
-2018,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),18.1
-2019,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),18.1
-2020,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),18.3
-2021,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),18.0
-2022,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),17.8
-2023,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),17.6
-2010,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),14.8
-2011,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.0
-2012,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),14.4
-2013,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.4
-2014,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.7
-2015,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),16.3
-2016,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),16.5
-2017,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),16.1
-2018,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.6
-2019,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),16.1
-2020,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.6
-2021,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.8
-2022,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.8
-2023,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.7
 2010,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,<18Y,Percentage (%),22.1
 2011,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,<18Y,Percentage (%),23.0
 2012,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,<18Y,Percentage (%),23.1
@@ -55,6 +13,7 @@ Year,Series,Sex,Age,Units,Value
 2021,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,<18Y,Percentage (%),19.6
 2022,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,<18Y,Percentage (%),19.3
 2023,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,<18Y,Percentage (%),22.0
+2024,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,<18Y,Percentage (%),24.1
 2010,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,18-64,Percentage (%),13.1
 2011,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,18-64,Percentage (%),13.1
 2012,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,18-64,Percentage (%),12.4
@@ -69,6 +28,7 @@ Year,Series,Sex,Age,Units,Value
 2021,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,18-64,Percentage (%),13.1
 2022,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,18-64,Percentage (%),12.3
 2023,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,18-64,Percentage (%),12.1
+2024,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,18-64,Percentage (%),11.9
 2010,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,65+,Percentage (%),18.2
 2011,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,65+,Percentage (%),17.6
 2012,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,65+,Percentage (%),17.3
@@ -83,6 +43,52 @@ Year,Series,Sex,Age,Units,Value
 2021,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,65+,Percentage (%),28.1
 2022,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,65+,Percentage (%),30.0
 2023,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,65+,Percentage (%),29.0
+2024,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,65+,Percentage (%),29.7
+2010,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),15.5
+2011,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),15.6
+2012,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),15.1
+2013,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),15.8
+2014,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),15.8
+2015,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.6
+2016,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.5
+2017,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.7
+2018,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.8
+2019,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),17.1
+2020,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.9
+2021,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.9
+2022,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.7
+2023,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.6
+2024,"Proportion of population living below the national poverty line, by sex and age",Both Sexes,All Ages,Percentage (%),16.8
+2010,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),16.2
+2011,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),16.1
+2012,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),15.8
+2013,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),16.1
+2014,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),16.0
+2015,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),16.9
+2016,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),16.5
+2017,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),17.3
+2018,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),18.1
+2019,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),18.1
+2020,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),18.3
+2021,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),18.0
+2022,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),17.8
+2023,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),17.6
+2024,"Proportion of population living below the national poverty line, by sex and age",Females,All Ages,Percentage (%),18.3
+2010,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),14.8
+2011,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.0
+2012,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),14.4
+2013,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.4
+2014,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.7
+2015,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),16.3
+2016,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),16.5
+2017,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),16.1
+2018,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.6
+2019,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),16.1
+2020,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.6
+2021,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.8
+2022,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.8
+2023,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.7
+2024,"Proportion of population living below the national poverty line, by sex and age",Males,All Ages,Percentage (%),15.6
 2015,Persons at risk of monetary poverty after social transfers,,,Thousand Persons,72.0
 2016,Persons at risk of monetary poverty after social transfers,,,Thousand Persons,73.0
 2017,Persons at risk of monetary poverty after social transfers,,,Thousand Persons,76.0
@@ -92,3 +98,4 @@ Year,Series,Sex,Age,Units,Value
 2021,Persons at risk of monetary poverty after social transfers,,,Thousand Persons,86.0
 2022,Persons at risk of monetary poverty after social transfers,,,Thousand Persons,86.0
 2023,Persons at risk of monetary poverty after social transfers,,,Thousand Persons,88.0
+2024,Persons at risk of monetary poverty after social transfers,,,Thousand Persons,93.0

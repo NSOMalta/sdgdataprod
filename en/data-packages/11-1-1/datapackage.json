@@ -39,9 +39,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Above 60% of median equivalised income",
                 "All Statuses",
                 "Below 60% of median equivalised income",
-                "Above 60% of median equivalised income",
                 ""
               ]
             },
@@ -52,7 +52,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Percentage (%)",
                 "Ratio",
                 ""
               ]

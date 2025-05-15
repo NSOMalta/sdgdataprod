@@ -2,24 +2,24 @@ Year,Series,Food waste sector,Units,Value
 2020,Food waste (Tonnes),Retail (and other distribution of food),Tonnes,3910
 2020,Food waste (Tonnes),Out-of-home consumption (restaurants and food services),Tonnes,23016
 2020,Food waste (Tonnes),Households,Tonnes,47235
-2020,Food waste (Tonnes),Total,Tonnes,82627
+2020,Food waste (Tonnes),All food waste sectors,Tonnes,82627
 2021,Food waste (Tonnes),Retail (and other distribution of food),Tonnes,3869
 2021,Food waste (Tonnes),Out-of-home consumption (restaurants and food services),Tonnes,23126
 2021,Food waste (Tonnes),Households,Tonnes,45570
-2021,Food waste (Tonnes),Total,Tonnes,80933
+2021,Food waste (Tonnes),All food waste sectors,Tonnes,80933
 2022,Food waste (Tonnes),Retail (and other distribution of food),Tonnes,4716
 2022,Food waste (Tonnes),Out-of-home consumption (restaurants and food services),Tonnes,26934
 2022,Food waste (Tonnes),Households,Tonnes,46720
-2022,Food waste (Tonnes),Total,Tonnes,86295
-2020,Food waste per capita (KG),Retail (and other distribution of food),Kilograms,8
-2020,Food waste per capita (KG),Out-of-home consumption (restaurants and food services),Kilograms,45
-2020,Food waste per capita (KG),Households,Kilograms,92
-2020,Food waste per capita (KG),Total,Kilograms,160
-2021,Food waste per capita (KG),Retail (and other distribution of food),Kilograms,7
-2021,Food waste per capita (KG),Out-of-home consumption (restaurants and food services),Kilograms,45
-2021,Food waste per capita (KG),Households,Kilograms,88
-2021,Food waste per capita (KG),Total,Kilograms,156
-2022,Food waste per capita (KG),Retail (and other distribution of food),Kilograms,9
-2022,Food waste per capita (KG),Out-of-home consumption (restaurants and food services),Kilograms,51
-2022,Food waste per capita (KG),Households,Kilograms,88
-2022,Food waste per capita (KG),Total,Kilograms,162
+2022,Food waste (Tonnes),All food waste sectors,Tonnes,86295
+2020,Food waste per capita (KG),Retail (and other distribution of food),Kilogrammes,8
+2020,Food waste per capita (KG),Out-of-home consumption (restaurants and food services),Kilogrammes,45
+2020,Food waste per capita (KG),Households,Kilogrammes,92
+2020,Food waste per capita (KG),All food waste sectors,Kilogrammes,160
+2021,Food waste per capita (KG),Retail (and other distribution of food),Kilogrammes,7
+2021,Food waste per capita (KG),Out-of-home consumption (restaurants and food services),Kilogrammes,45
+2021,Food waste per capita (KG),Households,Kilogrammes,88
+2021,Food waste per capita (KG),All food waste sectors,Kilogrammes,156
+2022,Food waste per capita (KG),Retail (and other distribution of food),Kilogrammes,9
+2022,Food waste per capita (KG),Out-of-home consumption (restaurants and food services),Kilogrammes,51
+2022,Food waste per capita (KG),Households,Kilogrammes,88
+2022,Food waste per capita (KG),All food waste sectors,Kilogrammes,162

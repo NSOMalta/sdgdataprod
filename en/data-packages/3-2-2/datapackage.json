@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Neonatal mortality rate (deaths per 1000 live births)",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {

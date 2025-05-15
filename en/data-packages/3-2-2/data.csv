@@ -1,28 +1,28 @@
-Year,Series,Sex,Value
-2015,Neonatal mortality rate (deaths per 1000 live births),Both Sexes,3.47
-2016,Neonatal mortality rate (deaths per 1000 live births),Both Sexes,6.48
-2017,Neonatal mortality rate (deaths per 1000 live births),Both Sexes,4.63
-2018,Neonatal mortality rate (deaths per 1000 live births),Both Sexes,4.5
-2019,Neonatal mortality rate (deaths per 1000 live births),Both Sexes,4.14
-2020,Neonatal mortality rate (deaths per 1000 live births),Both Sexes,3.4
-2021,Neonatal mortality rate (deaths per 1000 live births),Both Sexes,2.73
-2022,Neonatal mortality rate (deaths per 1000 live births),Both Sexes,3.95
-2023,Neonatal mortality rate (deaths per 1000 live births),Both Sexes,3.14
-2015,Neonatal mortality rate (deaths per 1000 live births),Females,2.83
-2016,Neonatal mortality rate (deaths per 1000 live births),Females,5.68
-2017,Neonatal mortality rate (deaths per 1000 live births),Females,3.33
-2018,Neonatal mortality rate (deaths per 1000 live births),Females,3.23
-2019,Neonatal mortality rate (deaths per 1000 live births),Females,4.78
-2020,Neonatal mortality rate (deaths per 1000 live births),Females,3.28
-2021,Neonatal mortality rate (deaths per 1000 live births),Females,3.72
-2022,Neonatal mortality rate (deaths per 1000 live births),Females,3.78
-2023,Neonatal mortality rate (deaths per 1000 live births),Females,2.75
-2015,Neonatal mortality rate (deaths per 1000 live births),Males,4.08
-2016,Neonatal mortality rate (deaths per 1000 live births),Males,7.19
-2017,Neonatal mortality rate (deaths per 1000 live births),Males,5.87
-2018,Neonatal mortality rate (deaths per 1000 live births),Males,5.71
-2019,Neonatal mortality rate (deaths per 1000 live births),Males,3.54
-2020,Neonatal mortality rate (deaths per 1000 live births),Males,3.5
-2021,Neonatal mortality rate (deaths per 1000 live births),Males,1.78
-2022,Neonatal mortality rate (deaths per 1000 live births),Males,4.56
-2023,Neonatal mortality rate (deaths per 1000 live births),Males,3.51
+Year,Sex,Value
+2015,Both Sexes,3.47
+2016,Both Sexes,6.48
+2017,Both Sexes,4.63
+2018,Both Sexes,4.5
+2019,Both Sexes,4.14
+2020,Both Sexes,3.4
+2021,Both Sexes,2.73
+2022,Both Sexes,3.95
+2023,Both Sexes,3.14
+2015,Females,2.83
+2016,Females,5.68
+2017,Females,3.33
+2018,Females,3.23
+2019,Females,4.78
+2020,Females,3.28
+2021,Females,3.72
+2022,Females,3.78
+2023,Females,2.75
+2015,Males,4.08
+2016,Males,7.19
+2017,Males,5.87
+2018,Males,5.71
+2019,Males,3.54
+2020,Males,3.5
+2021,Males,1.78
+2022,Males,4.56
+2023,Males,3.51

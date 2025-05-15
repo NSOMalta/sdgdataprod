@@ -20,8 +20,7 @@
             "constraints": {
               "enum": [
                 "1. Adjusted gender parity index for completion rate, by education level",
-                "2. Adjusted gender parity index for participation rate in formal and non-formal education and training",
-                "3. Adjusted gender parity index for participation rate in organized learning (one year before the official Primary entry age)",
+                "2. Adjusted gender parity index for participation rate in organised learning (one year before the official primary entry age)",
                 ""
               ]
             }
@@ -34,19 +33,6 @@
                 "Primary",
                 "Lower secondary",
                 "Upper secondary",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-64",
-                "15-24",
-                "25-54",
-                "55-64",
                 ""
               ]
             }

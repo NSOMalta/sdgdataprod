@@ -35,10 +35,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kilogrammes of CO2 per constant 2017 United States dollars",
-                "kilogrammes of CO2 per constant 2015 United States dollars",
+                "kgs of CO2 per constant 2017 US$",
+                "kgs of CO2 per constant 2015 US$",
                 "millions of tonnes",
-                "kilogrammes of CO2 emissions per Euro",
+                "kgs of CO2 emissions per Euro",
                 ""
               ]
             },

@@ -1,37 +1,41 @@
 Year,Series,Age,Value
-2015,Proportion of women in managerial positions (%),All Ages,26.6
-2015,Proportion of women in managerial positions (%),25-49,30.7
-2015,Proportion of women in managerial positions (%),50+,17.2
-2016,Proportion of women in managerial positions (%),All Ages,27.8
-2016,Proportion of women in managerial positions (%),25-49,32.4
-2016,Proportion of women in managerial positions (%),50+,14.5
-2017,Proportion of women in managerial positions (%),All Ages,28.6
-2017,Proportion of women in managerial positions (%),25-49,31.8
-2017,Proportion of women in managerial positions (%),50+,20.3
-2018,Proportion of women in managerial positions (%),All Ages,28.8
-2018,Proportion of women in managerial positions (%),25-49,30.1
-2018,Proportion of women in managerial positions (%),50+,25.7
-2019,Proportion of women in managerial positions (%),All Ages,29.6
-2019,Proportion of women in managerial positions (%),25-49,30.3
-2019,Proportion of women in managerial positions (%),50+,28.9
-2020,Proportion of women in managerial positions (%),All Ages,27.8
-2020,Proportion of women in managerial positions (%),25-49,26.0
-2020,Proportion of women in managerial positions (%),50+,32.6
+2015,Proportion of women in managerial positions (%),All Ages,26.7
+2016,Proportion of women in managerial positions (%),All Ages,27.0
+2017,Proportion of women in managerial positions (%),All Ages,28.2
+2018,Proportion of women in managerial positions (%),All Ages,28.9
+2019,Proportion of women in managerial positions (%),All Ages,30.0
+2020,Proportion of women in managerial positions (%),All Ages,28.0
 2021,Proportion of women in managerial positions (%),All Ages,28.9
-2021,Proportion of women in managerial positions (%),25-49,32.7
-2021,Proportion of women in managerial positions (%),50+,19.8
-2022,Proportion of women in managerial positions (%),All Ages,33.1
-2022,Proportion of women in managerial positions (%),25-49,34.2
-2022,Proportion of women in managerial positions (%),50+,25.3
-2023,Proportion of women in managerial positions (%),All Ages,34.9
+2022,Proportion of women in managerial positions (%),All Ages,32.1
+2023,Proportion of women in managerial positions (%),All Ages,34.6
+2024,Proportion of women in managerial positions (%),All Ages,35.8
+2015,Proportion of women in managerial positions (%),25-49,31.0
+2016,Proportion of women in managerial positions (%),25-49,32.1
+2017,Proportion of women in managerial positions (%),25-49,32.0
+2018,Proportion of women in managerial positions (%),25-49,30.1
+2019,Proportion of women in managerial positions (%),25-49,30.4
+2020,Proportion of women in managerial positions (%),25-49,26.0
+2021,Proportion of women in managerial positions (%),25-49,32.8
+2022,Proportion of women in managerial positions (%),25-49,34.1
 2023,Proportion of women in managerial positions (%),25-49,37.6
-2023,Proportion of women in managerial positions (%),50+,26.4
-2015,Proportion of women in senior and middle management positions (%),,25.5
-2016,Proportion of women in senior and middle management positions (%),,28.3
-2017,Proportion of women in senior and middle management positions (%),,28.2
-2018,Proportion of women in senior and middle management positions (%),,27.5
-2019,Proportion of women in senior and middle management positions (%),,28.8
-2020,Proportion of women in senior and middle management positions (%),,25.8
-2021,Proportion of women in senior and middle management positions (%),,29.8
-2022,Proportion of women in senior and middle management positions (%),,34.9
-2023,Proportion of women in senior and middle management positions (%),,34.8
+2024,Proportion of women in managerial positions (%),25-49,39.2
+2015,Proportion of women in managerial positions (%),50+,17.1
+2016,Proportion of women in managerial positions (%),50+,15.3
+2017,Proportion of women in managerial positions (%),50+,19.7
+2018,Proportion of women in managerial positions (%),50+,25.9
+2019,Proportion of women in managerial positions (%),50+,29.1
+2020,Proportion of women in managerial positions (%),50+,32.9
+2021,Proportion of women in managerial positions (%),50+,19.3
+2022,Proportion of women in managerial positions (%),50+,25.9
+2023,Proportion of women in managerial positions (%),50+,26.1
+2024,Proportion of women in managerial positions (%),50+,27.9
+2015,Proportion of women in senior and middle management positions (%),,25.6
+2016,Proportion of women in senior and middle management positions (%),,27.6
+2017,Proportion of women in senior and middle management positions (%),,27.9
+2018,Proportion of women in senior and middle management positions (%),,27.6
+2019,Proportion of women in senior and middle management positions (%),,28.9
+2020,Proportion of women in senior and middle management positions (%),,26.0
+2021,Proportion of women in senior and middle management positions (%),,29.9
+2022,Proportion of women in senior and middle management positions (%),,33.4
+2023,Proportion of women in senior and middle management positions (%),,34.4
+2024,Proportion of women in senior and middle management positions (%),,35.8

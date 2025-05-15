@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of groundwater bodies exceeding the nitrate quality standard of 50mg/L",
-                "Percentage of total number of groundwater bodies with quantitative status having a good chemical status",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

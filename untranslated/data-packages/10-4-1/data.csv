@@ -9,12 +9,11 @@ Year,Series,Citizenship,Value
 2017,1. Labour share of GDP,,47.1
 2018,1. Labour share of GDP,,48.9
 2019,1. Labour share of GDP,,50.8
-2020,1. Labour share of GDP,,52.4
+2020,1. Labour share of GDP,,52.5
 2021,1. Labour share of GDP,,49.9
-2022,1. Labour share of GDP,,50.0
-2023,1. Labour share of GDP,,48.4
-2010,2. Employment rate by citizenship (15 to 64 age bracket),Maltese,56.2
-2011,2. Employment rate by citizenship (15 to 64 age bracket),Maltese,57.9
+2022,1. Labour share of GDP,,50.4
+2023,1. Labour share of GDP,,49.5
+2024,1. Labour share of GDP,,50.3
 2012,2. Employment rate by citizenship (15 to 64 age bracket),Maltese,58.9
 2013,2. Employment rate by citizenship (15 to 64 age bracket),Maltese,60.8
 2014,2. Employment rate by citizenship (15 to 64 age bracket),Maltese,62.7
@@ -27,8 +26,7 @@ Year,Series,Citizenship,Value
 2021,2. Employment rate by citizenship (15 to 64 age bracket),Maltese,73.5
 2022,2. Employment rate by citizenship (15 to 64 age bracket),Maltese,75.4
 2023,2. Employment rate by citizenship (15 to 64 age bracket),Maltese,75.0
-2010,2. Employment rate by citizenship (15 to 64 age bracket),EU citizens,64.0
-2011,2. Employment rate by citizenship (15 to 64 age bracket),EU citizens,61.0
+2024,2. Employment rate by citizenship (15 to 64 age bracket),Maltese,76.1
 2012,2. Employment rate by citizenship (15 to 64 age bracket),EU citizens,76.3
 2013,2. Employment rate by citizenship (15 to 64 age bracket),EU citizens,84.2
 2014,2. Employment rate by citizenship (15 to 64 age bracket),EU citizens,84.3
@@ -41,8 +39,7 @@ Year,Series,Citizenship,Value
 2021,2. Employment rate by citizenship (15 to 64 age bracket),EU citizens,85.3
 2022,2. Employment rate by citizenship (15 to 64 age bracket),EU citizens,83.6
 2023,2. Employment rate by citizenship (15 to 64 age bracket),EU citizens,83.4
-2010,2. Employment rate by citizenship (15 to 64 age bracket),Non-EU citizens,55.7
-2011,2. Employment rate by citizenship (15 to 64 age bracket),Non-EU citizens,59.1
+2024,2. Employment rate by citizenship (15 to 64 age bracket),EU citizens,85.4
 2012,2. Employment rate by citizenship (15 to 64 age bracket),Non-EU citizens,79.3
 2013,2. Employment rate by citizenship (15 to 64 age bracket),Non-EU citizens,78.4
 2014,2. Employment rate by citizenship (15 to 64 age bracket),Non-EU citizens,70.1
@@ -55,3 +52,4 @@ Year,Series,Citizenship,Value
 2021,2. Employment rate by citizenship (15 to 64 age bracket),Non-EU citizens,70.7
 2022,2. Employment rate by citizenship (15 to 64 age bracket),Non-EU citizens,76.7
 2023,2. Employment rate by citizenship (15 to 64 age bracket),Non-EU citizens,83.6
+2024,2. Employment rate by citizenship (15 to 64 age bracket),Non-EU citizens,85.4

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MVA (current US$) as a proportion of GDP",
+                "MVA as a proportion of GDP",
                 "MVA per capita (constant 2015 US$)",
                 ""
               ]
@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "current US$",
+                "Percentage (%)",
                 "constant 2015 US$",
                 ""
               ]

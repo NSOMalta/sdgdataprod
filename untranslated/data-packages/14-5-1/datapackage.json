@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas",
+                "Surface of the marine protected areas",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

@@ -22,6 +22,7 @@
                 "1. Proportion of positions in parliament compared to national distributions",
                 "2. Proportion of positions in the public service compared to national distributions",
                 "3. Proportion of positions in the judiciary compared to national distributions",
+                "4. Number of parliamentarians",
                 ""
               ]
             }
@@ -33,7 +34,6 @@
               "enum": [
                 "<=45Y",
                 "Total",
-                "<35Y",
                 "<45Y",
                 ""
               ]
@@ -46,6 +46,7 @@
               "enum": [
                 "Both Sexes",
                 "Females",
+                "Males",
                 ""
               ]
             }
@@ -55,11 +56,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",
                 "Managers",
                 "Professionals",
                 "Technicians and Associate Professionals",
                 "Clerical Support Workers",
+                "Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",
                 ""
               ]
             }
@@ -73,6 +74,17 @@
                 "Higher Courts",
                 "Lower Courts",
                 "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio",
+                "Number",
                 ""
               ]
             }

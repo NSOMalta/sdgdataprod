@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Total number of referrals received by the Child Protection Services concerning service users aged <1 to 14 years",
-                "2. Rate of referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population",
+                "Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years",
+                "Rate of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14",
                 ""
               ]
             }
@@ -31,7 +31,7 @@
             "constraints": {
               "enum": [
                 "Number",
-                "Per 1,000 population",
+                "Per 1,000 population aged 0-14",
                 ""
               ]
             }

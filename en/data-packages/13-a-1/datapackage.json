@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bilateral/regional funding channels",
                 "All funding channels",
+                "Bilateral/regional funding channels",
                 "Multilateral funding channels",
                 ""
               ]

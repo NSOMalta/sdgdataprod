@@ -7,6 +7,8 @@ Year,Series,Type of product,Value
 2022,"Indicator of Food Price Anomalies (IFPA), by type of product",Flour,0.3
 2023,"Indicator of Food Price Anomalies (IFPA), by type of product",Rice,0.4
 2023,"Indicator of Food Price Anomalies (IFPA), by type of product",Flour,0.3
+2024,"Indicator of Food Price Anomalies (IFPA), by type of product",Flour,-0.17
+2024,"Indicator of Food Price Anomalies (IFPA), by type of product",Rice,-0.06
 2010,"Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index",,-1.86
 2011,"Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index",,-0.54
 2012,"Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index",,0.18

@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Index",
-                "Percent (%)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -53,9 +42,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "11-year-olds",
                 "13-year-olds",
                 "15-year-olds",
+                "11-year-olds",
                 ""
               ]
             }
@@ -65,8 +54,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Females",
-                "Males",
+                "Male",
+                "Female",
                 ""
               ]
             }

@@ -1,4 +1,4 @@
 From,To
-Age,Sex
-Sex,Type of Occupation
-Sex,Court Level
+Sex,Age
+Age,Type of Occupation
+Age,Court Level
