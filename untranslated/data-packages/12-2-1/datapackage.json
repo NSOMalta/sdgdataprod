@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ecologial footprint per person",
+                "Ecological footprint per person",
                 "Biocapacity per person",
                 "Biocapacity deficit",
                 ""
