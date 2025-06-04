@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Domestic Material Consumption (DMC)",
-                "2. DMC per capita",
-                "3. GDP per unit of DMC (Resource Productivity)",
-                "4. Domestic Material Consumption (DMC) in Index form",
-                "5. DMC per capita in Index form",
-                "6. GDP per unit of DMC (Resource Productivity) in Index form",
+                "Domestic Material Consumption (DMC)",
+                "DMC per capita",
+                "GDP per unit of DMC (Resource Productivity)",
+                "Domestic Material Consumption (DMC) in Index form",
+                "DMC per capita in Index form",
+                "GDP per unit of DMC (Resource Productivity) in Index form",
                 ""
               ]
             },
