@@ -12,6 +12,7 @@ Year,Series,Value
 2020,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%),98
 2021,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%),99
 2022,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%),98
+2023,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%),98
 2013,Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%),29
 2014,Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%),91
 2015,Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%),87
@@ -22,6 +23,7 @@ Year,Series,Value
 2020,Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%),82
 2021,Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%),96
 2022,Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%),76
+2023,Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%),73
 2010,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%),85
 2011,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%),85
 2012,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%),91
@@ -35,5 +37,7 @@ Year,Series,Value
 2020,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%),99
 2021,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%),93
 2022,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%),95
+2023,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%),95
 2021,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine (%),99
 2022,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine (%),99
+2023,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine (%),97

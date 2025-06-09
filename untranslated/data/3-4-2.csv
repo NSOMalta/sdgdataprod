@@ -10,6 +10,7 @@ Year,Sex,Value
 2019,Both Sexes,3.95
 2020,Both Sexes,3.98
 2021,Both Sexes,6.59
+2022,Both Sexes,5.21
 2011,Females,0.88
 2012,Females,2.87
 2013,Females,0.4
@@ -21,6 +22,7 @@ Year,Sex,Value
 2019,Females,0.38
 2020,Females,2.72
 2021,Females,3.88
+2022,Females,1.5
 2011,Males,8.87
 2012,Males,11.13
 2013,Males,9.63
@@ -32,3 +34,4 @@ Year,Sex,Value
 2019,Males,7.2
 2020,Males,5.06
 2021,Males,9.09
+2022,Males,9.14
