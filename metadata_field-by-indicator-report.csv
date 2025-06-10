@@ -172,7 +172,7 @@ World Health Organization (WHO)",,,,,line
 World Health Organization (WHO)",,,,Percentage (%),bar
 #2-2-3,complete,World Health Organization (WHO),,,,Percentage (%),line
 #2-2-4,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
-#2-3-1,complete,Food and Agriculture Organization (FAO),,,,Constant PPP USD 2017,line
+#2-3-1,complete,Food and Agriculture Organization (FAO),,,,Constant 2017 international $,line
 #2-3-2,notstarted,Food and Agriculture Organization (FAO),,,,,line
 #2-4-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #2-5-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,Number,line
@@ -195,11 +195,11 @@ World Health Organization (WHO)",,,,Percentage (%),bar
 #3-5-1,inprogress,"World Health Organization (WHO) 
 United Nations Office on Drugs and Crime (UNODC) ",,,,,line
 #3-5-2,complete,World Health Organization (WHO) ,,,,Litres of pure alcohol,line
-#3-6-1,complete,World Health Organization (WHO) ,,,,Standardised death rate,line
+#3-6-1,complete,World Health Organization (WHO) ,,,,"Per 100,000 population",line
 #3-7-1,notstarted,"Population Division, Department of Economic and Social Affairs (DESA)
 United Nations Population Fund (UNFPA)",,,,,line
 #3-7-2,complete,"Population Division, Department of Economic and Social Affairs (DESA) 
-United Nations Population Fund (UNFPA)",,,,"Per 1,000 women",line
+United Nations Population Fund (UNFPA)",,,,,line
 #3-8-1,complete,World Health Organization (WHO) ,,,,,line
 #3-8-2,complete,World Health Organization (WHO) and the World Bank,,,,Percentage (%),bar
 #3-9-1,notstarted,World Health Organization (WHO),,,,,line
@@ -293,7 +293,7 @@ International Labour Organization (ILO)",,,,,line
 #8-8-1,complete,International Labour Organisation (ILO),,,,,line
 #8-8-2,complete,International Labour Organization (ILO),,,,Score,line
 #8-9-1,complete,World Tourism Organization (UNWTO) ,,,,Percentage (%),line
-#8-9-2,notstarted,World Tourism Organization (UN Tourism) with the collaboration of the International Labour Organization (ILO).,True,,,,line
+#8-9-2,complete,World Tourism Organization (UN Tourism) with the collaboration of the International Labour Organization (ILO).,,,,Number of Persons,line
 #8-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
 #8-b-1,complete,International Labour Organization (ILO),,,,,line
 #9-1-1,complete,World Bank,,,,Percentage (%),line

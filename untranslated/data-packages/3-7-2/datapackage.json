@@ -19,8 +19,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Adolescent birth rate (per 1,000 women aged 10-14 years)",
-                "Adolescent birth rate (per 1,000 women aged 15-19 years)",
+                "Adolescent birth rate (10-14 years)",
+                "Adolescent birth rate (15-19 years)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 1,000 women aged 10-14 years",
+                "Per 1,000 women aged 15-19 years",
                 ""
               ]
             }
