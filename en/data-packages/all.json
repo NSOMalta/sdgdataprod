@@ -97,9 +97,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All Sexes",
-                "Female",
-                "Male",
+                "Both Sexes",
+                "Females",
+                "Males",
                 ""
               ]
             },
@@ -8089,7 +8089,7 @@
           }
         ]
       },
-      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
+      "title": "Additional financial resources mobilized for developing countries from multiple sources"
     },
     {
       "path": "11-b-1/data.csv",

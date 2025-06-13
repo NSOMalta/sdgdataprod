@@ -1,23 +1,23 @@
 Year,Series,Sex,Value
-2010,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",All Sexes,330.92
-2010,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Female,277.91
-2010,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Male,333.75
-2013,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Female,331.9
-2013,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",All Sexes,266.1
-2013,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Male,264.06
-2016,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Male,248.19
-2016,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Female,209.21
-2016,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",All Sexes,246.6
-2020,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Male,370.89
-2020,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",All Sexes,359.26
-2020,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Female,150.44
-2010,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Female,47.26
-2010,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",All Sexes,52.83
-2010,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Male,53.32
-2013,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",All Sexes,56.48
-2013,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Male,59.76
-2016,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",All Sexes,46.25
-2016,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Male,46.48
-2020,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",All Sexes,65.72
-2020,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Female,55.15
-2020,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Male,66.56
+2010,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Both Sexes,330.92
+2013,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Both Sexes,266.1
+2016,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Both Sexes,246.6
+2020,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Both Sexes,359.26
+2010,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Both Sexes,52.83
+2013,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Both Sexes,56.48
+2016,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Both Sexes,46.25
+2020,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Both Sexes,65.72
+2010,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Females,277.91
+2013,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Females,331.9
+2016,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Females,209.21
+2020,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Females,150.44
+2010,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Females,47.26
+2020,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Females,55.15
+2010,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Males,333.75
+2013,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Males,264.06
+2016,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Males,248.19
+2020,"Productivity of large-scale food producers (agricultural output per labour day, PPP)",Males,370.89
+2010,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Males,53.32
+2013,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Males,59.76
+2016,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Males,46.48
+2020,"Productivity of small-scale food producers (agricultural output per labour day, PPP)",Males,66.56
