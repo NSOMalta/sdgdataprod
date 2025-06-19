@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Agriculture",
                 "Industries",
+                "Agriculture",
                 "Services",
+                "Total",
                 ""
               ]
             }

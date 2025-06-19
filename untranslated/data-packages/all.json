@@ -2814,10 +2814,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Agriculture",
                 "Industries",
+                "Agriculture",
                 "Services",
+                "Total",
                 ""
               ]
             }
@@ -3930,7 +3930,7 @@
             "constraints": {
               "enum": [
                 "MVA as a proportion of GDP",
-                "MVA per capita (constant 2015 US$)",
+                "MVA per capita",
                 ""
               ]
             }
@@ -3941,7 +3941,7 @@
             "constraints": {
               "enum": [
                 "Percentage (%)",
-                "constant 2015 US$",
+                "Constant 2015 US$",
                 ""
               ]
             }
