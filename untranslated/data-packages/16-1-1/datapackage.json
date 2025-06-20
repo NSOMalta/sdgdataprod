@@ -30,9 +30,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Both Sexes",
                 "Females",
                 "Males",
+                "Both Sexes",
                 ""
               ]
             }
@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 mid-year population",
+                "Per 100,000 population",
                 "Number of victims",
                 ""
               ]
