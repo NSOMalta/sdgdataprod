@@ -5007,9 +5007,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Both Sexes",
                 "Females",
                 "Males",
-                "Both Sexes",
                 ""
               ]
             }
