@@ -1,1 +1,91 @@
-Year,Value
+Year,Series,Sex,Units,Value
+2010,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,5.5
+2011,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,5.4
+2012,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,5.2
+2013,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,5.0
+2014,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,4.6
+2015,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,4.2
+2016,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,4.0
+2017,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,3.7
+2018,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,3.6
+2019,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,3.6
+2020,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,3.5
+2021,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,3.5
+2022,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,3.5
+2023,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,3.5
+2024,Proportion of children moderately or severely stunted,Both Sexes,Percentage of children aged 0-59 months,3.5
+2010,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,4.8
+2011,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,4.7
+2012,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,4.6
+2013,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,4.4
+2014,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,4.0
+2015,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,3.7
+2016,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,3.5
+2017,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,3.3
+2018,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,3.2
+2019,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,3.2
+2020,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,3.1
+2021,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,3.1
+2022,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,3.1
+2023,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,3.1
+2024,Proportion of children moderately or severely stunted,Females,Percentage of children aged 0-59 months,3.1
+2010,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,6.3
+2011,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,6.1
+2012,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,6.0
+2013,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,5.7
+2014,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,5.2
+2015,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,4.7
+2016,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,4.5
+2017,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,4.2
+2018,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,4.1
+2019,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,4.0
+2020,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,4.0
+2021,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,3.9
+2022,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,3.9
+2023,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,3.9
+2024,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,3.9
+2010,Children moderately or severely stunted,Both Sexes,Thousands,1.1
+2011,Children moderately or severely stunted,Both Sexes,Thousands,1.1
+2012,Children moderately or severely stunted,Both Sexes,Thousands,1.1
+2013,Children moderately or severely stunted,Both Sexes,Thousands,1.0
+2014,Children moderately or severely stunted,Both Sexes,Thousands,1.0
+2015,Children moderately or severely stunted,Both Sexes,Thousands,0.9
+2016,Children moderately or severely stunted,Both Sexes,Thousands,0.9
+2017,Children moderately or severely stunted,Both Sexes,Thousands,0.9
+2018,Children moderately or severely stunted,Both Sexes,Thousands,0.8
+2019,Children moderately or severely stunted,Both Sexes,Thousands,0.8
+2020,Children moderately or severely stunted,Both Sexes,Thousands,0.8
+2021,Children moderately or severely stunted,Both Sexes,Thousands,0.8
+2022,Children moderately or severely stunted,Both Sexes,Thousands,0.8
+2023,Children moderately or severely stunted,Both Sexes,Thousands,0.8
+2024,Children moderately or severely stunted,Both Sexes,Thousands,0.8
+2010,Children moderately or severely stunted,Females,Thousands,0.5
+2011,Children moderately or severely stunted,Females,Thousands,0.5
+2012,Children moderately or severely stunted,Females,Thousands,0.5
+2013,Children moderately or severely stunted,Females,Thousands,0.4
+2014,Children moderately or severely stunted,Females,Thousands,0.4
+2015,Children moderately or severely stunted,Females,Thousands,0.4
+2016,Children moderately or severely stunted,Females,Thousands,0.4
+2017,Children moderately or severely stunted,Females,Thousands,0.4
+2018,Children moderately or severely stunted,Females,Thousands,0.4
+2019,Children moderately or severely stunted,Females,Thousands,0.4
+2020,Children moderately or severely stunted,Females,Thousands,0.3
+2021,Children moderately or severely stunted,Females,Thousands,0.3
+2022,Children moderately or severely stunted,Females,Thousands,0.3
+2023,Children moderately or severely stunted,Females,Thousands,0.3
+2024,Children moderately or severely stunted,Females,Thousands,0.3
+2010,Children moderately or severely stunted,Males,Thousands,0.6
+2011,Children moderately or severely stunted,Males,Thousands,0.6
+2012,Children moderately or severely stunted,Males,Thousands,0.6
+2013,Children moderately or severely stunted,Males,Thousands,0.6
+2014,Children moderately or severely stunted,Males,Thousands,0.6
+2015,Children moderately or severely stunted,Males,Thousands,0.5
+2016,Children moderately or severely stunted,Males,Thousands,0.5
+2017,Children moderately or severely stunted,Males,Thousands,0.5
+2018,Children moderately or severely stunted,Males,Thousands,0.5
+2019,Children moderately or severely stunted,Males,Thousands,0.5
+2020,Children moderately or severely stunted,Males,Thousands,0.5
+2021,Children moderately or severely stunted,Males,Thousands,0.5
+2022,Children moderately or severely stunted,Males,Thousands,0.5
+2023,Children moderately or severely stunted,Males,Thousands,0.5
+2024,Children moderately or severely stunted,Males,Thousands,0.4
