@@ -44,48 +44,48 @@ Year,Series,Sex,Units,Value
 2022,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,3.9
 2023,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,3.9
 2024,Proportion of children moderately or severely stunted,Males,Percentage of children aged 0-59 months,3.9
-2010,Children moderately or severely stunted,Both Sexes,Thousands,1.1
-2011,Children moderately or severely stunted,Both Sexes,Thousands,1.1
-2012,Children moderately or severely stunted,Both Sexes,Thousands,1.1
-2013,Children moderately or severely stunted,Both Sexes,Thousands,1.0
-2014,Children moderately or severely stunted,Both Sexes,Thousands,1.0
-2015,Children moderately or severely stunted,Both Sexes,Thousands,0.9
-2016,Children moderately or severely stunted,Both Sexes,Thousands,0.9
-2017,Children moderately or severely stunted,Both Sexes,Thousands,0.9
-2018,Children moderately or severely stunted,Both Sexes,Thousands,0.8
-2019,Children moderately or severely stunted,Both Sexes,Thousands,0.8
-2020,Children moderately or severely stunted,Both Sexes,Thousands,0.8
-2021,Children moderately or severely stunted,Both Sexes,Thousands,0.8
-2022,Children moderately or severely stunted,Both Sexes,Thousands,0.8
-2023,Children moderately or severely stunted,Both Sexes,Thousands,0.8
-2024,Children moderately or severely stunted,Both Sexes,Thousands,0.8
-2010,Children moderately or severely stunted,Females,Thousands,0.5
-2011,Children moderately or severely stunted,Females,Thousands,0.5
-2012,Children moderately or severely stunted,Females,Thousands,0.5
-2013,Children moderately or severely stunted,Females,Thousands,0.4
-2014,Children moderately or severely stunted,Females,Thousands,0.4
-2015,Children moderately or severely stunted,Females,Thousands,0.4
-2016,Children moderately or severely stunted,Females,Thousands,0.4
-2017,Children moderately or severely stunted,Females,Thousands,0.4
-2018,Children moderately or severely stunted,Females,Thousands,0.4
-2019,Children moderately or severely stunted,Females,Thousands,0.4
-2020,Children moderately or severely stunted,Females,Thousands,0.3
-2021,Children moderately or severely stunted,Females,Thousands,0.3
-2022,Children moderately or severely stunted,Females,Thousands,0.3
-2023,Children moderately or severely stunted,Females,Thousands,0.3
-2024,Children moderately or severely stunted,Females,Thousands,0.3
-2010,Children moderately or severely stunted,Males,Thousands,0.6
-2011,Children moderately or severely stunted,Males,Thousands,0.6
-2012,Children moderately or severely stunted,Males,Thousands,0.6
-2013,Children moderately or severely stunted,Males,Thousands,0.6
-2014,Children moderately or severely stunted,Males,Thousands,0.6
-2015,Children moderately or severely stunted,Males,Thousands,0.5
-2016,Children moderately or severely stunted,Males,Thousands,0.5
-2017,Children moderately or severely stunted,Males,Thousands,0.5
-2018,Children moderately or severely stunted,Males,Thousands,0.5
-2019,Children moderately or severely stunted,Males,Thousands,0.5
-2020,Children moderately or severely stunted,Males,Thousands,0.5
-2021,Children moderately or severely stunted,Males,Thousands,0.5
-2022,Children moderately or severely stunted,Males,Thousands,0.5
-2023,Children moderately or severely stunted,Males,Thousands,0.5
-2024,Children moderately or severely stunted,Males,Thousands,0.4
+2010,Children moderately or severely stunted,Both Sexes,Number of children (thousands),1.1
+2011,Children moderately or severely stunted,Both Sexes,Number of children (thousands),1.1
+2012,Children moderately or severely stunted,Both Sexes,Number of children (thousands),1.1
+2013,Children moderately or severely stunted,Both Sexes,Number of children (thousands),1.0
+2014,Children moderately or severely stunted,Both Sexes,Number of children (thousands),1.0
+2015,Children moderately or severely stunted,Both Sexes,Number of children (thousands),0.9
+2016,Children moderately or severely stunted,Both Sexes,Number of children (thousands),0.9
+2017,Children moderately or severely stunted,Both Sexes,Number of children (thousands),0.9
+2018,Children moderately or severely stunted,Both Sexes,Number of children (thousands),0.8
+2019,Children moderately or severely stunted,Both Sexes,Number of children (thousands),0.8
+2020,Children moderately or severely stunted,Both Sexes,Number of children (thousands),0.8
+2021,Children moderately or severely stunted,Both Sexes,Number of children (thousands),0.8
+2022,Children moderately or severely stunted,Both Sexes,Number of children (thousands),0.8
+2023,Children moderately or severely stunted,Both Sexes,Number of children (thousands),0.8
+2024,Children moderately or severely stunted,Both Sexes,Number of children (thousands),0.8
+2010,Children moderately or severely stunted,Females,Number of children (thousands),0.5
+2011,Children moderately or severely stunted,Females,Number of children (thousands),0.5
+2012,Children moderately or severely stunted,Females,Number of children (thousands),0.5
+2013,Children moderately or severely stunted,Females,Number of children (thousands),0.4
+2014,Children moderately or severely stunted,Females,Number of children (thousands),0.4
+2015,Children moderately or severely stunted,Females,Number of children (thousands),0.4
+2016,Children moderately or severely stunted,Females,Number of children (thousands),0.4
+2017,Children moderately or severely stunted,Females,Number of children (thousands),0.4
+2018,Children moderately or severely stunted,Females,Number of children (thousands),0.4
+2019,Children moderately or severely stunted,Females,Number of children (thousands),0.4
+2020,Children moderately or severely stunted,Females,Number of children (thousands),0.3
+2021,Children moderately or severely stunted,Females,Number of children (thousands),0.3
+2022,Children moderately or severely stunted,Females,Number of children (thousands),0.3
+2023,Children moderately or severely stunted,Females,Number of children (thousands),0.3
+2024,Children moderately or severely stunted,Females,Number of children (thousands),0.3
+2010,Children moderately or severely stunted,Males,Number of children (thousands),0.6
+2011,Children moderately or severely stunted,Males,Number of children (thousands),0.6
+2012,Children moderately or severely stunted,Males,Number of children (thousands),0.6
+2013,Children moderately or severely stunted,Males,Number of children (thousands),0.6
+2014,Children moderately or severely stunted,Males,Number of children (thousands),0.6
+2015,Children moderately or severely stunted,Males,Number of children (thousands),0.5
+2016,Children moderately or severely stunted,Males,Number of children (thousands),0.5
+2017,Children moderately or severely stunted,Males,Number of children (thousands),0.5
+2018,Children moderately or severely stunted,Males,Number of children (thousands),0.5
+2019,Children moderately or severely stunted,Males,Number of children (thousands),0.5
+2020,Children moderately or severely stunted,Males,Number of children (thousands),0.5
+2021,Children moderately or severely stunted,Males,Number of children (thousands),0.5
+2022,Children moderately or severely stunted,Males,Number of children (thousands),0.5
+2023,Children moderately or severely stunted,Males,Number of children (thousands),0.5
+2024,Children moderately or severely stunted,Males,Number of children (thousands),0.4

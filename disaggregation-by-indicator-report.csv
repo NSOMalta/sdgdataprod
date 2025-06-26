@@ -27,7 +27,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-8-1,Sex,1
 #2-1-2,Sex,1
 #2-2-1,Sex,1
-#2-2-2,"Sex, Age, Body Mass Index",3
+#2-2-2,"Sex, Body Mass Index, Age",3
 #2-2-3,Pregnancy status,1
 #2-3-1,Sex,1
 #2-c-1,Type of product,1

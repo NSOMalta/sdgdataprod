@@ -22,7 +22,7 @@
                 "1. Proportion of children moderately or severely overweight",
                 "2. Children moderately or severely overweight",
                 "3. Obesity rate by body mass index",
-                "4. Percentage of children aged 11,13 and 15 years who are obese or overwieght",
+                "4. Percentage of children aged 11,13 and 15 years who are obese or overweight",
                 ""
               ]
             }
@@ -35,20 +35,6 @@
                 "Both Sexes",
                 "Females",
                 "Males",
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "13-year-olds",
-                "15-year-olds",
-                "11-year-olds",
                 ""
               ]
             }
@@ -66,14 +52,25 @@
             }
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "13-year-olds",
+                "15-year-olds",
+                "11-year-olds",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "Percentage of children aged 0-59 months",
-                "Thousands",
-                "Body Mass Index",
-                "Perccentage",
+                "Number of children (thousands)",
+                "Percentage",
                 ""
               ]
             }

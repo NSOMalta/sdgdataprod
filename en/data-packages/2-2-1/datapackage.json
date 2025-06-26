@@ -46,7 +46,7 @@
             "constraints": {
               "enum": [
                 "Percentage of children aged 0-59 months",
-                "Thousands",
+                "Number of children (thousands)",
                 ""
               ]
             },
