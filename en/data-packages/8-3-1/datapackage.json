@@ -16,30 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Activity",
+            "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
                 "Non-agriculture",
-                "All Activities",
-                "Agriculture, forestry and fishing",
+                "Total",
                 ""
               ]
             },
-            "title": "Activity"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both Sexes",
-                "Females",
-                "Males",
-                ""
-              ]
-            },
-            "title": "Sex"
+            "title": "Sector"
           },
           {
             "name": "Value",

@@ -19,11 +19,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)",
-                "2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)",
-                "3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors",
-                "4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)",
-                "5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)",
+                "1. Carbon dioxide emissions from fuel combustion",
+                "2. Carbon dioxide emissions per unit of GDP PPP",
+                "3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added",
+                "4. CO2 emissions per unit of value added",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing excluding specific sectors",
+                "Total",
                 ""
               ]
             }
@@ -33,10 +43,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kgs of CO2 per constant 2017 US$",
-                "kgs of CO2 per constant 2015 US$",
-                "millions of tonnes",
-                "kgs of CO2 emissions per Euro",
+                "Millions of tonnes",
+                "Kgs of CO2 per constant 2021 US$",
+                "Kgs of CO2 per constant 2015 US$",
+                "Kgs of CO2 emissions per Euro",
                 ""
               ]
             }

@@ -1,62 +1,40 @@
 Year,Value,Units,Series
-2010,0.19,kgs of CO2 per constant 2017 US$,1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-2011,0.19,kgs of CO2 per constant 2017 US$,1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-2012,0.19,kgs of CO2 per constant 2017 US$,1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-2013,0.16,kgs of CO2 per constant 2017 US$,1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-2014,0.14,kgs of CO2 per constant 2017 US$,1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-2015,0.09,kgs of CO2 per constant 2017 US$,1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-2016,0.07,kgs of CO2 per constant 2017 US$,1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-2017,0.07,kgs of CO2 per constant 2017 US$,1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-2018,0.07,kgs of CO2 per constant 2017 US$,1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-2019,0.07,kgs of CO2 per constant 2017 US$,1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-2020,0.07,kgs of CO2 per constant 2017 US$,1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-2021,0.07,kgs of CO2 per constant 2017 US$,1. Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)
-2010,0.04,kgs of CO2 per constant 2015 US$,2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-2011,0.02,kgs of CO2 per constant 2015 US$,2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-2012,0.03,kgs of CO2 per constant 2015 US$,2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-2013,0.06,kgs of CO2 per constant 2015 US$,2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-2014,0.07,kgs of CO2 per constant 2015 US$,2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-2015,0.06,kgs of CO2 per constant 2015 US$,2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-2016,0.06,kgs of CO2 per constant 2015 US$,2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-2017,0.06,kgs of CO2 per constant 2015 US$,2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-2018,0.05,kgs of CO2 per constant 2015 US$,2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-2019,0.03,kgs of CO2 per constant 2015 US$,2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-2020,0.03,kgs of CO2 per constant 2015 US$,2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-2021,0.03,kgs of CO2 per constant 2015 US$,2. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-2010,0.03,millions of tonnes,3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-2011,0.02,millions of tonnes,3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-2012,0.03,millions of tonnes,3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-2013,0.05,millions of tonnes,3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-2014,0.06,millions of tonnes,3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-2015,0.05,millions of tonnes,3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-2016,0.05,millions of tonnes,3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-2017,0.05,millions of tonnes,3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-2018,0.04,millions of tonnes,3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-2019,0.03,millions of tonnes,3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-2020,0.03,millions of tonnes,3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-2021,0.03,millions of tonnes,3. Carbon dioxide emissions from fuel combustion (millions of tonnes) for Manufacturing excluding specific sectors
-2010,2.59,millions of tonnes,4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-2011,2.57,millions of tonnes,4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-2012,2.72,millions of tonnes,4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-2013,2.37,millions of tonnes,4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-2014,2.36,millions of tonnes,4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-2015,1.66,millions of tonnes,4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-2016,1.35,millions of tonnes,4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-2017,1.52,millions of tonnes,4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-2018,1.55,millions of tonnes,4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-2019,1.66,millions of tonnes,4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-2020,1.61,millions of tonnes,4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-2021,1.62,millions of tonnes,4. Total carbon dioxide emissions from fuel combustion (millions of tonnes)
-2010,0.34,kgs of CO2 emissions per Euro,5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
-2011,0.34,kgs of CO2 emissions per Euro,5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
-2012,0.35,kgs of CO2 emissions per Euro,5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
-2013,0.29,kgs of CO2 emissions per Euro,5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
-2014,0.28,kgs of CO2 emissions per Euro,5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
-2015,0.19,kgs of CO2 emissions per Euro,5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
-2016,0.15,kgs of CO2 emissions per Euro,5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
-2017,0.15,kgs of CO2 emissions per Euro,5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
-2018,0.15,kgs of CO2 emissions per Euro,5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
-2019,0.18,kgs of CO2 emissions per Euro,5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
-2020,0.17,kgs of CO2 emissions per Euro,5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
-2021,0.18,kgs of CO2 emissions per Euro,5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
-2022,0.21,kgs of CO2 emissions per Euro,5. CO2 emission per unit of value added (kilogrammes of CO2 emissions per Euro)
+2010,0.16,Kgs of CO2 per constant 2021 US$,2. Carbon dioxide emissions per unit of GDP PPP
+2011,0.16,Kgs of CO2 per constant 2021 US$,2. Carbon dioxide emissions per unit of GDP PPP
+2012,0.16,Kgs of CO2 per constant 2021 US$,2. Carbon dioxide emissions per unit of GDP PPP
+2013,0.13,Kgs of CO2 per constant 2021 US$,2. Carbon dioxide emissions per unit of GDP PPP
+2014,0.12,Kgs of CO2 per constant 2021 US$,2. Carbon dioxide emissions per unit of GDP PPP
+2015,0.08,Kgs of CO2 per constant 2021 US$,2. Carbon dioxide emissions per unit of GDP PPP
+2016,0.06,Kgs of CO2 per constant 2021 US$,2. Carbon dioxide emissions per unit of GDP PPP
+2017,0.06,Kgs of CO2 per constant 2021 US$,2. Carbon dioxide emissions per unit of GDP PPP
+2018,0.06,Kgs of CO2 per constant 2021 US$,2. Carbon dioxide emissions per unit of GDP PPP
+2019,0.06,Kgs of CO2 per constant 2021 US$,2. Carbon dioxide emissions per unit of GDP PPP
+2020,0.06,Kgs of CO2 per constant 2021 US$,2. Carbon dioxide emissions per unit of GDP PPP
+2021,0.05,Kgs of CO2 per constant 2021 US$,2. Carbon dioxide emissions per unit of GDP PPP
+2022,0.06,Kgs of CO2 per constant 2021 US$,2. Carbon dioxide emissions per unit of GDP PPP
+2010,0.04,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+2011,0.02,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+2012,0.03,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+2013,0.06,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+2014,0.07,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+2015,0.06,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+2016,0.06,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+2017,0.06,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+2018,0.04,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+2019,0.05,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+2020,0.04,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+2021,0.04,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+2022,0.04,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
+2010,0.34,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2011,0.34,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2012,0.35,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2013,0.29,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2014,0.28,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2015,0.19,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2016,0.15,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2017,0.15,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2018,0.15,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2019,0.18,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2020,0.17,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2021,0.18,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2022,0.21,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added

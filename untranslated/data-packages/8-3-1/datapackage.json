@@ -15,25 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Activity",
+            "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
                 "Non-agriculture",
-                "All Activities",
-                "Agriculture, forestry and fishing",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both Sexes",
-                "Females",
-                "Males",
+                "Total",
                 ""
               ]
             }
