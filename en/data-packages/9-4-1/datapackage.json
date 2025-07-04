@@ -35,7 +35,7 @@
             "constraints": {
               "enum": [
                 "Manufacturing excluding specific sectors",
-                "Total",
+                "All Activities",
                 ""
               ]
             },
