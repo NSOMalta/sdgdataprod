@@ -1,70 +1,70 @@
 Year,Series,Outcome,Decision type,Units,Value
-2015,"Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",331.6
-2016,"Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",312.4
-2017,"Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",233.6
-2018,"Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",304.3
-2019,"Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",202.0
-2020,"Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",169.2
-2021,"Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",155.5
-2022,"Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",234.5
-2023,"Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",197.7
-2015,"Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,17.6
-2016,"Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,11.6
-2017,"Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,15.1
-2018,"Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,10.0
-2019,"Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,4.6
-2020,"Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,8.5
-2021,"Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,2.2
-2022,"Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,1.0
-2023,"Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,1.8
-2024,"Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,10.4
-2015,"Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,66.2
-2016,"Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,71.4
-2017,"Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,53.7
-2018,"Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,33.1
-2019,"Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,34.5
-2020,"Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,22.2
-2021,"Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,20.0
-2022,"Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,14.1
-2023,"Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,27.6
-2024,"Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,33.0
-2015,"Percentage outcome of processed applications, by decision",Rejections,,Percentage,16.2
-2016,"Percentage outcome of processed applications, by decision",Rejections,,Percentage,16.9
-2017,"Percentage outcome of processed applications, by decision",Rejections,,Percentage,31.3
-2018,"Percentage outcome of processed applications, by decision",Rejections,,Percentage,56.9
-2019,"Percentage outcome of processed applications, by decision",Rejections,,Percentage,60.9
-2020,"Percentage outcome of processed applications, by decision",Rejections,,Percentage,69.3
-2021,"Percentage outcome of processed applications, by decision",Rejections,,Percentage,77.8
-2022,"Percentage outcome of processed applications, by decision",Rejections,,Percentage,84.9
-2023,"Percentage outcome of processed applications, by decision",Rejections,,Percentage,70.6
-2024,"Percentage outcome of processed applications, by decision",Rejections,,Percentage,56.5
-2015,Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,433.0
-2016,Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,796.0
-2017,Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,1256.0
-2018,Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,1516.0
-2019,Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,3574.0
-2020,Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,4321.0
-2021,Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,3262.0
-2022,Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,2090.0
-2023,Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,1027.0
-2024,Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,591.0
-2015,Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,383.0
-2016,Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,276.0
-2017,Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,246.0
-2018,Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,504.0
-2019,Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,685.0
-2020,Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,817.0
-2021,Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,751.0
-2022,Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,884.0
-2023,Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,954.0
-2024,Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,906.0
-2015,Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,816.0
-2016,Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,1072.0
-2017,Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,1502.0
-2018,Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,2020.0
-2019,Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,4259.0
-2020,Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,5138.0
-2021,Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,4013.0
-2022,Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,2974.0
-2023,Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,1981.0
-2024,Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,1497.0
+2015,"1. Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",331.6
+2016,"1. Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",312.4
+2017,"1. Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",233.6
+2018,"1. Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",304.3
+2019,"1. Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",202.0
+2020,"1. Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",169.2
+2021,"1. Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",155.5
+2022,"1. Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",234.5
+2023,"1. Number of asylum first instance decisions per 100,000 population",,,"Number per 100,000 population",197.7
+2015,"2. Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,17.6
+2016,"2. Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,11.6
+2017,"2. Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,15.1
+2018,"2. Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,10.0
+2019,"2. Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,4.6
+2020,"2. Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,8.5
+2021,"2. Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,2.2
+2022,"2. Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,1.0
+2023,"2. Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,1.8
+2024,"2. Percentage outcome of processed applications, by decision",Granted refugee status,,Percentage,10.4
+2015,"2. Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,66.2
+2016,"2. Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,71.4
+2017,"2. Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,53.7
+2018,"2. Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,33.1
+2019,"2. Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,34.5
+2020,"2. Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,22.2
+2021,"2. Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,20.0
+2022,"2. Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,14.1
+2023,"2. Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,27.6
+2024,"2. Percentage outcome of processed applications, by decision",Other forms of protection status,,Percentage,33.0
+2015,"2. Percentage outcome of processed applications, by decision",Rejections,,Percentage,16.2
+2016,"2. Percentage outcome of processed applications, by decision",Rejections,,Percentage,16.9
+2017,"2. Percentage outcome of processed applications, by decision",Rejections,,Percentage,31.3
+2018,"2. Percentage outcome of processed applications, by decision",Rejections,,Percentage,56.9
+2019,"2. Percentage outcome of processed applications, by decision",Rejections,,Percentage,60.9
+2020,"2. Percentage outcome of processed applications, by decision",Rejections,,Percentage,69.3
+2021,"2. Percentage outcome of processed applications, by decision",Rejections,,Percentage,77.8
+2022,"2. Percentage outcome of processed applications, by decision",Rejections,,Percentage,84.9
+2023,"2. Percentage outcome of processed applications, by decision",Rejections,,Percentage,70.6
+2024,"2. Percentage outcome of processed applications, by decision",Rejections,,Percentage,56.5
+2015,3. Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,433.0
+2016,3. Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,796.0
+2017,3. Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,1256.0
+2018,3. Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,1516.0
+2019,3. Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,3574.0
+2020,3. Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,4321.0
+2021,3. Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,3262.0
+2022,3. Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,2090.0
+2023,3. Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,1027.0
+2024,3. Total asylum decisions pending as at end of year,,Pending asylum application decision (first instance decision),Number of decisions,591.0
+2015,3. Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,383.0
+2016,3. Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,276.0
+2017,3. Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,246.0
+2018,3. Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,504.0
+2019,3. Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,685.0
+2020,3. Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,817.0
+2021,3. Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,751.0
+2022,3. Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,884.0
+2023,3. Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,954.0
+2024,3. Total asylum decisions pending as at end of year,,Pending appeal decision (final instance decision),Number of decisions,906.0
+2015,3. Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,816.0
+2016,3. Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,1072.0
+2017,3. Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,1502.0
+2018,3. Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,2020.0
+2019,3. Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,4259.0
+2020,3. Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,5138.0
+2021,3. Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,4013.0
+2022,3. Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,2974.0
+2023,3. Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,1981.0
+2024,3. Total asylum decisions pending as at end of year,,Total pending decisions,Number of decisions,1497.0

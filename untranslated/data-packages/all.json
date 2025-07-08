@@ -5735,9 +5735,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of asylum first instance decisions per 100,000 population",
-                "Percentage outcome of processed applications, by decision",
-                "Total asylum decisions pending as at end of year",
+                "1. Number of asylum first instance decisions per 100,000 population",
+                "2. Percentage outcome of processed applications, by decision",
+                "3. Total asylum decisions pending as at end of year",
                 ""
               ]
             }
