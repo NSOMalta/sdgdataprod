@@ -44,20 +44,6 @@ Year,Series,Age,Units,Sex,Value
 2022,"1. Unemployment rate, by sex and age",25-74,Percentage (%),Both Sexes,2.9
 2023,"1. Unemployment rate, by sex and age",25-74,Percentage (%),Both Sexes,2.9
 2024,"1. Unemployment rate, by sex and age",25-74,Percentage (%),Both Sexes,2.5
-2010,2. Employment rate by sex,,Percentage of total population,Both Sexes,60.1
-2011,2. Employment rate by sex,,Percentage of total population,Both Sexes,61.6
-2012,2. Employment rate by sex,,Percentage of total population,Both Sexes,63.9
-2013,2. Employment rate by sex,,Percentage of total population,Both Sexes,66.2
-2014,2. Employment rate by sex,,Percentage of total population,Both Sexes,67.9
-2015,2. Employment rate by sex,,Percentage of total population,Both Sexes,69.0
-2016,2. Employment rate by sex,,Percentage of total population,Both Sexes,71.1
-2017,2. Employment rate by sex,,Percentage of total population,Both Sexes,73.0
-2018,2. Employment rate by sex,,Percentage of total population,Both Sexes,74.9
-2019,2. Employment rate by sex,,Percentage of total population,Both Sexes,75.6
-2020,2. Employment rate by sex,,Percentage of total population,Both Sexes,76.0
-2021,2. Employment rate by sex,,Percentage of total population,Both Sexes,77.8
-2022,2. Employment rate by sex,,Percentage of total population,Both Sexes,80.1
-2023,2. Employment rate by sex,,Percentage of total population,Both Sexes,81.3
 2010,"1. Unemployment rate, by sex and age",15-74,Percentage (%),Females,7.1
 2011,"1. Unemployment rate, by sex and age",15-74,Percentage (%),Females,7.1
 2012,"1. Unemployment rate, by sex and age",15-74,Percentage (%),Females,7.2
@@ -102,20 +88,6 @@ Year,Series,Age,Units,Sex,Value
 2022,"1. Unemployment rate, by sex and age",25-74,Percentage (%),Females,2.8
 2023,"1. Unemployment rate, by sex and age",25-74,Percentage (%),Females,2.9
 2024,"1. Unemployment rate, by sex and age",25-74,Percentage (%),Females,2.4
-2010,2. Employment rate by sex,,Percentage of total population,Females,41.6
-2011,2. Employment rate by sex,,Percentage of total population,Females,43.8
-2012,2. Employment rate by sex,,Percentage of total population,Females,48.0
-2013,2. Employment rate by sex,,Percentage of total population,Females,51.7
-2014,2. Employment rate by sex,,Percentage of total population,Females,54.3
-2015,2. Employment rate by sex,,Percentage of total population,Females,55.3
-2016,2. Employment rate by sex,,Percentage of total population,Females,58.0
-2017,2. Employment rate by sex,,Percentage of total population,Females,60.6
-2018,2. Employment rate by sex,,Percentage of total population,Females,63.2
-2019,2. Employment rate by sex,,Percentage of total population,Females,63.9
-2020,2. Employment rate by sex,,Percentage of total population,Females,66.0
-2021,2. Employment rate by sex,,Percentage of total population,Females,68.4
-2022,2. Employment rate by sex,,Percentage of total population,Females,72.9
-2023,2. Employment rate by sex,,Percentage of total population,Females,73.6
 2010,"1. Unemployment rate, by sex and age",15-74,Percentage (%),Males,6.7
 2011,"1. Unemployment rate, by sex and age",15-74,Percentage (%),Males,6.0
 2012,"1. Unemployment rate, by sex and age",15-74,Percentage (%),Males,5.6
@@ -161,17 +133,48 @@ Year,Series,Age,Units,Sex,Value
 2022,"1. Unemployment rate, by sex and age",25-74,Percentage (%),Males,2.9
 2023,"1. Unemployment rate, by sex and age",25-74,Percentage (%),Males,2.9
 2024,"1. Unemployment rate, by sex and age",25-74,Percentage (%),Males,2.6
-2010,2. Employment rate by sex,,Percentage of total population,Males,78.2
-2011,2. Employment rate by sex,,Percentage of total population,Males,79.0
-2012,2. Employment rate by sex,,Percentage of total population,Males,79.4
-2013,2. Employment rate by sex,,Percentage of total population,Males,80.3
-2014,2. Employment rate by sex,,Percentage of total population,Males,81.1
-2015,2. Employment rate by sex,,Percentage of total population,Males,82.1
-2016,2. Employment rate by sex,,Percentage of total population,Males,83.5
-2017,2. Employment rate by sex,,Percentage of total population,Males,84.7
-2018,2. Employment rate by sex,,Percentage of total population,Males,85.5
-2019,2. Employment rate by sex,,Percentage of total population,Males,85.9
-2020,2. Employment rate by sex,,Percentage of total population,Males,84.9
-2021,2. Employment rate by sex,,Percentage of total population,Males,86.0
-2022,2. Employment rate by sex,,Percentage of total population,Males,86.2
-2023,2. Employment rate by sex,,Percentage of total population,Males,87.7
+2010,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,60.1
+2011,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,61.6
+2012,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,63.9
+2013,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,66.2
+2014,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,67.9
+2015,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,69.0
+2016,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,71.1
+2017,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,73.0
+2018,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,74.9
+2019,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,75.6
+2020,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,76.0
+2021,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,77.8
+2022,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,80.1
+2023,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,81.3
+2024,"2. Employment rate (20-64 years), by sex",,Percentage (%),Both Sexes,83.0
+2010,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,41.6
+2011,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,43.8
+2012,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,48.0
+2013,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,51.7
+2014,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,54.3
+2015,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,55.3
+2016,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,58.0
+2017,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,60.6
+2018,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,63.2
+2019,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,63.9
+2020,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,66.0
+2021,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,68.4
+2022,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,72.9
+2023,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,73.6
+2024,"2. Employment rate (20-64 years), by sex",,Percentage (%),Females,75.6
+2010,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,78.2
+2011,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,79.0
+2012,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,79.4
+2013,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,80.3
+2014,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,81.1
+2015,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,82.1
+2016,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,83.5
+2017,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,84.7
+2018,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,85.5
+2019,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,85.9
+2020,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,84.9
+2021,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,86.0
+2022,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,86.2
+2023,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,87.7
+2024,"2. Employment rate (20-64 years), by sex",,Percentage (%),Males,89.0
