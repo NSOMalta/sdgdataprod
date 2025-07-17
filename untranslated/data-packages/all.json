@@ -1787,8 +1787,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Females",
-                "Males",
+                "Female",
+                "Male",
                 ""
               ]
             }
@@ -1812,7 +1812,7 @@
             "constraints": {
               "enum": [
                 "Per 10,000 population",
-                "Percent (%)",
+                "Percentage (%)",
                 ""
               ]
             }
@@ -2380,9 +2380,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of Commuters",
-                "Cars per 1000 residents",
-                "Standardised death rate",
+                "Number of commuters",
+                "Cars per 1,000 residents",
+                "Per 100,000 inhabitants",
                 ""
               ]
             }
@@ -3894,7 +3894,7 @@
           }
         ]
       },
-      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+      "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
     },
     {
       "path": "12-a-1/data.csv",

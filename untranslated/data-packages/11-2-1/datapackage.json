@@ -43,9 +43,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of Commuters",
-                "Cars per 1000 residents",
-                "Standardised death rate",
+                "Number of commuters",
+                "Cars per 1,000 residents",
+                "Per 100,000 inhabitants",
                 ""
               ]
             }

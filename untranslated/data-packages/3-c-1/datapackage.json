@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Females",
-                "Males",
+                "Female",
+                "Male",
                 ""
               ]
             }
@@ -55,7 +55,7 @@
             "constraints": {
               "enum": [
                 "Per 10,000 population",
-                "Percent (%)",
+                "Percentage (%)",
                 ""
               ]
             }
