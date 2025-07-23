@@ -1,55 +1,55 @@
-Year,Series,Particulate Matter Type,Units,Value
-2015,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,14.2
-2016,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,10.5
-2017,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,12.0
-2018,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,12.9
-2019,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,12.1
-2020,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,9.7
-2021,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,11.5
-2022,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,10.6
-2023,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,11.3
-2015,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,27.3
-2016,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,31.7
-2017,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,26.2
-2018,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,31.9
-2019,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,29.4
-2020,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,25.8
-2021,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,29.1
-2022,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,27.9
-2023,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,28.7
-2010,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,188.0
-2011,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,243.0
-2012,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,181.0
-2013,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,173.0
-2014,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,162.0
-2015,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,199.0
-2016,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,150.0
-2017,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,173.0
-2018,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,196.0
-2019,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,190.0
-2020,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,151.0
-2021,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,196.0
-2022,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,173.0
-2010,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",45.0
-2011,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",58.0
-2012,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",43.0
-2013,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",41.0
-2014,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",37.0
-2015,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",45.0
-2016,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",33.0
-2017,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",37.0
-2018,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",41.0
-2019,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",38.0
-2020,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",29.0
-2021,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",38.0
-2022,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",33.0
-2014,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,115.3
-2015,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,113.3
-2016,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,111.8
-2017,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,134.5
-2018,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,130.5
-2019,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,132.2
-2020,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,128.1
-2021,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,107.5
-2022,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,91.4
-2023,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,91.3
+Year,Series,Particulate Matter Type,Units,COMMENT_OBS,Value
+2015,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,,14.2
+2016,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,,10.5
+2017,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,,12.0
+2018,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,,12.9
+2019,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,,12.1
+2020,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,,9.7
+2021,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,,11.5
+2022,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,,10.6
+2023,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,,11.3
+2015,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,,27.3
+2016,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,,31.7
+2017,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,,26.2
+2018,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,,31.9
+2019,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,,29.4
+2020,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,,25.8
+2021,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,,29.1
+2022,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,,27.9
+2023,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,,28.7
+2010,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,,188.0
+2011,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,,243.0
+2012,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,,181.0
+2013,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,,173.0
+2014,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,,162.0
+2015,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,,199.0
+2016,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,,150.0
+2017,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,,173.0
+2018,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,,196.0
+2019,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,,190.0
+2020,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,,151.0
+2021,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,,196.0
+2022,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,,173.0
+2010,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",,45.0
+2011,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",,58.0
+2012,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",,43.0
+2013,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",,41.0
+2014,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",,37.0
+2015,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",,45.0
+2016,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",,33.0
+2017,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",,37.0
+2018,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",,41.0
+2019,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",,38.0
+2020,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",,29.0
+2021,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",,38.0
+2022,2. Premature deaths due to exposure to fine particulate matter,,"Rate per 100,000 people",,33.0
+2014,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,,115.3
+2015,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,,113.3
+2016,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,,111.8
+2017,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,estimate,134.5
+2018,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,estimate,130.5
+2019,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,estimate,132.2
+2020,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,,128.1
+2021,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,,107.5
+2022,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,,91.4
+2023,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,,91.3

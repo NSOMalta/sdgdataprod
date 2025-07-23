@@ -51,6 +51,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "estimate",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
