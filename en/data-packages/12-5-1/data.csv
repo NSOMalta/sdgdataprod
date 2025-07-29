@@ -1,42 +1,46 @@
 Year,Series,Units,Value
-2015,1. Municipal waste recycled,Tonnes,31000.0
-2016,1. Municipal waste recycled,Tonnes,37000.0
-2017,1. Municipal waste recycled,Tonnes,36000.0
-2018,1. Municipal waste recycled,Tonnes,34000.0
-2019,1. Municipal waste recycled,Tonnes,32000.0
-2020,1. Municipal waste recycled,Tonnes,36000.0
-2021,1. Municipal waste recycled,Tonnes,43000.0
-2022,1. Municipal waste recycled,Tonnes,41000.0
-2015,2. Proportion of municipal waste recycled,Percentage,10.9
-2016,2. Proportion of municipal waste recycled,Percentage,12.7
-2017,2. Proportion of municipal waste recycled,Percentage,11.5
-2018,2. Proportion of municipal waste recycled,Percentage,10.5
-2019,2. Proportion of municipal waste recycled,Percentage,9.1
-2020,2. Proportion of municipal waste recycled,Percentage,10.9
-2021,2. Proportion of municipal waste recycled,Percentage,13.6
-2022,2. Proportion of municipal waste recycled,Percentage,12.5
-2023,2. Proportion of municipal waste recycled,Percentage,17.3
-2015,3. Electronic waste recycled,Tonnes,1292.0
-2016,3. Electronic waste recycled,Tonnes,2527.0
-2017,3. Electronic waste recycled,Tonnes,2128.0
-2018,3. Electronic waste recycled,Tonnes,2336.0
-2019,3. Electronic waste recycled,Tonnes,2542.0
-2020,3. Electronic waste recycled,Tonnes,2070.0
-2021,3. Electronic waste recycled,Tonnes,2336.0
-2022,3. Electronic waste recycled,Tonnes,2285.0
-2015,4. Proportion of electronic waste recycled,Percentage,65.1
-2016,4. Proportion of electronic waste recycled,Percentage,103.4
-2017,4. Proportion of electronic waste recycled,Percentage,72.1
-2018,4. Proportion of electronic waste recycled,Percentage,73.6
-2019,4. Proportion of electronic waste recycled,Percentage,59.9
-2020,4. Proportion of electronic waste recycled,Percentage,58.3
-2021,4. Proportion of electronic waste recycled,Percentage,83.2
-2022,4. Proportion of electronic waste recycled,Percentage,75.9
-2015,5. Electronic waste recycled per capita,Kilograms,2.91
-2016,5. Electronic waste recycled per capita,Kilograms,5.55
-2017,5. Electronic waste recycled per capita,Kilograms,4.55
-2018,5. Electronic waste recycled per capita,Kilograms,4.82
-2019,5. Electronic waste recycled per capita,Kilograms,5.04
-2020,5. Electronic waste recycled per capita,Kilograms,4.02
-2021,5. Electronic waste recycled per capita,Kilograms,4.51
-2022,5. Electronic waste recycled per capita,Kilograms,4.3
+2015,Municipal waste recycled,Tonnes,31000.0
+2016,Municipal waste recycled,Tonnes,37000.0
+2017,Municipal waste recycled,Tonnes,36000.0
+2018,Municipal waste recycled,Tonnes,34000.0
+2019,Municipal waste recycled,Tonnes,32000.0
+2020,Municipal waste recycled,Tonnes,36000.0
+2021,Municipal waste recycled,Tonnes,43000.0
+2022,Municipal waste recycled,Tonnes,41000.0
+2023,Municipal waste recycled,Tonnes,56487.0
+2015,Proportion of municipal waste recycled,Percentage (%),10.9
+2016,Proportion of municipal waste recycled,Percentage (%),12.7
+2017,Proportion of municipal waste recycled,Percentage (%),11.5
+2018,Proportion of municipal waste recycled,Percentage (%),10.5
+2019,Proportion of municipal waste recycled,Percentage (%),9.1
+2020,Proportion of municipal waste recycled,Percentage (%),10.9
+2021,Proportion of municipal waste recycled,Percentage (%),13.6
+2022,Proportion of municipal waste recycled,Percentage (%),12.5
+2023,Proportion of municipal waste recycled,Percentage (%),17.0
+2015,Electronic waste recycled,Tonnes,1292.0
+2016,Electronic waste recycled,Tonnes,2527.0
+2017,Electronic waste recycled,Tonnes,2128.0
+2018,Electronic waste recycled,Tonnes,2336.0
+2019,Electronic waste recycled,Tonnes,2542.0
+2020,Electronic waste recycled,Tonnes,2070.0
+2021,Electronic waste recycled,Tonnes,2336.0
+2022,Electronic waste recycled,Tonnes,2285.0
+2023,Electronic waste recycled,Tonnes,2274.0
+2015,Proportion of electronic waste recycled,Percentage (%),65.1
+2016,Proportion of electronic waste recycled,Percentage (%),103.4
+2017,Proportion of electronic waste recycled,Percentage (%),72.1
+2018,Proportion of electronic waste recycled,Percentage (%),73.6
+2019,Proportion of electronic waste recycled,Percentage (%),59.9
+2020,Proportion of electronic waste recycled,Percentage (%),58.3
+2021,Proportion of electronic waste recycled,Percentage (%),83.2
+2022,Proportion of electronic waste recycled,Percentage (%),75.9
+2023,Proportion of electronic waste recycled,Percentage (%),71.6
+2015,Electronic waste recycled per capita,Kilograms,2.91
+2016,Electronic waste recycled per capita,Kilograms,5.55
+2017,Electronic waste recycled per capita,Kilograms,4.55
+2018,Electronic waste recycled per capita,Kilograms,4.82
+2019,Electronic waste recycled per capita,Kilograms,5.04
+2020,Electronic waste recycled per capita,Kilograms,4.02
+2021,Electronic waste recycled per capita,Kilograms,4.51
+2022,Electronic waste recycled per capita,Kilograms,4.3
+2023,Electronic waste recycled per capita,Kilograms,4.1

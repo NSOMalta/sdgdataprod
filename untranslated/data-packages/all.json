@@ -772,7 +772,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Percentage (%)",
                 "Number of seats",
                 ""
               ]
@@ -3831,11 +3831,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Municipal waste recycled",
-                "2. Proportion of municipal waste recycled",
-                "3. Electronic waste recycled",
-                "4. Proportion of electronic waste recycled",
-                "5. Electronic waste recycled per capita",
+                "Municipal waste recycled",
+                "Proportion of municipal waste recycled",
+                "Electronic waste recycled",
+                "Proportion of electronic waste recycled",
+                "Electronic waste recycled per capita",
                 ""
               ]
             }
@@ -3846,7 +3846,7 @@
             "constraints": {
               "enum": [
                 "Tonnes",
-                "Percentage",
+                "Percentage (%)",
                 "Kilograms",
                 ""
               ]
@@ -7131,6 +7131,28 @@
       "title": "Remittance costs as a proportion of the amount remitted"
     },
     {
+      "path": "11-5-3/data.csv",
+      "name": "11-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
+    },
+    {
       "path": "15-b-1/data.csv",
       "name": "15-b-1",
       "profile": "tabular-data-resource",
@@ -7987,28 +8009,6 @@
         ]
       },
       "title": "Pro-poor public social spending"
-    },
-    {
-      "path": "11-5-3/data.csv",
-      "name": "11-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
     }
   ]
 }
