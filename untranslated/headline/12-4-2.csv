@@ -11,7 +11,8 @@ Year,Value,Units,Series
 2019,42225.0,Dry weight in tonnes,1. Hazardous waste generation
 2020,41677.0,Dry weight in tonnes,1. Hazardous waste generation
 2021,41922.0,Dry weight in tonnes,1. Hazardous waste generation
-2022,44777.0,Dry weight in tonnes,1. Hazardous waste generation
+2022,44769.0,Dry weight in tonnes,1. Hazardous waste generation
+2023,70688.0,Dry weight in tonnes,1. Hazardous waste generation
 2010,23942.0,Dry weight in tonnes,2. Total hazardous waste treated locally or abroad
 2011,16154.0,Dry weight in tonnes,2. Total hazardous waste treated locally or abroad
 2012,13928.0,Dry weight in tonnes,2. Total hazardous waste treated locally or abroad
@@ -24,7 +25,8 @@ Year,Value,Units,Series
 2019,7073.0,Dry weight in tonnes,2. Total hazardous waste treated locally or abroad
 2020,16455.0,Dry weight in tonnes,2. Total hazardous waste treated locally or abroad
 2021,7980.0,Dry weight in tonnes,2. Total hazardous waste treated locally or abroad
-2022,14142.0,Dry weight in tonnes,2. Total hazardous waste treated locally or abroad
+2022,14159.0,Dry weight in tonnes,2. Total hazardous waste treated locally or abroad
+2023,38671.0,Dry weight in tonnes,2. Total hazardous waste treated locally or abroad
 2010,95.8,Percentage,3. Proportion of hazardous waste treated locally or abroad
 2011,67.5,Percentage,3. Proportion of hazardous waste treated locally or abroad
 2012,36.3,Percentage,3. Proportion of hazardous waste treated locally or abroad
@@ -38,13 +40,21 @@ Year,Value,Units,Series
 2020,39.5,Percentage,3. Proportion of hazardous waste treated locally or abroad
 2021,19.0,Percentage,3. Proportion of hazardous waste treated locally or abroad
 2022,31.6,Percentage,3. Proportion of hazardous waste treated locally or abroad
-2010,60.0,Kilograms,"4. Hazardous waste generated, per capita"
-2012,91.0,Kilograms,"4. Hazardous waste generated, per capita"
-2014,85.0,Kilograms,"4. Hazardous waste generated, per capita"
-2016,296.0,Kilograms,"4. Hazardous waste generated, per capita"
-2018,68.0,Kilograms,"4. Hazardous waste generated, per capita"
-2020,81.0,Kilograms,"4. Hazardous waste generated, per capita"
-2022,84.0,Kilograms,"4. Hazardous waste generated, per capita"
+2023,54.7,Percentage,3. Proportion of hazardous waste treated locally or abroad
+2010,60.3,Kilograms,"4. Hazardous waste generated, per capita"
+2011,57.5,Kilograms,"4. Hazardous waste generated, per capita"
+2012,91.4,Kilograms,"4. Hazardous waste generated, per capita"
+2013,57.7,Kilograms,"4. Hazardous waste generated, per capita"
+2014,85.1,Kilograms,"4. Hazardous waste generated, per capita"
+2015,113.0,Kilograms,"4. Hazardous waste generated, per capita"
+2016,296.5,Kilograms,"4. Hazardous waste generated, per capita"
+2017,106.1,Kilograms,"4. Hazardous waste generated, per capita"
+2018,68.3,Kilograms,"4. Hazardous waste generated, per capita"
+2019,83.9,Kilograms,"4. Hazardous waste generated, per capita"
+2020,80.9,Kilograms,"4. Hazardous waste generated, per capita"
+2021,80.9,Kilograms,"4. Hazardous waste generated, per capita"
+2022,84.3,Kilograms,"4. Hazardous waste generated, per capita"
+2023,127.9,Kilograms,"4. Hazardous waste generated, per capita"
 2016,16.0,Percentage,5. WEEE Collection Rate based on POM
 2017,22.0,Percentage,5. WEEE Collection Rate based on POM
 2018,27.0,Percentage,5. WEEE Collection Rate based on POM
