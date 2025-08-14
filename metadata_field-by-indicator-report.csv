@@ -77,7 +77,7 @@ Global Education Monitoring Report",,,,Index,bar
 #13-b-1,notapplicable,UN Climate Change (UNFCCC Secretariat),,,,,line
 #14-1-1,complete,United Nations Environment Programme (UNEP),,,,Percentage (%),line
 #14-2-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#14-3-1,inprogress,Intergovernmental Oceanographic Commission (IOC) of UNESCO,,,,,line
+#14-3-1,notstarted,Intergovernmental Oceanographic Commission (IOC) of UNESCO,,,,,line
 #14-4-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,Percentage (%),line
 #14-5-1,complete,"BirdLife International (BLI)
 International Union for Conservation of Nature (IUCN)
@@ -85,9 +85,9 @@ UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
 UN Environment Programme",,,,Percentage (%),line
 #14-6-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #14-7-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,Percentage (%),bar
-#14-a-1,inprogress,Intergovernmental Oceanographic Commission of UNESCO (IOC-UNESCO),,,,,line
+#14-a-1,notstarted,Intergovernmental Oceanographic Commission of UNESCO (IOC-UNESCO),,,,,line
 #14-b-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#14-c-1,inprogress,"Division for Ocean Affairs and the Law of the Sea (DOALOS), Office of Legal Affairs (OLA), United Nations Secretariat",,,,,line
+#14-c-1,notstarted,"Division for Ocean Affairs and the Law of the Sea (DOALOS), Office of Legal Affairs (OLA), United Nations Secretariat",,,,,line
 #15-1-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #15-1-2,complete,"BirdLife International (BLI)
 International Union for Conservation of Nature (IUCN)
@@ -121,7 +121,7 @@ UN Environment Programme",,,,,line
 #16-3-2,complete,United Nations Office on Drugs and Crime (UNODC),,,,Percentage (%),bar
 #16-3-3,notstarted,"United Nations Development Programme (UNDP), United Nations Office on Drugs and Crime (UNODC) and Organization for Economic Cooperation and Development (OECD)",,,,,line
 #16-4-1,notstarted,United Nations Office on Drugs and Crime (UNODC) and United Nations Conference on Trade and Development (UNCTAD),,,,,line
-#16-4-2,inprogress,United Nations Office on Drugs and Crime (UNODC) and United Nations Office for Disarmement Affairs (UNODA),,,,,line
+#16-4-2,notstarted,United Nations Office on Drugs and Crime (UNODC) and United Nations Office for Disarmement Affairs (UNODA),,,,,line
 #16-5-1,complete,United Nations Office on Drugs and Crime (UNODC),,,,Index,line
 #16-5-2,complete,World Bank (WB),,,,Percentage (%),bar
 #16-6-1,complete,World Bank (WB),,,,Percentage (%),line
