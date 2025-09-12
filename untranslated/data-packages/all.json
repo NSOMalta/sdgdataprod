@@ -2842,7 +2842,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Both Sexes",
+                "Total",
                 "Females",
                 "Males",
                 ""
@@ -4110,11 +4110,21 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Neonatal mortality rate (deaths per 1000 live births)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Both Sexes",
+                "Total",
                 "Females",
                 "Males",
                 ""
