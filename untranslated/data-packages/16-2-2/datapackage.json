@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Detected victims of human trafficking",
+                "2. Detected victims of human trafficking, per 100,000 population",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -65,8 +76,19 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of victims",
+                "Per 100,000 population",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
