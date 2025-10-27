@@ -13,6 +13,7 @@ Year,Type of offence,Value
 2021,Sexual assault,0.02
 2022,Sexual assault,0.02
 2023,Sexual assault,0.02
+2024,Sexual assault,0.01
 2010,Serious assault,0.04
 2011,Serious assault,0.04
 2012,Serious assault,0.04
@@ -27,6 +28,7 @@ Year,Type of offence,Value
 2021,Serious assault,0.03
 2022,Serious assault,0.04
 2023,Serious assault,0.04
+2024,Serious assault,0.04
 2010,Robbery,0.05
 2011,Robbery,0.05
 2012,Robbery,0.06
@@ -41,3 +43,4 @@ Year,Type of offence,Value
 2021,Robbery,0.02
 2022,Robbery,0.02
 2023,Robbery,0.03
+2024,Robbery,0.04

@@ -32,19 +32,6 @@
             "title": "Series"
           },
           {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "All Areas",
-                "Rural",
-                "Urban",
-                ""
-              ]
-            },
-            "title": "Location"
-          },
-          {
             "name": "Mobile Network",
             "type": "string",
             "constraints": {
@@ -60,7 +47,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
