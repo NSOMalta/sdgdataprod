@@ -1,14 +1,14 @@
 Year,Value,Units,Series
-2015,726.0,Number,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
-2016,776.0,Number,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
-2017,459.0,Number,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
-2018,441.0,Number,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
-2019,340.0,Number,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
-2020,903.0,Number,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
-2021,1492.0,Number,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
-2022,1597.0,Number,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
-2023,1608.0,Number,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
-2024,1450.0,Number,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
+2015,726.0,Number of referrals,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
+2016,776.0,Number of referrals,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
+2017,459.0,Number of referrals,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
+2018,441.0,Number of referrals,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
+2019,340.0,Number of referrals,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
+2020,903.0,Number of referrals,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
+2021,1492.0,Number of referrals,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
+2022,1597.0,Number of referrals,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
+2023,1608.0,Number of referrals,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
+2024,1450.0,Number of referrals,Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years
 2015,11.5,"Per 1,000 population aged 0-14","Rate of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14"
 2016,12.1,"Per 1,000 population aged 0-14","Rate of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14"
 2017,7.0,"Per 1,000 population aged 0-14","Rate of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14"
