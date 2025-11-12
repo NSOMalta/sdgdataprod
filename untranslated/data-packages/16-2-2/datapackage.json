@@ -81,7 +81,7 @@
             "constraints": {
               "enum": [
                 "Number of victims",
-                "Per 100,000 population",
+                "Per 100,000 mid-year population",
                 ""
               ]
             }
