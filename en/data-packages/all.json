@@ -1680,7 +1680,7 @@
                 "Net imports (imports - exports)",
                 "Fossil fuels",
                 "Coal",
-                "Nuclear power",
+                "Nucelar power",
                 "Renewable sources",
                 "Others",
                 "Oil",
@@ -5440,11 +5440,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Biogases",
                 "Solar photovoltaic",
                 "Solar photovoltaic (AC)",
                 "Solar photovoltaic (DC)",
                 "Wind",
+                "Biogases",
                 ""
               ]
             },

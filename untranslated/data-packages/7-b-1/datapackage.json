@@ -19,11 +19,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Biogases",
                 "Solar photovoltaic",
                 "Solar photovoltaic (AC)",
                 "Solar photovoltaic (DC)",
                 "Wind",
+                "Biogases",
                 ""
               ]
             }

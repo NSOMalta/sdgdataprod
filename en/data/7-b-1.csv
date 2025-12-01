@@ -1,15 +1,4 @@
 Year,Technology,Value
-2013,Biogases,3.0
-2014,Biogases,3.0
-2015,Biogases,3.0
-2016,Biogases,4.56
-2017,Biogases,4.56
-2018,Biogases,4.56
-2019,Biogases,4.56
-2020,Biogases,4.56
-2021,Biogases,5.76
-2022,Biogases,4.023
-2023,Biogases,4.023
 2013,Solar photovoltaic,28.5
 2014,Solar photovoltaic,54.6
 2015,Solar photovoltaic,74.8
@@ -19,11 +8,13 @@ Year,Technology,Value
 2019,Solar photovoltaic,155.187
 2020,Solar photovoltaic,187.903
 2021,Solar photovoltaic (AC),194.369
-2022,Solar photovoltaic (AC),209.475
-2023,Solar photovoltaic (AC),225.747
+2022,Solar photovoltaic (AC),209.639
+2023,Solar photovoltaic (AC),226.109
+2024,Solar photovoltaic (AC),238.046
 2021,Solar photovoltaic (DC),205.448
-2022,Solar photovoltaic (DC),222.303
-2023,Solar photovoltaic (DC),240.846
+2022,Solar photovoltaic (DC),221.988
+2023,Solar photovoltaic (DC),240.725
+2024,Solar photovoltaic (DC),253.804
 2013,Wind,0.1
 2014,Wind,0.1
 2015,Wind,0.1
@@ -35,3 +26,16 @@ Year,Technology,Value
 2021,Wind,0.1
 2022,Wind,0.1
 2023,Wind,0.057
+2024,Wind,0.057
+2013,Biogases,3.0
+2014,Biogases,3.0
+2015,Biogases,3.0
+2016,Biogases,4.56
+2017,Biogases,4.56
+2018,Biogases,4.56
+2019,Biogases,4.56
+2020,Biogases,4.56
+2021,Biogases,5.76
+2022,Biogases,4.023
+2023,Biogases,4.023
+2024,Biogases,4.023
