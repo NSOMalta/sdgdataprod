@@ -25,11 +25,11 @@ Year,Value,Units,Series
 2020,0.04,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
 2021,0.04,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
 2022,0.04,Kgs of CO2 per constant 2015 US$,3. Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added
-2010,0.34,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
-2011,0.34,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
-2012,0.35,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2010,0.33,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2011,0.33,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2012,0.34,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
 2013,0.29,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
-2014,0.28,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2014,0.27,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
 2015,0.19,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
 2016,0.15,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
 2017,0.15,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
@@ -38,3 +38,5 @@ Year,Value,Units,Series
 2020,0.17,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
 2021,0.18,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
 2022,0.21,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2023,0.27,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
+2024,0.34,Kgs of CO2 emissions per Euro,4. CO2 emissions per unit of value added
