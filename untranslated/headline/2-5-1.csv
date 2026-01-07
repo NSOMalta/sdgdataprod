@@ -14,6 +14,7 @@ Year,Value,Units,Series
 2022,2,Number of breeds,1. Number of local breeds kept in the country
 2023,3,Number of breeds,1. Number of local breeds kept in the country
 2024,3,Number of breeds,1. Number of local breeds kept in the country
+2025,3,Number of breeds,1. Number of local breeds kept in the country
 2010,5,Number of breeds,2. Number of transboundary breeds (including extinct ones)
 2011,5,Number of breeds,2. Number of transboundary breeds (including extinct ones)
 2012,5,Number of breeds,2. Number of transboundary breeds (including extinct ones)
@@ -29,8 +30,10 @@ Year,Value,Units,Series
 2022,5,Number of breeds,2. Number of transboundary breeds (including extinct ones)
 2023,7,Number of breeds,2. Number of transboundary breeds (including extinct ones)
 2024,7,Number of breeds,2. Number of transboundary breeds (including extinct ones)
+2025,7,Number of breeds,2. Number of transboundary breeds (including extinct ones)
 2023,0,Number of breeds,3. Number of local breeds for which sufficient genetic resources are stored for reconstitution
 2024,0,Number of breeds,3. Number of local breeds for which sufficient genetic resources are stored for reconstitution
+2025,0,Number of breeds,3. Number of local breeds for which sufficient genetic resources are stored for reconstitution
 2010,9,Number of unique accessions,4. Plant genetic resources accessions stored ex situ
 2012,11,Number of unique accessions,4. Plant genetic resources accessions stored ex situ
 2014,66,Number of unique accessions,4. Plant genetic resources accessions stored ex situ
