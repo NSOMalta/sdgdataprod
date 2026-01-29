@@ -5,6 +5,10 @@ Year,Series,Age,Sex,Type of Occupation,Court Level,Units,Value
 2022,1. Proportion of positions in parliament compared to national distributions,Total,Females,,,Ratio,0.27
 2023,1. Proportion of positions in parliament compared to national distributions,<=45Y,Both Sexes,,,Ratio,1.0
 2023,1. Proportion of positions in parliament compared to national distributions,Total,Females,,,Ratio,0.58
+2024,1. Proportion of positions in parliament compared to national distributions,<=45Y,Both Sexes,,,Ratio,1.0
+2024,1. Proportion of positions in parliament compared to national distributions,Total,Females,,,Ratio,0.58
+2025,1. Proportion of positions in parliament compared to national distributions,<=45Y,Both Sexes,,,Ratio,1.04
+2025,1. Proportion of positions in parliament compared to national distributions,Total,Females,,,Ratio,0.58
 2022,2. Proportion of positions in the public service compared to national distributions,Total,Females,Managers,,Ratio,0.98
 2022,2. Proportion of positions in the public service compared to national distributions,Total,Females,Professionals,,Ratio,1.38
 2022,2. Proportion of positions in the public service compared to national distributions,Total,Females,Technicians and Associate Professionals,,Ratio,1.07
@@ -20,6 +24,11 @@ Year,Series,Age,Sex,Type of Occupation,Court Level,Units,Value
 2024,2. Proportion of positions in the public service compared to national distributions,Total,Females,Technicians and Associate Professionals,,Ratio,1.1
 2024,2. Proportion of positions in the public service compared to national distributions,Total,Females,Clerical Support Workers,,Ratio,1.45
 2024,2. Proportion of positions in the public service compared to national distributions,Total,Females,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",,Ratio,1.13
+2025,2. Proportion of positions in the public service compared to national distributions,Total,Females,Managers,,Ratio,1.0
+2025,2. Proportion of positions in the public service compared to national distributions,Total,Females,Professionals,,Ratio,1.39
+2025,2. Proportion of positions in the public service compared to national distributions,Total,Females,Technicians and Associate Professionals,,Ratio,1.1
+2025,2. Proportion of positions in the public service compared to national distributions,Total,Females,Clerical Support Workers,,Ratio,1.46
+2025,2. Proportion of positions in the public service compared to national distributions,Total,Females,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",,Ratio,1.13
 2020,3. Proportion of positions in the judiciary compared to national distributions,<45Y,Both Sexes,,Constitutional Courts,Ratio,0.0
 2020,3. Proportion of positions in the judiciary compared to national distributions,<45Y,Both Sexes,,Higher Courts,Ratio,0.0
 2020,3. Proportion of positions in the judiciary compared to national distributions,<45Y,Both Sexes,,Lower Courts,Ratio,0.38
