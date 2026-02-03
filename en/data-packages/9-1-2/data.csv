@@ -1,26 +1,27 @@
 Year,Series,Units,Value
-2017,1. Freight volume (aviation),Millions of Freight Tonne-Kilometres (FTK),2.636
-2018,1. Freight volume (aviation),Millions of Freight Tonne-Kilometres (FTK),4.815
-2019,1. Freight volume (aviation),Millions of Freight Tonne-Kilometres (FTK),6.727
-2020,1. Freight volume (aviation),Millions of Freight Tonne-Kilometres (FTK),2.904
-2021,1. Freight volume (aviation),Millions of Freight Tonne-Kilometres (FTK),2.751
-2022,1. Freight volume (aviation),Millions of Freight Tonne-Kilometres (FTK),8.676
-2017,2. Passenger volume (aviation),Millions of Revenue Passenger-Kilometres (RPK),2264.761
-2018,2. Passenger volume (aviation),Millions of Revenue Passenger-Kilometres (RPK),3336.935
-2019,2. Passenger volume (aviation),Millions of Revenue Passenger-Kilometres (RPK),3372.515
-2020,2. Passenger volume (aviation),Millions of Revenue Passenger-Kilometres (RPK),816.241
-2021,2. Passenger volume (aviation),Millions of Revenue Passenger-Kilometres (RPK),909.973
-2022,2. Passenger volume (aviation),Millions of Revenue Passenger-Kilometres (RPK),3836.117
-2010,3. Container port traffic (maritime transport),Millions of Twenty-foot Equivalent Units (TEU),2.414
-2011,3. Container port traffic (maritime transport),Millions of Twenty-foot Equivalent Units (TEU),2.407
-2012,3. Container port traffic (maritime transport),Millions of Twenty-foot Equivalent Units (TEU),2.59
-2013,3. Container port traffic (maritime transport),Millions of Twenty-foot Equivalent Units (TEU),2.794
-2014,3. Container port traffic (maritime transport),Millions of Twenty-foot Equivalent Units (TEU),2.924
-2015,3. Container port traffic (maritime transport),Millions of Twenty-foot Equivalent Units (TEU),3.121
-2016,3. Container port traffic (maritime transport),Millions of Twenty-foot Equivalent Units (TEU),3.152
-2017,3. Container port traffic (maritime transport),Millions of Twenty-foot Equivalent Units (TEU),3.246
-2018,3. Container port traffic (maritime transport),Millions of Twenty-foot Equivalent Units (TEU),3.414
-2019,3. Container port traffic (maritime transport),Millions of Twenty-foot Equivalent Units (TEU),2.813
-2020,3. Container port traffic (maritime transport),Millions of Twenty-foot Equivalent Units (TEU),2.539
-2021,3. Container port traffic (maritime transport),Millions of Twenty-foot Equivalent Units (TEU),3.076
-2022,3. Container port traffic (maritime transport),Millions of Twenty-foot Equivalent Units (TEU),2.994
+2017,1. Freight volume (aviation),Tonne kilometres (millions),2.636
+2018,1. Freight volume (aviation),Tonne kilometres (millions),4.815
+2019,1. Freight volume (aviation),Tonne kilometres (millions),6.727
+2020,1. Freight volume (aviation),Tonne kilometres (millions),2.904
+2021,1. Freight volume (aviation),Tonne kilometres (millions),2.751
+2022,1. Freight volume (aviation),Tonne kilometres (millions),3.356
+2017,2. Passenger volume (aviation),Revenue passenger kilometres (millions),2264.761
+2018,2. Passenger volume (aviation),Revenue passenger kilometres (millions),3336.935
+2019,2. Passenger volume (aviation),Revenue passenger kilometres (millions),3372.515
+2020,2. Passenger volume (aviation),Revenue passenger kilometres (millions),816.242
+2021,2. Passenger volume (aviation),Revenue passenger kilometres (millions),909.973
+2022,2. Passenger volume (aviation),Revenue passenger kilometres (millions),3959.913
+2010,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),2.414
+2011,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),2.407
+2012,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),2.59
+2013,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),2.794
+2014,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),2.924
+2015,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),3.121
+2016,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),3.152
+2017,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),3.246
+2018,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),3.414
+2019,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),2.813
+2020,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),2.539
+2021,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),3.076
+2022,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),2.994
+2023,3. Container port traffic (maritime transport),Twenty-foot equivalent units - TEUs (millions),2.907

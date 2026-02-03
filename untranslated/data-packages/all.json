@@ -5701,9 +5701,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millions of Freight Tonne-Kilometres (FTK)",
-                "Millions of Revenue Passenger-Kilometres (RPK)",
-                "Millions of Twenty-foot Equivalent Units (TEU)",
+                "Tonne kilometres (millions)",
+                "Revenue passenger kilometres (millions)",
+                "Twenty-foot equivalent units - TEUs (millions)",
                 ""
               ]
             }
