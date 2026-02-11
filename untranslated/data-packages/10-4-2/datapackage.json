@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Fiscal intervention stage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Postfiscal consumable income",
+                "Postfiscal disposable income",
+                "Prefiscal income",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
