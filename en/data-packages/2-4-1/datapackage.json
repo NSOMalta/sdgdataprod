@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "Percentage (%)",
-                "1000 ha",
+                "Hectares (thousands)",
                 ""
               ]
             },
