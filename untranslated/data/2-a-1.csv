@@ -14,48 +14,63 @@ Year,Series,Units,Value
 2022,1. Agriculture orientation index for government expenditures,Index,1.18
 2023,1. Agriculture orientation index for government expenditures,Index,25.32
 2024,1. Agriculture orientation index for government expenditures,Index,2.29
-2010,2. Agriculture value added share of GDP,Percentage,1.27
-2011,2. Agriculture value added share of GDP,Percentage,1.09
-2012,2. Agriculture value added share of GDP,Percentage,1.09
-2013,2. Agriculture value added share of GDP,Percentage,1.02
-2014,2. Agriculture value added share of GDP,Percentage,1.0
-2015,2. Agriculture value added share of GDP,Percentage,0.94
-2016,2. Agriculture value added share of GDP,Percentage,1.01
-2017,2. Agriculture value added share of GDP,Percentage,0.68
-2018,2. Agriculture value added share of GDP,Percentage,0.62
-2019,2. Agriculture value added share of GDP,Percentage,0.47
-2020,2. Agriculture value added share of GDP,Percentage,0.79
-2021,2. Agriculture value added share of GDP,Percentage,0.89
-2022,2. Agriculture value added share of GDP,Percentage,0.83
-2023,2. Agriculture value added share of GDP,Percentage,0.04
-2024,2. Agriculture value added share of GDP,Percentage,0.49
-2010,3. Agriculture share of Government Expenditure,Percentage,1.71
-2011,3. Agriculture share of Government Expenditure,Percentage,1.5
-2012,3. Agriculture share of Government Expenditure,Percentage,1.43
-2013,3. Agriculture share of Government Expenditure,Percentage,1.33
-2014,3. Agriculture share of Government Expenditure,Percentage,1.17
-2015,3. Agriculture share of Government Expenditure,Percentage,1.32
-2016,3. Agriculture share of Government Expenditure,Percentage,1.25
-2017,3. Agriculture share of Government Expenditure,Percentage,1.09
-2018,3. Agriculture share of Government Expenditure,Percentage,1.29
-2019,3. Agriculture share of Government Expenditure,Percentage,1.04
-2020,3. Agriculture share of Government Expenditure,Percentage,0.94
-2021,3. Agriculture share of Government Expenditure,Percentage,0.92
-2022,3. Agriculture share of Government Expenditure,Percentage,0.98
-2023,3. Agriculture share of Government Expenditure,Percentage,1.13
-2024,3. Agriculture share of Government Expenditure,Percentage,1.12
-2010,4. Government support to agricultural research and development,Million euro (€),0.375
-2011,4. Government support to agricultural research and development,Million euro (€),0.395
-2012,4. Government support to agricultural research and development,Million euro (€),0.401
-2013,4. Government support to agricultural research and development,Million euro (€),0.528
-2014,4. Government support to agricultural research and development,Million euro (€),0.468
-2015,4. Government support to agricultural research and development,Million euro (€),0.709
-2016,4. Government support to agricultural research and development,Million euro (€),0.281
-2017,4. Government support to agricultural research and development,Million euro (€),0.267
-2018,4. Government support to agricultural research and development,Million euro (€),1.116
-2019,4. Government support to agricultural research and development,Million euro (€),1.492
-2020,4. Government support to agricultural research and development,Million euro (€),0.849
-2021,4. Government support to agricultural research and development,Million euro (€),1.277
-2022,4. Government support to agricultural research and development,Million euro (€),1.289
-2023,4. Government support to agricultural research and development,Million euro (€),1.297
-2024,4. Government support to agricultural research and development,Million euro (€),0.941
+2010,2. Agriculture value added share of GDP,Percentage (%),1.27
+2011,2. Agriculture value added share of GDP,Percentage (%),1.09
+2012,2. Agriculture value added share of GDP,Percentage (%),1.09
+2013,2. Agriculture value added share of GDP,Percentage (%),1.02
+2014,2. Agriculture value added share of GDP,Percentage (%),1.0
+2015,2. Agriculture value added share of GDP,Percentage (%),0.94
+2016,2. Agriculture value added share of GDP,Percentage (%),1.01
+2017,2. Agriculture value added share of GDP,Percentage (%),0.68
+2018,2. Agriculture value added share of GDP,Percentage (%),0.62
+2019,2. Agriculture value added share of GDP,Percentage (%),0.47
+2020,2. Agriculture value added share of GDP,Percentage (%),0.79
+2021,2. Agriculture value added share of GDP,Percentage (%),0.89
+2022,2. Agriculture value added share of GDP,Percentage (%),0.83
+2023,2. Agriculture value added share of GDP,Percentage (%),0.04
+2024,2. Agriculture value added share of GDP,Percentage (%),0.49
+2010,3. Agriculture share of Government Expenditure,Percentage (%),1.71
+2011,3. Agriculture share of Government Expenditure,Percentage (%),1.5
+2012,3. Agriculture share of Government Expenditure,Percentage (%),1.43
+2013,3. Agriculture share of Government Expenditure,Percentage (%),1.33
+2014,3. Agriculture share of Government Expenditure,Percentage (%),1.17
+2015,3. Agriculture share of Government Expenditure,Percentage (%),1.32
+2016,3. Agriculture share of Government Expenditure,Percentage (%),1.25
+2017,3. Agriculture share of Government Expenditure,Percentage (%),1.09
+2018,3. Agriculture share of Government Expenditure,Percentage (%),1.29
+2019,3. Agriculture share of Government Expenditure,Percentage (%),1.04
+2020,3. Agriculture share of Government Expenditure,Percentage (%),0.94
+2021,3. Agriculture share of Government Expenditure,Percentage (%),0.92
+2022,3. Agriculture share of Government Expenditure,Percentage (%),0.98
+2023,3. Agriculture share of Government Expenditure,Percentage (%),1.13
+2024,3. Agriculture share of Government Expenditure,Percentage (%),1.12
+2010,4. Total government budget allocated for R&D on Agriculture,Million euro (€),0.517
+2011,4. Total government budget allocated for R&D on Agriculture,Million euro (€),0.605
+2012,4. Total government budget allocated for R&D on Agriculture,Million euro (€),0.669
+2013,4. Total government budget allocated for R&D on Agriculture,Million euro (€),0.797
+2014,4. Total government budget allocated for R&D on Agriculture,Million euro (€),0.748
+2015,4. Total government budget allocated for R&D on Agriculture,Million euro (€),0.759
+2016,4. Total government budget allocated for R&D on Agriculture,Million euro (€),0.515
+2017,4. Total government budget allocated for R&D on Agriculture,Million euro (€),0.516
+2018,4. Total government budget allocated for R&D on Agriculture,Million euro (€),1.116
+2019,4. Total government budget allocated for R&D on Agriculture,Million euro (€),1.86
+2020,4. Total government budget allocated for R&D on Agriculture,Million euro (€),1.144
+2021,4. Total government budget allocated for R&D on Agriculture,Million euro (€),1.652
+2022,4. Total government budget allocated for R&D on Agriculture,Million euro (€),1.756
+2023,4. Total government budget allocated for R&D on Agriculture,Million euro (€),1.828
+2024,4. Total government budget allocated for R&D on Agriculture,Million euro (€),1.34
+2010,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),3.6
+2011,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),4.2
+2012,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),3.4
+2013,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),3.7
+2014,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),3.9
+2015,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),3.0
+2016,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),2.5
+2017,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),2.4
+2018,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),4.3
+2019,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),6.2
+2020,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),3.4
+2021,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),4.7
+2022,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),4.5
+2023,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),4.5
+2024,5. Percentage share of government budget allocated for R&D on Agriculture,Percentage (%),3.2

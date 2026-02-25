@@ -22,7 +22,8 @@
                 "1. Agriculture orientation index for government expenditures",
                 "2. Agriculture value added share of GDP",
                 "3. Agriculture share of Government Expenditure",
-                "4. Government support to agricultural research and development",
+                "4. Total government budget allocated for R&D on Agriculture",
+                "5. Percentage share of government budget allocated for R&D on Agriculture",
                 ""
               ]
             }
@@ -33,7 +34,7 @@
             "constraints": {
               "enum": [
                 "Index",
-                "Percentage",
+                "Percentage (%)",
                 "Million euro (€)",
                 ""
               ]

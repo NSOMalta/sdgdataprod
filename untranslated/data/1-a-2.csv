@@ -11,8 +11,9 @@ Year,Series,Value
 2019,Total,56.7
 2020,Total,53.8
 2021,Total,52.6
-2022,Total,51.9
-2023,Total,52.0
+2022,Total,51.8
+2023,Total,52.3
+2024,Total,52.1
 2010,Education,12.7
 2011,Education,12.6
 2012,Education,12.4
@@ -26,7 +27,8 @@ Year,Series,Value
 2020,Education,11.7
 2021,Education,11.7
 2022,Education,11.7
-2023,Education,11.3
+2023,Education,11.5
+2024,Education,12.6
 2010,Health,12.8
 2011,Health,12.9
 2012,Health,12.9
@@ -39,8 +41,9 @@ Year,Series,Value
 2019,Health,14.6
 2020,Health,15.7
 2021,Health,15.4
-2022,Health,14.3
+2022,Health,14.2
 2023,Health,14.1
+2024,Health,13.4
 2010,Social protection,33.4
 2011,Social protection,32.8
 2012,Social protection,32.7
@@ -53,5 +56,21 @@ Year,Series,Value
 2019,Social protection,29.0
 2020,Social protection,26.4
 2021,Social protection,25.5
-2022,Social protection,26.0
-2023,Social protection,26.6
+2022,Social protection,25.9
+2023,Social protection,26.7
+2024,Social protection,26.1
+2010,Percentage of GDP,23.6
+2011,Percentage of GDP,24.2
+2012,Percentage of GDP,24.2
+2013,Percentage of GDP,23.6
+2014,Percentage of GDP,23.0
+2015,Percentage of GDP,21.5
+2016,Percentage of GDP,21.1
+2017,Percentage of GDP,19.5
+2018,Percentage of GDP,19.3
+2019,Percentage of GDP,19.8
+2020,Percentage of GDP,22.6
+2021,Percentage of GDP,20.8
+2022,Percentage of GDP,19.9
+2023,Percentage of GDP,18.7
+2024,Percentage of GDP,19.5
