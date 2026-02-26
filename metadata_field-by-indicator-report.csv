@@ -193,7 +193,7 @@ World Health Organization (WHO)",,,,,line
 #3-3-5,complete,World Health Organization (WHO),,,,Number of cases,line
 #3-4-1,complete,World Health Organization (WHO) ,,,,Percentage (%),line
 #3-4-2,complete,World Health Organization (WHO) ,,,,"Rate per 100,000 population",line
-#3-5-1,notstarted,"World Health Organization (WHO) 
+#3-5-1,complete,"World Health Organization (WHO) 
 United Nations Office on Drugs and Crime (UNODC) ",,,,,line
 #3-5-2,complete,World Health Organization (WHO) ,,,,Litres of pure alcohol,line
 #3-6-1,complete,World Health Organization (WHO) ,,,,"Per 100,000 population",line
@@ -278,7 +278,7 @@ United Nations Statistics Division (UNSD)
 International Renewable Energy Agency (IRENA)",,,,Percentage (%),line
 #7-3-1,complete,"International Energy Agency (IEA) 
 United Nations Statistics Division (UNSD)",,,,,line
-#7-a-1,notapplicable,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
+#7-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
 #7-b-1,complete,International Renewable Energy Agency (IRENA),,,,Megawatt electric (MWe),line
 #8-1-1,complete,United Nations Statistics Division (UNSD),,,,Percentage (%),line
 #8-10-1,complete,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,"per 100,000 population",line

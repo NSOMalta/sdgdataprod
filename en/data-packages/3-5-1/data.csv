@@ -1,1 +1,57 @@
-Year,Value
+Year,Series,Substance,Sex,Units,Value
+2014,Coverage of treatment interventions for daily users suffering from substance use disorders,Opioids,Both Sexes,Percentage (%),64.68
+2015,Coverage of treatment interventions for daily users suffering from substance use disorders,Opioids,Both Sexes,Percentage (%),64.11
+2016,Coverage of treatment interventions for daily users suffering from substance use disorders,Opioids,Both Sexes,Percentage (%),67.9
+2017,Coverage of treatment interventions for daily users suffering from substance use disorders,Opioids,Both Sexes,Percentage (%),70.67
+2018,Coverage of treatment interventions for daily users suffering from substance use disorders,Opioids,Both Sexes,Percentage (%),71.15
+2019,Coverage of treatment interventions for daily users suffering from substance use disorders,Opioids,Both Sexes,Percentage (%),80.55
+2020,Coverage of treatment interventions for daily users suffering from substance use disorders,Opioids,Both Sexes,Percentage (%),94.2
+2021,Coverage of treatment interventions for daily users suffering from substance use disorders,Opioids,Both Sexes,Percentage (%),57.57
+2022,Coverage of treatment interventions for daily users suffering from substance use disorders,Opioids,Both Sexes,Percentage (%),52.11
+2023,Coverage of treatment interventions for daily users suffering from substance use disorders,Opioids,Both Sexes,Percentage (%),38.48
+2024,Coverage of treatment interventions for daily users suffering from substance use disorders,Opioids,Both Sexes,Percentage (%),44.45
+2022,Coverage of treatment interventions for daily users suffering from substance use disorders,Cocaine,Both Sexes,Percentage (%),21.3
+2023,Coverage of treatment interventions for daily users suffering from substance use disorders,Cocaine,Both Sexes,Percentage (%),18.97
+2024,Coverage of treatment interventions for daily users suffering from substance use disorders,Cocaine,Both Sexes,Percentage (%),20.76
+2014,Number of persons in treatment for drug use disorders (DUD),Opioids,Both Sexes,Number of persons,1044.0
+2015,Number of persons in treatment for drug use disorders (DUD),Opioids,Both Sexes,Number of persons,1095.0
+2016,Number of persons in treatment for drug use disorders (DUD),Opioids,Both Sexes,Number of persons,1081.0
+2017,Number of persons in treatment for drug use disorders (DUD),Opioids,Both Sexes,Number of persons,1007.0
+2018,Number of persons in treatment for drug use disorders (DUD),Opioids,Both Sexes,Number of persons,826.0
+2019,Number of persons in treatment for drug use disorders (DUD),Opioids,Both Sexes,Number of persons,845.0
+2020,Number of persons in treatment for drug use disorders (DUD),Opioids,Both Sexes,Number of persons,844.0
+2021,Number of persons in treatment for drug use disorders (DUD),Opioids,Both Sexes,Number of persons,825.0
+2022,Number of persons in treatment for drug use disorders (DUD),Opioids,Both Sexes,Number of persons,716.0
+2023,Number of persons in treatment for drug use disorders (DUD),Opioids,Both Sexes,Number of persons,800.0
+2024,Number of persons in treatment for drug use disorders (DUD),Opioids,Both Sexes,Number of persons,693.0
+2014,Number of persons in treatment for drug use disorders (DUD),Opioids,Females,Number of persons,189.0
+2015,Number of persons in treatment for drug use disorders (DUD),Opioids,Females,Number of persons,206.0
+2016,Number of persons in treatment for drug use disorders (DUD),Opioids,Females,Number of persons,208.0
+2017,Number of persons in treatment for drug use disorders (DUD),Opioids,Females,Number of persons,185.0
+2018,Number of persons in treatment for drug use disorders (DUD),Opioids,Females,Number of persons,157.0
+2019,Number of persons in treatment for drug use disorders (DUD),Opioids,Females,Number of persons,159.0
+2020,Number of persons in treatment for drug use disorders (DUD),Opioids,Females,Number of persons,158.0
+2021,Number of persons in treatment for drug use disorders (DUD),Opioids,Females,Number of persons,163.0
+2022,Number of persons in treatment for drug use disorders (DUD),Opioids,Females,Number of persons,135.0
+2023,Number of persons in treatment for drug use disorders (DUD),Opioids,Females,Number of persons,155.0
+2024,Number of persons in treatment for drug use disorders (DUD),Opioids,Females,Number of persons,120.0
+2014,Number of persons in treatment for drug use disorders (DUD),Opioids,Males,Number of persons,855.0
+2015,Number of persons in treatment for drug use disorders (DUD),Opioids,Males,Number of persons,889.0
+2016,Number of persons in treatment for drug use disorders (DUD),Opioids,Males,Number of persons,873.0
+2017,Number of persons in treatment for drug use disorders (DUD),Opioids,Males,Number of persons,822.0
+2018,Number of persons in treatment for drug use disorders (DUD),Opioids,Males,Number of persons,669.0
+2019,Number of persons in treatment for drug use disorders (DUD),Opioids,Males,Number of persons,686.0
+2020,Number of persons in treatment for drug use disorders (DUD),Opioids,Males,Number of persons,686.0
+2021,Number of persons in treatment for drug use disorders (DUD),Opioids,Males,Number of persons,662.0
+2022,Number of persons in treatment for drug use disorders (DUD),Opioids,Males,Number of persons,581.0
+2023,Number of persons in treatment for drug use disorders (DUD),Opioids,Males,Number of persons,645.0
+2024,Number of persons in treatment for drug use disorders (DUD),Opioids,Males,Number of persons,573.0
+2022,Number of persons in treatment for drug use disorders (DUD),Cocaine,Both Sexes,Number of persons,312.0
+2023,Number of persons in treatment for drug use disorders (DUD),Cocaine,Both Sexes,Number of persons,385.0
+2024,Number of persons in treatment for drug use disorders (DUD),Cocaine,Both Sexes,Number of persons,391.0
+2022,Number of persons in treatment for drug use disorders (DUD),Cocaine,Females,Number of persons,70.0
+2023,Number of persons in treatment for drug use disorders (DUD),Cocaine,Females,Number of persons,77.0
+2024,Number of persons in treatment for drug use disorders (DUD),Cocaine,Females,Number of persons,79.0
+2022,Number of persons in treatment for drug use disorders (DUD),Cocaine,Males,Number of persons,242.0
+2023,Number of persons in treatment for drug use disorders (DUD),Cocaine,Males,Number of persons,308.0
+2024,Number of persons in treatment for drug use disorders (DUD),Cocaine,Males,Number of persons,312.0

@@ -12,6 +12,7 @@ Year,Sex,Value
 2021,Both Sexes,93.3
 2022,Both Sexes,96.8
 2023,Both Sexes,93.5
+2024,Both Sexes,96.5
 2011,Females,100.0
 2012,Females,100.0
 2013,Females,100.0
@@ -25,6 +26,7 @@ Year,Sex,Value
 2021,Females,94.0
 2022,Females,96.2
 2023,Females,94.0
+2024,Females,96.7
 2011,Males,97.7
 2012,Males,97.8
 2013,Males,98.2
@@ -38,3 +40,4 @@ Year,Sex,Value
 2021,Males,92.8
 2022,Males,97.4
 2023,Males,93.0
+2024,Males,96.2
