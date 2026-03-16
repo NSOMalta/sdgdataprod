@@ -3317,8 +3317,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Area under organic farming",
-                "2. Utilised agricultural area",
+                "1. Progress toward productive and sustainable agriculture, trend score",
+                "2. Progress toward productive and sustainable agriculture, current status score",
+                "3. Area under organic farming",
+                "4. Utilised agricultural area",
                 ""
               ]
             },
@@ -3329,6 +3331,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Score",
                 "Percentage (%)",
                 "Hectares (thousands)",
                 ""
