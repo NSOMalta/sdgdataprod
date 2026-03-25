@@ -21,6 +21,7 @@
               "enum": [
                 "Proportion of population covered by at least one social protection benefit",
                 "Proportion of population with severe disabilities receiving disability cash benefit",
+                "Proportion of unemployed persons receiving unemployment cash benefit",
                 ""
               ]
             }

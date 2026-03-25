@@ -105,8 +105,8 @@ UN Environment Programme",,,,,line
 #15-7-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #15-8-1,complete,International Union for Conservation of Nature (IUCN),,,,,
 #15-9-1,complete,"United Nations Environment Programme (UNEP), Convention on Biological Diversity (CBD), United Nations Statistics Division (UNSD) ",,,,,line
-#15-a-1,notstarted,Organisation for Economic Cooperation and Development (OECD),,,,,line
-#15-b-1,notstarted,Organisation for Economic Cooperation and Development (OECD),,,,,line
+#15-a-1,complete,Organisation for Economic Cooperation and Development (OECD),,,,US dollars (thousands),bar
+#15-b-1,complete,Organisation for Economic Cooperation and Development (OECD),,,,US dollars (thousands),bar
 #15-c-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-1-1,complete,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",,,,,line
 #16-1-2,notapplicable,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
@@ -157,7 +157,7 @@ United Nations Development Programme (UNDP)",,,,,line
 #17-19-1,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
 #17-19-2,complete,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations (UN DESA)",,,,,line
 #17-2-1,complete,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#17-3-1,notstarted,International Forum on TOSSD (independent entity hosted by the OECD) and UNCTAD,,,,,line
+#17-3-1,complete,International Forum on TOSSD (independent entity hosted by the OECD) and UNCTAD,,,,US dollars (thousands),bar
 #17-3-2,notstarted,World Bank (WB),,,,,line
 #17-4-1,notstarted,World Bank (WB),,,,,line
 #17-5-1,complete,United Nations Conference on Trade and Development (UNCTAD),,,,,line
@@ -226,7 +226,7 @@ United Nations Population Fund (UNFPA)",,,,,line
 UNESCO Institute for Statistics (UNESCO-UIS)
 Global Education Monitoring Report",,,,Index,bar
 #4-a-1,complete,UNESCO Institute for Statistics (UIS),,,,Percentage (%),line
-#4-b-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
+#4-b-1,complete,Organisation for Economic Co-operation and Development (OECD),,,,US dollars (thousands),bar
 #4-c-1,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
 #5-1-1,complete,"UN Women, World Bank Group, OECD Development Centre",,,,,line
 #5-2-1,complete,"World Health Organization (WHO)
@@ -265,9 +265,9 @@ United Nations Statistics Division (UNSD)",,,,Percentage (%),line
 #6-5-2,notapplicable,"Intergovernmental Hydrological Programme of United Nations Educational, Scientific and Cultural Organization (UNESCO-IHP)
 United Nations Economic Commission for Europe (UNECE)",,,,,line
 #6-6-1,complete,United Nations Environment Programme (UNEP),,,,,bar
-#6-a-1,notstarted,"World Health Organization (WHO)
+#6-a-1,complete,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
-Organisation for Economic Co-operation and Development (OECD)",,,,,line
+Organisation for Economic Co-operation and Development (OECD)",,,,US dollars (thousands),bar
 #6-b-1,notapplicable,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
 Organisation for Economic Co-operation and Development (OECD)",,,,,line
@@ -310,6 +310,6 @@ World Bank",,,,Percentage (%),line
 United Nations Industrial Development Organization (UNIDO)",,,,,line
 #9-5-1,complete,UNESCO Institute for Statistics (UIS),,,,Percentage (%),line
 #9-5-2,complete,UNESCO Institute for Statistics (UIS) ,,,,Per million population,line
-#9-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
+#9-a-1,complete,Organisation for Economic Co-operation and Development (OECD),,,,US dollars (thousands),bar
 #9-b-1,complete,United Nations Industrial Development Organization (UNIDO),,,,Percentage (%),line
 #9-c-1,complete,International Telecommunication Union (ITU),,,,Percentage (%),line
