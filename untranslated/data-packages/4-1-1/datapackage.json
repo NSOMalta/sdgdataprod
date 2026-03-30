@@ -38,12 +38,12 @@
             }
           },
           {
-            "name": "Type of Skill",
+            "name": "Minimum proficiency",
             "type": "string",
             "constraints": {
               "enum": [
-                "Minimum proficiency in mathematics",
-                "Minimum proficiency in reading",
+                "Mathematics",
+                "Reading",
                 ""
               ]
             }

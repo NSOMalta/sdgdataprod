@@ -2293,10 +2293,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine (%)",
-                "Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine (%)",
-                "Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) (%)",
-                "Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine (%)",
+                "Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine",
+                "Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine",
+                "Proportion of the target population who received measles-containing-vaccine second-dose (MCV2)",
+                "Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine",
                 ""
               ]
             },
@@ -2454,9 +2454,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Prefiscal income",
                 "Postfiscal consumable income",
                 "Postfiscal disposable income",
-                "Prefiscal income",
                 ""
               ]
             },
@@ -2464,7 +2464,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -2512,16 +2512,16 @@
             "title": "Education level"
           },
           {
-            "name": "Type of Skill",
+            "name": "Minimum proficiency",
             "type": "string",
             "constraints": {
               "enum": [
-                "Minimum proficiency in mathematics",
-                "Minimum proficiency in reading",
+                "Mathematics",
+                "Reading",
                 ""
               ]
             },
-            "title": "Type of Skill"
+            "title": "Minimum proficiency"
           },
           {
             "name": "Value",
