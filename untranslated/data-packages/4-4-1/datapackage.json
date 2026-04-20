@@ -19,15 +19,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Basic or above basic overall digital skills",
-                "Basic or above basic information and data literacy skills",
                 "Above basic overall digital skills",
-                "Above basic information and data literacy skills",
+                "Basic or above basic overall digital skills",
                 "Basic overall digital skills",
-                "Basic information and data literacy skills",
                 "Low overall digital skills",
                 "No overall digital skills",
                 "Not used the internet in the last 3 months",
+                "Above basic information and data literacy skills",
+                "Basic information and data literacy skills",
+                "Basic or above basic information and data literacy skills",
                 ""
               ]
             }
@@ -38,8 +38,8 @@
             "constraints": {
               "enum": [
                 "Both Sexes",
-                "Males",
                 "Females",
+                "Males",
                 ""
               ]
             }
