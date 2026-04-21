@@ -22,24 +22,10 @@
               "enum": [
                 "1. Use of public transport (number of commuters)",
                 "2. Number of passenger cars per 1,000 residents aged 18 and over",
-                "3. Death due to transport accidents, by sex",
                 ""
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both Sexes",
-                "Females",
-                "Males",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Units",
@@ -48,7 +34,6 @@
               "enum": [
                 "Number of commuters",
                 "Cars per 1,000 residents",
-                "Per 100,000 inhabitants",
                 ""
               ]
             },
