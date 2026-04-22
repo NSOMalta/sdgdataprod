@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of schools with access to computers for pedagogical purposes, by education level (%)",
-                "Proportion of schools with access to basic drinking water, by education level (%)",
-                "Proportion of schools with access to electricity, by education level (%)",
-                "Proportion of schools with basic handwashing facilities, by education level (%)",
-                "Proportion of schools with access to the internet for pedagogical purposes, by education level (%)",
-                "Proportion of schools with access to single-sex basic sanitation, by education level (%)",
-                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%)",
+                "Proportion of schools with access to computers for pedagogical purposes",
+                "Proportion of schools with access to basic drinking water",
+                "Proportion of schools with access to electricity",
+                "Proportion of schools with basic handwashing facilities",
+                "Proportion of schools with access to the internet for pedagogical purposes",
+                "Proportion of schools with access to single-sex basic sanitation",
+                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities",
                 ""
               ]
             },
@@ -44,6 +44,19 @@
               ]
             },
             "title": "Education level"
+          },
+          {
+            "name": "Institution type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All Institutions",
+                "Public Institutions",
+                "Private Institutions",
+                ""
+              ]
+            },
+            "title": "Institution type"
           },
           {
             "name": "Value",

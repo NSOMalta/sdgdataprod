@@ -53,7 +53,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-4-1,"Sex, Level of digital skills",2
 #4-5-1,Education level,1
 #4-6-1,Skill,1
-#4-a-1,Education level,1
+#4-a-1,"Education level, Institution type",2
 #5-1-1,Area,1
 #5-2-1,Age Group,1
 #5-2-2,Age Group,1

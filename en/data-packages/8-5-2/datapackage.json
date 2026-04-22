@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Unemployment rate, by sex and age",
-                "2. Employment rate (20-64 years), by sex",
+                "1. Unemployment rate",
+                "2. Employment rate (20-64 years)",
                 ""
               ]
             },
@@ -32,24 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-74",
                 "15-24",
+                "15-74",
                 "25-74",
                 ""
               ]
             },
             "title": "Age"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage (%)",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Sex",
