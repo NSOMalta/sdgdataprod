@@ -33,8 +33,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Square Kilometres",
-                "Percentage",
+                "Square Kilometers",
+                "Percentage of Total Land Area",
                 ""
               ]
             },
