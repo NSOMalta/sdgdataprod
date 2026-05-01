@@ -20,8 +20,8 @@
             "constraints": {
               "enum": [
                 "Proportion of people living below 50 per cent of median income",
-                "At risk of poverty or social exclusion (AROPE) by citizenship",
                 "At-risk-of poverty rate (AROP) by citizenship",
+                "At risk of poverty or social exclusion (AROPE) by citizenship",
                 ""
               ]
             }
