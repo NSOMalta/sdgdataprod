@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "1. Proportion of urban population living in inadequate housing",
                 "2. Proportion of urban population living in slums",
                 "3. Share of persons living in overcrowded households",
                 "4. Population living in an area with noise pollution",
-                "9. Number of residential dwellings per capita",
-                "1. Proportion of urban population living in inadequate housing",
                 "5. Housing cost overburden rate by poverty status",
                 "6. Material deprivation for the housing dimension",
                 "7. Population living in households with moisture damages",
                 "8. Population considering their dwelling as too dark",
+                "9. Number of residential dwellings per capita",
                 ""
               ]
             },

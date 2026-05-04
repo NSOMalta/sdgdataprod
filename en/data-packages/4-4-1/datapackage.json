@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Individuals' level of digital skills",
+                "Individuals' level of information and data literacy skills",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Level of digital skills",
             "type": "string",
             "constraints": {
