@@ -4850,8 +4850,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Individuals' level of digital skills",
                 "Individuals' level of information and data literacy skills",
+                "Individuals' level of digital skills",
                 ""
               ]
             },
@@ -4862,15 +4862,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Above basic overall digital skills",
-                "Basic or above basic overall digital skills",
-                "Basic overall digital skills",
-                "Low overall digital skills",
-                "No overall digital skills",
-                "Not used the internet in the last 3 months",
                 "Above basic information and data literacy skills",
                 "Basic information and data literacy skills",
                 "Basic or above basic information and data literacy skills",
+                "Low overall digital skills",
+                "No overall digital skills",
+                "Not used the internet in the last 3 months",
+                "Above basic overall digital skills",
+                "Basic or above basic overall digital skills",
+                "Basic overall digital skills",
                 ""
               ]
             },
