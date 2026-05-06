@@ -1354,8 +1354,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of automated teller machines (ATMs) per 100,000 adults",
                 "Number of commercial bank branches per 100,000 adults",
+                "Number of automated teller machines (ATMs) per 100,000 adults",
                 ""
               ]
             },

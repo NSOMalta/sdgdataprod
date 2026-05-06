@@ -281,7 +281,7 @@ United Nations Statistics Division (UNSD)",,,,,line
 #7-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
 #7-b-1,complete,International Renewable Energy Agency (IRENA),,,,Megawatt electric (MWe),line
 #8-1-1,complete,United Nations Statistics Division (UNSD),,,,Percentage (%),line
-#8-10-1,complete,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,"per 100,000 population",line
+#8-10-1,complete,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,"per 100,000 population",bar
 #8-10-2,complete,World Bank ,,,,Percentage (%),line
 #8-2-1,complete,International Labour Organization (ILO),,,,Percentage (%),line
 #8-3-1,complete,International Labour Organization (ILO),,,,Percentage (%),line
