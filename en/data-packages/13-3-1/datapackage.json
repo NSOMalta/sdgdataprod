@@ -20,14 +20,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies",
-                "Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula",
-                "Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education",
-                "Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment",
+                "Mainstreaming of global citizenship education and education for sustainable development in education system",
+                "Score on greening education",
                 ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Educational aspect",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National education policies",
+                "Curricula",
+                "Teacher education",
+                "Student assessment",
+                "Biodiversity",
+                "Climate change",
+                "Environment and sustainability",
+                "Environment and sustainability, climate change, and biodiversity",
+                ""
+              ]
+            },
+            "title": "Educational aspect"
           },
           {
             "name": "Value",

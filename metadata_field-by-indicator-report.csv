@@ -61,7 +61,7 @@ United Nations Environment Programme (UNEP)",,,,,line
 #12-7-1,complete,United Nations Environment Programme (UNEP),,,,Score,bar
 #12-8-1,complete,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
 UNESCO Institute for Statistics (UNESCO-UIS)
-Global Education Monitoring Report",,,,Index,bar
+Global Education Monitoring Report",,,,Percentage (%),bar
 #12-a-1,complete,International Renewable Energy Agency (IRENA),,,,Megawatt electric (MWe),line
 #12-b-1,complete,The World Tourism Organization (UN Tourism),,,,Number of tables,line
 #12-c-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
@@ -72,7 +72,7 @@ Global Education Monitoring Report",,,,Index,bar
 #13-2-2,complete,United Nations Framework Convention on Climate Change (UNFCCC Secretariat),,,,Gigagrams of CO2-equivalent,line
 #13-3-1,complete,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
 UNESCO Institute for Statistics (UNESCO-UIS)
-Global Education Monitoring Report",,,,Index,bar
+Global Education Monitoring Report",,,,Percentage (%),bar
 #13-a-1,complete,UN Climate Change (UNFCCC Secretariat),,,,Euro (€),line
 #13-b-1,notapplicable,United Nations Framework Convention on Climate Change (UNFCCC Secretariat),,,,,line
 #14-1-1,complete,United Nations Environment Programme (UNEP),,,,Percentage (%),line
@@ -224,7 +224,7 @@ United Nations Population Fund (UNFPA)",,,,,line
 #4-6-1,complete,UNESCO Institute for Statistics (UIS),,,,Percentage (%),bar
 #4-7-1,complete,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
 UNESCO Institute for Statistics (UNESCO-UIS)
-Global Education Monitoring Report",,,,Index,bar
+Global Education Monitoring Report",,,,Percentage (%),bar
 #4-a-1,complete,UNESCO Institute for Statistics (UIS),,,,Percentage (%),line
 #4-b-1,complete,Organisation for Economic Co-operation and Development (OECD),,,,US dollars (thousands),bar
 #4-c-1,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
