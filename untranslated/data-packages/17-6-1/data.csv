@@ -1,15 +1,61 @@
-Year,Value
-2010,29.79
-2011,30.3
-2012,31.82
-2013,33.38
-2014,34.88
-2015,36.68
-2016,37.62
-2017,38.75
-2018,39.59
-2019,40.18
-2020,41.11
-2021,42.18
-2022,43.45
-2023,44.28
+Year,Series,Speed,Units,Value
+2015,Fixed broadband subscriptions per 100 inhabitants,Total,Per 100 population,36.68
+2015,Number of fixed broadband subscriptions,Total,Number of subscriptions,163205.0
+2015,Fixed broadband subscriptions per 100 inhabitants,10 Mbps and over,Per 100 population,36.06
+2015,Number of fixed broadband subscriptions,10 Mbps and over,Number of subscriptions,160474.0
+2015,Fixed broadband subscriptions per 100 inhabitants,Between 2 Mbps and 10 Mbps,Per 100 population,0.61
+2015,Number of fixed broadband subscriptions,Between 2 Mbps and 10 Mbps,Number of subscriptions,2731.0
+2016,Fixed broadband subscriptions per 100 inhabitants,Total,Per 100 population,37.62
+2016,Number of fixed broadband subscriptions,Total,Number of subscriptions,171263.0
+2016,Fixed broadband subscriptions per 100 inhabitants,10 Mbps and over,Per 100 population,37.35
+2016,Number of fixed broadband subscriptions,10 Mbps and over,Number of subscriptions,170024.0
+2016,Fixed broadband subscriptions per 100 inhabitants,Between 2 Mbps and 10 Mbps,Per 100 population,0.27
+2016,Number of fixed broadband subscriptions,Between 2 Mbps and 10 Mbps,Number of subscriptions,1239.0
+2017,Fixed broadband subscriptions per 100 inhabitants,Total,Per 100 population,38.75
+2017,Number of fixed broadband subscriptions,Total,Number of subscriptions,181318.0
+2017,Fixed broadband subscriptions per 100 inhabitants,10 Mbps and over,Per 100 population,38.57
+2017,Number of fixed broadband subscriptions,10 Mbps and over,Number of subscriptions,180461.0
+2017,Fixed broadband subscriptions per 100 inhabitants,Between 2 Mbps and 10 Mbps,Per 100 population,0.18
+2017,Number of fixed broadband subscriptions,Between 2 Mbps and 10 Mbps,Number of subscriptions,857.0
+2018,Fixed broadband subscriptions per 100 inhabitants,Total,Per 100 population,39.59
+2018,Number of fixed broadband subscriptions,Total,Number of subscriptions,191833.0
+2018,Fixed broadband subscriptions per 100 inhabitants,10 Mbps and over,Per 100 population,39.48
+2018,Number of fixed broadband subscriptions,10 Mbps and over,Number of subscriptions,191310.0
+2018,Fixed broadband subscriptions per 100 inhabitants,Between 2 Mbps and 10 Mbps,Per 100 population,0.11
+2018,Number of fixed broadband subscriptions,Between 2 Mbps and 10 Mbps,Number of subscriptions,523.0
+2019,Fixed broadband subscriptions per 100 inhabitants,Total,Per 100 population,40.18
+2019,Number of fixed broadband subscriptions,Total,Number of subscriptions,202513.0
+2019,Fixed broadband subscriptions per 100 inhabitants,10 Mbps and over,Per 100 population,40.1
+2019,Number of fixed broadband subscriptions,10 Mbps and over,Number of subscriptions,202104.0
+2019,Fixed broadband subscriptions per 100 inhabitants,Between 2 Mbps and 10 Mbps,Per 100 population,0.08
+2019,Number of fixed broadband subscriptions,Between 2 Mbps and 10 Mbps,Number of subscriptions,409.0
+2020,Fixed broadband subscriptions per 100 inhabitants,Total,Per 100 population,41.11
+2020,Number of fixed broadband subscriptions,Total,Number of subscriptions,213032.0
+2020,Fixed broadband subscriptions per 100 inhabitants,10 Mbps and over,Per 100 population,41.04
+2020,Number of fixed broadband subscriptions,10 Mbps and over,Number of subscriptions,212671.0
+2020,Fixed broadband subscriptions per 100 inhabitants,Between 2 Mbps and 10 Mbps,Per 100 population,0.07
+2020,Number of fixed broadband subscriptions,Between 2 Mbps and 10 Mbps,Number of subscriptions,361.0
+2021,Fixed broadband subscriptions per 100 inhabitants,Total,Per 100 population,42.18
+2021,Number of fixed broadband subscriptions,Total,Number of subscriptions,221198.0
+2021,Fixed broadband subscriptions per 100 inhabitants,10 Mbps and over,Per 100 population,42.13
+2021,Number of fixed broadband subscriptions,10 Mbps and over,Number of subscriptions,220932.0
+2021,Fixed broadband subscriptions per 100 inhabitants,Between 2 Mbps and 10 Mbps,Per 100 population,0.05
+2021,Number of fixed broadband subscriptions,Between 2 Mbps and 10 Mbps,Number of subscriptions,266.0
+2022,Fixed broadband subscriptions per 100 inhabitants,Total,Per 100 population,43.44
+2022,Number of fixed broadband subscriptions,Total,Number of subscriptions,229473.0
+2022,Fixed broadband subscriptions per 100 inhabitants,10 Mbps and over,Per 100 population,43.4
+2022,Number of fixed broadband subscriptions,10 Mbps and over,Number of subscriptions,229221.0
+2022,Fixed broadband subscriptions per 100 inhabitants,Between 2 Mbps and 10 Mbps,Per 100 population,0.05
+2022,Number of fixed broadband subscriptions,Between 2 Mbps and 10 Mbps,Number of subscriptions,252.0
+2023,Fixed broadband subscriptions per 100 inhabitants,Total,Per 100 population,44.28
+2023,Number of fixed broadband subscriptions,Total,Number of subscriptions,236006.0
+2023,Fixed broadband subscriptions per 100 inhabitants,10 Mbps and over,Per 100 population,44.24
+2023,Number of fixed broadband subscriptions,10 Mbps and over,Number of subscriptions,235789.0
+2023,Fixed broadband subscriptions per 100 inhabitants,Between 2 Mbps and 10 Mbps,Per 100 population,0.04
+2023,Number of fixed broadband subscriptions,Between 2 Mbps and 10 Mbps,Number of subscriptions,217.0
+2024,Fixed broadband subscriptions per 100 inhabitants,Total,Per 100 population,44.51
+2024,Number of fixed broadband subscriptions,Total,Number of subscriptions,240162.0
+2024,Fixed broadband subscriptions per 100 inhabitants,10 Mbps and over,Per 100 population,44.47
+2024,Number of fixed broadband subscriptions,10 Mbps and over,Number of subscriptions,239966.0
+2024,Fixed broadband subscriptions per 100 inhabitants,Between 2 Mbps and 10 Mbps,Per 100 population,0.04
+2024,Number of fixed broadband subscriptions,Between 2 Mbps and 10 Mbps,Number of subscriptions,196.0

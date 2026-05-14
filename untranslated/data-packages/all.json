@@ -125,6 +125,40 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fixed broadband subscriptions per 100 inhabitants",
+                "Number of fixed broadband subscriptions",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Speed",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "10 Mbps and over",
+                "Between 2 Mbps and 10 Mbps",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 100 population",
+                "Number of subscriptions",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -5254,8 +5288,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Most-favoured nation status",
-                "Preferential status",
+                "Average tariff applied by developed countries, most-favored nation status",
+                "Average tariff applied by developed countries, preferential status",
                 ""
               ]
             }
@@ -5265,12 +5299,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agricultural products",
-                "Arms",
-                "Clothing",
-                "Industrial products",
+                "Total",
                 "Textiles",
-                "Other",
+                "Oil",
+                "Industrial products",
+                "Clothing",
+                "Arms",
+                "Agricultural products",
                 ""
               ]
             }
@@ -5977,7 +6012,7 @@
             "type": "integer"
           },
           {
-            "name": "EST type",
+            "name": "EST",
             "type": "string",
             "constraints": {
               "enum": [

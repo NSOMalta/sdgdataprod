@@ -1,6 +1,7 @@
 Value,Number of indicators
 Constant 2017 international $,1
 Constant PPP US dollars,1
+Current US dollars (millions),1
 "Deaths per 1,000 live births",2
 Euro (€),2
 Gigagrams of CO2-equivalent,1
@@ -11,7 +12,7 @@ Index,4
 "Infections per 1,000 persons",1
 Litres of pure alcohol,1
 Megawatt electric (MWe),2
-Millions of current United States dollars,2
+Millions of current United States dollars,1
 Number of cases,1
 Number of maternal deaths,1
 Number of Persons,1
@@ -25,6 +26,5 @@ Percentage (%),77
 Ratio,2
 Score,3
 Standardised death rate,1
-Subscriptions per 100 inhabitants,1
 US dollars (thousands),8
 USD per cubic meter,1

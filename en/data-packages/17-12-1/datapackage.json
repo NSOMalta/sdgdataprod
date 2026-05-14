@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Most-favoured nation status",
-                "Preferential status",
+                "Average tariff applied by developed countries, most-favored nation status",
+                "Average tariff applied by developed countries, preferential status",
                 ""
               ]
             },
@@ -32,12 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agricultural products",
-                "Arms",
-                "Clothing",
-                "Industrial products",
+                "Total",
                 "Textiles",
-                "Other",
+                "Oil",
+                "Industrial products",
+                "Clothing",
+                "Arms",
+                "Agricultural products",
                 ""
               ]
             },

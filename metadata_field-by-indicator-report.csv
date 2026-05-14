@@ -143,7 +143,7 @@ United Nations Conference on Trade and Development (UNCTAD)
 The World Trade Organization (WTO)",,,,,line
 #17-12-1,complete,"International Trade Centre (ITC)
 United Nations Conference on Trade and Development (UNCTAD)
-The World Trade Organization (WTO)",,,,Percentage (%),bar
+The World Trade Organization (WTO)",,,,Percentage (%),line
 #17-13-1,notstarted,World Bank,,,,,line
 #17-14-1,complete,"United Nations Environment Programme (UNEP)
 The Organisation for Economic Co-operation and Development (OECD)",,,,,line
@@ -162,8 +162,8 @@ United Nations Development Programme (UNDP)",,,,,line
 #17-3-2,notstarted,World Bank (WB),,,,,line
 #17-4-1,notstarted,World Bank (WB),,,,,line
 #17-5-1,complete,United Nations Conference on Trade and Development (UNCTAD),,,,,line
-#17-6-1,complete,International Telecommunication Union (ITU),,,,Subscriptions per 100 inhabitants,line
-#17-7-1,complete,United Nations Environment Programme (UNEP),,,,Millions of current United States dollars,line
+#17-6-1,complete,International Telecommunication Union (ITU),,,,,line
+#17-7-1,complete,United Nations Environment Programme (UNEP),,,,Current US dollars (millions),line
 #17-8-1,complete,International Telecommunication Union (ITU),,,,Percentage (%),line
 #17-9-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #2-1-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
