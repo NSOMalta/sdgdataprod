@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Net ODA as a proportion of the OECD DAC donors’ GNI",
-                "Total ODA in millions of euros (current prices)",
+                "ODA grant equivalent as a percentage of GNI",
+                "Net ODA flows as a percentage of GNI",
                 ""
               ]
             },
@@ -33,7 +33,6 @@
             "constraints": {
               "enum": [
                 "Percentage (%)",
-                "Euro (millions)",
                 ""
               ]
             },

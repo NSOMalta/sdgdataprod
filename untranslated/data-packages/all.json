@@ -4133,6 +4133,28 @@
       "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
+      "path": "17-9-1/data.csv",
+      "name": "17-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Dollar value of official development assistance committed to developing countries"
+    },
+    {
       "path": "3-4-2/data.csv",
       "name": "3-4-2",
       "profile": "tabular-data-resource",
@@ -5683,8 +5705,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Net ODA as a proportion of the OECD DAC donors’ GNI",
-                "Total ODA in millions of euros (current prices)",
+                "ODA grant equivalent as a percentage of GNI",
+                "Net ODA flows as a percentage of GNI",
                 ""
               ]
             }
@@ -5695,7 +5717,6 @@
             "constraints": {
               "enum": [
                 "Percentage (%)",
-                "Euro (millions)",
                 ""
               ]
             }
@@ -6734,28 +6755,6 @@
         ]
       },
       "title": "Macroeconomic Dashboard"
-    },
-    {
-      "path": "17-9-1/data.csv",
-      "name": "17-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Dollar value of official development assistance committed to developing countries"
     },
     {
       "path": "13-b-1/data.csv",
