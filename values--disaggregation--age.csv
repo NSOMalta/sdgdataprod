@@ -16,11 +16,12 @@ Value,Disaggregation combinations using this value,Number of indicators
 25-74,3,1
 25+,1,1
 35-44 years,3,1
+<35Y,1,1
 45-54 years,3,1
 <=45Y,1,1
 <45Y,4,1
 50+,4,2
 55-74 years,3,1
 65+,3,3
-All Ages,16,6
-Total,19,2
+All Ages,35,7
+Total,9,1

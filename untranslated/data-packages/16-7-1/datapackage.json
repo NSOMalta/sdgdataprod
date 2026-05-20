@@ -33,8 +33,9 @@
             "constraints": {
               "enum": [
                 "<=45Y",
-                "Total",
+                "<35Y",
                 "<45Y",
+                "All Ages",
                 ""
               ]
             }
@@ -56,11 +57,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total national-level public service personnel",
+                "Clerical Support Workers",
                 "Managers",
                 "Professionals",
                 "Technicians and Associate Professionals",
-                "Clerical Support Workers",
-                "Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",
                 ""
               ]
             }
