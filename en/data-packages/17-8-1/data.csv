@@ -1,46 +1,49 @@
 Year,Sex,Value
-2010,Females,58.46
-2010,Males,67.66
 2010,Both Sexes,63.0
-2011,Females,66.46
-2011,Males,69.58
-2011,Both Sexes,68.02
-2012,Females,66.32
-2012,Males,70.77
+2011,Both Sexes,68.0
 2012,Both Sexes,68.2
-2013,Females,66.86
-2013,Males,70.94
-2013,Both Sexes,68.91
-2014,Females,71.64
-2014,Males,74.55
-2014,Both Sexes,73.17
-2015,Females,74.58
-2015,Males,77.3
-2015,Both Sexes,75.96
+2013,Both Sexes,68.9
+2014,Both Sexes,73.1
+2015,Both Sexes,76.0
+2016,Both Sexes,78.1
+2017,Both Sexes,81.0
+2018,Both Sexes,81.7
+2019,Both Sexes,85.8
+2020,Both Sexes,86.9
+2021,Both Sexes,87.5
+2022,Both Sexes,91.5
+2023,Both Sexes,92.8
+2024,Both Sexes,94.0
+2025,Both Sexes,96.0
+2010,Females,58.5
+2011,Females,66.5
+2012,Females,66.3
+2013,Females,66.9
+2014,Females,71.6
+2015,Females,74.6
 2016,Females,78.0
-2016,Males,78.15
-2016,Both Sexes,78.08
-2017,Females,79.51
-2017,Males,82.44
-2017,Both Sexes,81.01
-2018,Females,81.71
-2018,Males,81.61
-2018,Both Sexes,81.66
-2019,Females,85.82
-2019,Males,85.74
-2019,Both Sexes,85.78
-2020,Females,86.98
-2020,Males,86.75
-2020,Both Sexes,86.86
-2021,Females,87.79
-2021,Males,87.18
-2021,Both Sexes,87.47
-2022,Females,91.18
-2022,Males,91.86
-2022,Both Sexes,91.54
-2023,Females,94.0
-2023,Males,90.3
-2023,Both Sexes,92.1
-2024,Both Sexes,93.3
-2024,Females,93.6
-2024,Males,93.0
+2017,Females,79.5
+2018,Females,81.7
+2019,Females,85.8
+2020,Females,87.0
+2021,Females,87.8
+2022,Females,91.2
+2023,Females,94.4
+2024,Females,94.1
+2025,Females,95.9
+2010,Males,67.7
+2011,Males,69.6
+2012,Males,70.8
+2013,Males,70.9
+2014,Males,74.6
+2015,Males,77.3
+2016,Males,78.1
+2017,Males,82.4
+2018,Males,81.6
+2019,Males,85.7
+2020,Males,86.8
+2021,Males,87.2
+2022,Males,91.9
+2023,Males,91.4
+2024,Males,93.9
+2025,Males,96.1
