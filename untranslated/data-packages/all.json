@@ -2532,9 +2532,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "18+",
+                "All Ages",
                 "0 - 17",
+                "18+",
                 ""
               ]
             }
@@ -2544,10 +2544,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "All citizens",
                 "Maltese",
-                "Other EU",
                 "Non-EU",
+                "Other EU",
                 ""
               ]
             }
@@ -2557,10 +2557,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Forced labour",
-                "Sexual exploitation",
                 "Other forms",
+                "Sexual exploitation",
+                "All forms",
                 ""
               ]
             }
@@ -2571,7 +2571,7 @@
             "constraints": {
               "enum": [
                 "Number of victims",
-                "Per 100,000 mid-year population",
+                "Per 100,000 population",
                 ""
               ]
             }
@@ -4491,8 +4491,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total number of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years",
-                "Rate of active and new referrals received by the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14",
+                "Number of cases referred to the Child Protection Services concerning service users aged <1 to 14 years",
+                "Rate of referrals to the Child Protection Services concerning service users aged <1 to 14 years, per 1,000 population aged 0-14",
                 ""
               ]
             }
@@ -4502,7 +4502,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of referrals",
+                "Number of cases",
                 "Per 1,000 population aged 0-14",
                 ""
               ]
