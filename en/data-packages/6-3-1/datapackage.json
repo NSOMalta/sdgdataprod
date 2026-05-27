@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of total wastewater flow treated",
-                "Proportion of total wastewater flow safely treated",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
