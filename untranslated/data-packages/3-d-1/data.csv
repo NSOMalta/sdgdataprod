@@ -1,46 +1,65 @@
 Year,IHR Capacity,Value
-2021,Chemical events,20
-2022,Chemical events,20
-2023,Chemical events,20
-2021,Financing,60
-2022,Financing,60
-2023,Financing,70
-2021,Food safety,80
-2022,Food safety,80
-2023,Food safety,60
-2021,Health emergency management,53
-2022,Health emergency management,53
-2023,Health emergency management,40
-2021,Health services provision,93
-2022,Health services provision,93
-2023,Health services provision,93
-2021,Human resources,90
-2022,Human resources,90
-2023,Human resources,80
-2021,"IHR Coordination, National IHR Focal Point functions and advocacy",73
-2022,"IHR Coordination, National IHR Focal Point functions and advocacy",73
-2023,"IHR Coordination, National IHR Focal Point functions and advocacy",73
-2021,Infection prevention and control (IPC),93
-2022,Infection prevention and control (IPC),93
-2023,Infection prevention and control (IPC),93
-2021,Laboratory,84
-2022,Laboratory,84
-2023,Laboratory,80
-2021,Points of entry (PoEs) and border health,67
-2022,Points of entry (PoEs) and border health,67
-2023,Points of entry (PoEs) and border health,67
-2021,"Policy, Legal and normative Instruments to implement IHR",70
-2022,"Policy, Legal and normative Instruments to implement IHR",70
-2023,"Policy, Legal and normative Instruments to implement IHR",80
-2021,Radiation emergencies,40
-2022,Radiation emergencies,40
-2023,Radiation emergencies,40
-2021,Risk communication and community engagement (RCCE),87
-2022,Risk communication and community engagement (RCCE),87
-2023,Risk communication and community engagement (RCCE),80
-2021,Surveillance,80
-2022,Surveillance,80
-2023,Surveillance,80
-2021,Zoonotic diseases,100
-2022,Zoonotic diseases,100
-2023,Zoonotic diseases,80
+2021,Overall score,73
+2021,"C01: Policy, legal and normative instruments to implement IHR",70
+2021,"C02: IHR coordination, national IHR Focal Point functions and advocacy",73
+2021,C03: Financing,60
+2021,C04: Laboratory,84
+2021,C05: Surveillance,80
+2021,C06: Human resources,90
+2021,C07: Health emergency management,53
+2021,C08: Health services provision,93
+2021,C09: Infection prevention and control,93
+2021,C10: Risk communication and community engagement,87
+2021,C11: Points of entry (PoEs) and border health,67
+2021,C12: Zoonotic diseases,100
+2021,C13: Food safety,80
+2021,C14: Chemical events,20
+2021,C15: Radiation emergencies,40
+2022,Overall score,73
+2022,"C01: Policy, legal and normative instruments to implement IHR",70
+2022,"C02: IHR coordination, national IHR Focal Point functions and advocacy",73
+2022,C03: Financing,60
+2022,C04: Laboratory,84
+2022,C05: Surveillance,80
+2022,C06: Human resources,90
+2022,C07: Health emergency management,53
+2022,C08: Health services provision,93
+2022,C09: Infection prevention and control,93
+2022,C10: Risk communication and community engagement,87
+2022,C11: Points of entry (PoEs) and border health,67
+2022,C12: Zoonotic diseases,100
+2022,C13: Food safety,80
+2022,C14: Chemical events,20
+2022,C15: Radiation emergencies,40
+2023,Overall score,69
+2023,"C01: Policy, legal and normative instruments to implement IHR",80
+2023,"C02: IHR coordination, national IHR Focal Point functions and advocacy",73
+2023,C03: Financing,70
+2023,C04: Laboratory,80
+2023,C05: Surveillance,80
+2023,C06: Human resources,80
+2023,C07: Health emergency management,40
+2023,C08: Health services provision,93
+2023,C09: Infection prevention and control,93
+2023,C10: Risk communication and community engagement,80
+2023,C11: Points of entry (PoEs) and border health,67
+2023,C12: Zoonotic diseases,80
+2023,C13: Food safety,60
+2023,C14: Chemical events,20
+2023,C15: Radiation emergencies,40
+2024,Overall score,69
+2024,"C01: Policy, legal and normative instruments to implement IHR",80
+2024,"C02: IHR coordination, national IHR Focal Point functions and advocacy",73
+2024,C03: Financing,70
+2024,C04: Laboratory,80
+2024,C05: Surveillance,80
+2024,C06: Human resources,80
+2024,C07: Health emergency management,40
+2024,C08: Health services provision,93
+2024,C09: Infection prevention and control,93
+2024,C10: Risk communication and community engagement,80
+2024,C11: Points of entry (PoEs) and border health,67
+2024,C12: Zoonotic diseases,80
+2024,C13: Food safety,60
+2024,C14: Chemical events,20
+2024,C15: Radiation emergencies,40
