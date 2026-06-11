@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1. Water Use Efficiency (US dollars per cubic metre)",
-                "2. Water Use Efficiency (Euros per cubic metre)",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Activity",
             "type": "string",
             "constraints": {
@@ -40,18 +28,6 @@
               ]
             },
             "title": "Activity"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "US dollars per cubic metre",
-                "Euros per cubic metre",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
