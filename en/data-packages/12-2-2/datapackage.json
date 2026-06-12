@@ -21,10 +21,10 @@
             "constraints": {
               "enum": [
                 "Domestic Material Consumption (DMC)",
-                "DMC per capita",
-                "GDP per unit of DMC (Resource Productivity)",
                 "Domestic Material Consumption (DMC) in Index form",
+                "DMC per capita",
                 "DMC per capita in Index form",
+                "GDP per unit of DMC (Resource Productivity)",
                 "GDP per unit of DMC (Resource Productivity) in Index form",
                 ""
               ]
@@ -37,9 +37,9 @@
             "constraints": {
               "enum": [
                 "Metric tonnes (thousands)",
+                "Index (2010=100)",
                 "Tonnes per person",
                 "EUR per kilogramme",
-                "Index (2010=100)",
                 ""
               ]
             },
