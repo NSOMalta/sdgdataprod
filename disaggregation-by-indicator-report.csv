@@ -22,7 +22,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-3-1,Type of offence,1
 #16-3-2,Sex,1
 #16-6-2,Institution,1
-#16-7-1,"Sex, Age, Type of Occupation, Court Level",4
+#16-7-1,"Sex, Type of Occupation, Age, Court Level",4
 #16-b-1,Sex,1
 #17-1-1,Source,1
 #17-12-1,Product,1
@@ -32,7 +32,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-8-1,Sex,1
 #2-1-2,Sex,1
 #2-2-1,Sex,1
-#2-2-2,"Sex, Body Mass Index, Age",3
+#2-2-2,"Sex, Age, Body Mass Index",3
 #2-2-3,Pregnancy status,1
 #2-3-1,Sex,1
 #2-c-1,Type of product,1

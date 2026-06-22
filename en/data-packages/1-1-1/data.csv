@@ -1,40 +1,43 @@
 Year,Sex,Value
 2010,Both Sexes,0.3
-2011,Both Sexes,0.2
-2012,Both Sexes,0.2
-2013,Both Sexes,0.0
-2014,Both Sexes,0.0
-2015,Both Sexes,0.1
-2016,Both Sexes,0.1
-2017,Both Sexes,0.2
-2018,Both Sexes,0.2
-2019,Both Sexes,0.3
-2020,Both Sexes,0.4
-2021,Both Sexes,0.1
-2022,Both Sexes,0.1
 2010,Females,0.32
-2011,Females,0.22
-2012,Females,0.22
-2013,Females,0.03
-2014,Females,0.0
-2015,Females,0.08
-2016,Females,0.1
-2017,Females,0.16
-2018,Females,0.13
-2019,Females,0.15
-2020,Females,0.27
-2021,Females,0.2
-2022,Females,0.13
 2010,Males,0.2
+2011,Both Sexes,0.2
+2011,Females,0.22
 2011,Males,0.2
+2012,Both Sexes,0.2
+2012,Females,0.22
 2012,Males,0.15
+2013,Both Sexes,0.0
+2013,Females,0.03
 2013,Males,0.03
+2014,Both Sexes,0.0
+2014,Females,0.0
 2014,Males,0.0
+2015,Both Sexes,0.1
+2015,Females,0.08
 2015,Males,0.09
+2016,Both Sexes,0.1
+2016,Females,0.1
 2016,Males,0.13
+2017,Both Sexes,0.2
+2017,Females,0.16
 2017,Males,0.17
+2018,Both Sexes,0.2
+2018,Females,0.13
 2018,Males,0.19
+2019,Both Sexes,0.3
+2019,Females,0.15
 2019,Males,0.45
+2020,Both Sexes,0.4
+2020,Females,0.27
 2020,Males,0.5
+2021,Both Sexes,0.1
+2021,Females,0.2
 2021,Males,0.05
+2022,Both Sexes,0.1
+2022,Females,0.13
 2022,Males,0.09
+2023,Both Sexes,0.4
+2023,Females,0.25
+2023,Males,0.52

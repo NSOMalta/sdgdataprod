@@ -56,7 +56,7 @@
             "constraints": {
               "enum": [
                 "Number per 100,000 population",
-                "Percentage",
+                "Percentage (%)",
                 "Number of decisions",
                 ""
               ]
