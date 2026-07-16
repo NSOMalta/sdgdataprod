@@ -156,7 +156,7 @@ United Nations Development Programme (UNDP)",,,,,line
 #17-18-2,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
 #17-18-3,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
 #17-19-1,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
-#17-19-2,complete,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations (UN DESA)",,,,,line
+#17-19-2,complete,United Nations Statistics Division (UNSD),,,,,line
 #17-2-1,complete,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #17-3-1,complete,International Forum on TOSSD (independent entity hosted by the OECD) and the United Nations Trade and Development (UNCTAD),,,,US dollars (thousands),bar
 #17-3-2,notstarted,World Bank (WB),,,,,line
@@ -198,8 +198,8 @@ World Health Organization (WHO)",,,,,line
 United Nations Office on Drugs and Crime (UNODC) ",,,,,line
 #3-5-2,complete,World Health Organization (WHO) ,,,,Litres of pure alcohol,line
 #3-6-1,complete,World Health Organization (WHO) ,,,,"Per 100,000 population",line
-#3-7-1,notstarted,"Population Division, Department of Economic and Social Affairs (DESA)
-United Nations Population Fund (UNFPA)",,,,,line
+#3-7-1,complete,"Population Division, Department of Economic and Social Affairs (DESA)
+United Nations Population Fund (UNFPA)",,,,Percentage (%),bar
 #3-7-2,complete,"Population Division, Department of Economic and Social Affairs (DESA) 
 United Nations Population Fund (UNFPA)",,,,,line
 #3-8-1,complete,World Health Organization (WHO) ,,,,,line
@@ -245,7 +245,7 @@ United Nations Statistics Division (UNSD)",,,,Percentage (%),bar
 #5-4-1,complete,UN Statistics Division (UNSD) and UN WOMEN,,,,Percentage (%),line
 #5-5-1,complete,Inter-Parliamentary Union (IPU),,,,,line
 #5-5-2,complete,International Labour Organization (ILO),,,,Percentage (%),line
-#5-6-1,notstarted,United Nations Population Fund (UNFPA),,,,,line
+#5-6-1,complete,United Nations Population Fund (UNFPA),,,,Percentage (%),bar
 #5-6-2,notstarted,United Nations Population Fund (UNFPA),,,,,line
 #5-a-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #5-a-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
@@ -299,7 +299,7 @@ International Labour Organization (ILO)",,,,,line
 #8-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
 #8-b-1,complete,International Labour Organization (ILO) ,,,,,line
 #9-1-1,complete,World Bank,,,,Percentage (%),line
-#9-1-2,complete,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); UN Trade and Development (UNCTAD).,,,,,line
+#9-1-2,complete,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Conference on Trade and Development (UNCTAD).,,,,,line
 #9-2-1,complete,United Nations Industrial Development Organization (UNIDO),,,,,line
 #9-2-2,complete,"United Nations Industrial Development Organization (UNIDO)
 (with the collaboration of the International Labour Organization &#x2013; ILO)",,,,Percentage (%),line

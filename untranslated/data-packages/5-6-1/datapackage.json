@@ -12,7 +12,73 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frequency of contraception use in the past 12 months among the sexually active population",
+                "Contraception method used among individuals who used contraception in the past 12 months",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Females",
+                "Males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Frequency",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Always",
+                "Frequently",
+                "Sometimes",
+                "Rarely",
+                "Never",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "<=39",
+                "40-59",
+                "60+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Method used",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Natural family planning",
+                "Withdrawal",
+                "Contraceptive pill",
+                "Cap/diaphragm",
+                "Coil",
+                "Intra Uterine System",
+                "Condom",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

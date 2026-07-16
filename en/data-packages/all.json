@@ -3762,6 +3762,101 @@
       "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
+      "path": "5-6-1/data.csv",
+      "name": "5-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frequency of contraception use in the past 12 months among the sexually active population",
+                "Contraception method used among individuals who used contraception in the past 12 months",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Females",
+                "Males",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Frequency",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Always",
+                "Frequently",
+                "Sometimes",
+                "Rarely",
+                "Never",
+                ""
+              ]
+            },
+            "title": "Frequency"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "<=39",
+                "40-59",
+                "60+",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Method used",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Natural family planning",
+                "Withdrawal",
+                "Contraceptive pill",
+                "Cap/diaphragm",
+                "Coil",
+                "Intra Uterine System",
+                "Condom",
+                ""
+              ]
+            },
+            "title": "Method used"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+    },
+    {
       "path": "14-7-1/data.csv",
       "name": "14-7-1",
       "profile": "tabular-data-resource",
@@ -3808,6 +3903,101 @@
         ]
       },
       "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector"
+    },
+    {
+      "path": "3-7-1/data.csv",
+      "name": "3-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frequency of contraception use in the past 12 months among the sexually active population",
+                "Contraception method used among individuals who used contraception in the past 12 months",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Females",
+                "Males",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Frequency",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Always",
+                "Frequently",
+                "Sometimes",
+                "Rarely",
+                "Never",
+                ""
+              ]
+            },
+            "title": "Frequency"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "<=39",
+                "40-59",
+                "60+",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Method used",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Natural family planning",
+                "Withdrawal",
+                "Contraceptive pill",
+                "Cap/diaphragm",
+                "Coil",
+                "Intra Uterine System",
+                "Condom",
+                ""
+              ]
+            },
+            "title": "Method used"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
     },
     {
       "path": "12-2-1/data.csv",
@@ -7934,30 +8124,6 @@
       "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development"
     },
     {
-      "path": "3-7-1/data.csv",
-      "name": "3-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
-    },
-    {
       "path": "5-3-1/data.csv",
       "name": "5-3-1",
       "profile": "tabular-data-resource",
@@ -8748,30 +8914,6 @@
         ]
       },
       "title": "Mortality rate attributed to household and ambient air pollution"
-    },
-    {
-      "path": "5-6-1/data.csv",
-      "name": "5-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
     },
     {
       "path": "11-5-3/data.csv",
