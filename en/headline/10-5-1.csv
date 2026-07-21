@@ -12,7 +12,7 @@ Year,Value,Series
 2020,3.66,Non-performing loans to total gross loans
 2021,5.02,Non-performing loans to total gross loans
 2022,3.5,Non-performing loans to total gross loans
-2023,3.14,Non-performing loans to total gross loans
+2023,3.16,Non-performing loans to total gross loans
 2010,1.39,Return on assets
 2011,1.3,Return on assets
 2012,1.39,Return on assets
@@ -97,3 +97,10 @@ Year,Value,Series
 2021,0.26,Net open position in foreign exchange to capital
 2022,-0.62,Net open position in foreign exchange to capital
 2023,0.39,Net open position in foreign exchange to capital
+2024,2.62,Non-performing loans to total gross loans
+2024,1.65,Return on assets
+2024,8.15,Regulatory capital to assets
+2024,8.62,Non-performing loans net of provisions to capital
+2024,21.07,Regulatory Tier 1 capital to risk-weighted assets
+2024,45.18,Liquid assets to short term liabilities
+2024,0.4,Net open position in foreign exchange to capital

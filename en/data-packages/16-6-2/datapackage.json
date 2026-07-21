@@ -20,13 +20,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Trust in the institutions",
-                "2. Total yearly calls to Freephone 153",
-                "3. Total website pages views per year",
+                "1. Proportion of population who say that overall they are satisfied with the quality of healthcare services",
+                "2. Average rating scores on government services given by the public",
+                "3. Trust in the institutions",
                 ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Females",
+                "Males",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Rating",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Excellent",
+                "Average",
+                "Poor",
+                ""
+              ]
+            },
+            "title": "Rating"
           },
           {
             "name": "Institution",
@@ -34,25 +60,12 @@
             "constraints": {
               "enum": [
                 "The European Union",
-                "The Parliament",
                 "The Government",
+                "The Parliament",
                 ""
               ]
             },
             "title": "Institution"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "Number of calls",
-                "Number of views",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
