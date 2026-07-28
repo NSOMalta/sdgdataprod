@@ -65,9 +65,21 @@ Year,Series,Sex,Age,Broad citizenship,Form of exploitation,Units,Value
 2024,1. Detected victims of human trafficking,Both Sexes,All Ages,All citizens,All forms,Number of victims,13.0
 2024,1. Detected victims of human trafficking,Females,All Ages,All citizens,All forms,Number of victims,13.0
 2024,1. Detected victims of human trafficking,Males,All Ages,All citizens,All forms,Number of victims,0.0
-2019,"2. Detected victims of human trafficking, per 100,000 population",,,,,"Per 100,000 population",1.79
-2020,"2. Detected victims of human trafficking, per 100,000 population",,,,,"Per 100,000 population",2.33
-2021,"2. Detected victims of human trafficking, per 100,000 population",,,,,"Per 100,000 population",0.77
-2022,"2. Detected victims of human trafficking, per 100,000 population",,,,,"Per 100,000 population",4.14
-2023,"2. Detected victims of human trafficking, per 100,000 population",,,,,"Per 100,000 population",1.09
-2024,"2. Detected victims of human trafficking, per 100,000 population",,,,,"Per 100,000 population",2.29
+2025,1. Detected victims of human trafficking,Both Sexes,All Ages,All citizens,Forced labour,Number of victims,6.0
+2025,1. Detected victims of human trafficking,Both Sexes,All Ages,All citizens,Other forms,Number of victims,0.0
+2025,1. Detected victims of human trafficking,Both Sexes,All Ages,All citizens,Sexual exploitation,Number of victims,16.0
+2025,1. Detected victims of human trafficking,Both Sexes,All Ages,Maltese,All forms,Number of victims,1.0
+2025,1. Detected victims of human trafficking,Both Sexes,All Ages,Non-EU,All forms,Number of victims,21.0
+2025,1. Detected victims of human trafficking,Both Sexes,All Ages,Other EU,All forms,Number of victims,0.0
+2025,1. Detected victims of human trafficking,Both Sexes,0 - 17,All citizens,All forms,Number of victims,1.0
+2025,1. Detected victims of human trafficking,Both Sexes,18+,All citizens,All forms,Number of victims,21.0
+2025,1. Detected victims of human trafficking,Both Sexes,All Ages,All citizens,All forms,Number of victims,22.0
+2025,1. Detected victims of human trafficking,Females,All Ages,All citizens,All forms,Number of victims,16.0
+2025,1. Detected victims of human trafficking,Males,All Ages,All citizens,All forms,Number of victims,6.0
+2019,"2. Detected victims of human trafficking, per 100,000 population",,,,,"Per 100,000 population",1.8
+2020,"2. Detected victims of human trafficking, per 100,000 population",,,,,"Per 100,000 population",2.3
+2021,"2. Detected victims of human trafficking, per 100,000 population",,,,,"Per 100,000 population",0.8
+2022,"2. Detected victims of human trafficking, per 100,000 population",,,,,"Per 100,000 population",4.1
+2023,"2. Detected victims of human trafficking, per 100,000 population",,,,,"Per 100,000 population",1.1
+2024,"2. Detected victims of human trafficking, per 100,000 population",,,,,"Per 100,000 population",2.3
+2025,"2. Detected victims of human trafficking, per 100,000 population",,,,,"Per 100,000 population",3.8
