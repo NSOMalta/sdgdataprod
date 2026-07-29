@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Health worker density, by type of occupation (per 10,000 population)",
-                "Health worker distribution, by sex and type of occupation (%)",
+                "Health worker density, by type of occupation",
+                "Health worker distribution, by sex and type of occupation",
                 ""
               ]
             }
