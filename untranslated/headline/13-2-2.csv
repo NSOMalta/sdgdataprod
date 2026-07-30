@@ -1,16 +1,31 @@
-Year,Value
-2010,2959.3
-2011,2964.4
-2012,3134.9
-2013,2825.8
-2014,2835.9
-2015,2135.6
-2016,1839.7
-2017,2004.1
-2018,2008.4
-2019,2117.6
-2020,2080.0
-2021,2094.6
-2022,2255.8
-2023,2207.3
-2024,2170.2
+Year,Value,Series
+2010,2959.3,Total national emissions without LULUCF
+2011,2964.4,Total national emissions without LULUCF
+2012,3134.9,Total national emissions without LULUCF
+2013,2825.8,Total national emissions without LULUCF
+2014,2835.9,Total national emissions without LULUCF
+2015,2135.6,Total national emissions without LULUCF
+2016,1839.7,Total national emissions without LULUCF
+2017,2004.1,Total national emissions without LULUCF
+2018,2008.4,Total national emissions without LULUCF
+2019,2117.6,Total national emissions without LULUCF
+2020,2080.0,Total national emissions without LULUCF
+2021,2094.6,Total national emissions without LULUCF
+2022,2255.8,Total national emissions without LULUCF
+2023,2207.3,Total national emissions without LULUCF
+2024,2170.2,Total national emissions without LULUCF
+2010,2978.4,Total national emissions with LULUCF
+2011,2970.4,Total national emissions with LULUCF
+2012,3141.1,Total national emissions with LULUCF
+2013,2832.2,Total national emissions with LULUCF
+2014,2843.0,Total national emissions with LULUCF
+2015,2143.0,Total national emissions with LULUCF
+2016,1847.0,Total national emissions with LULUCF
+2017,2011.9,Total national emissions with LULUCF
+2018,2014.7,Total national emissions with LULUCF
+2019,2120.2,Total national emissions with LULUCF
+2020,2082.0,Total national emissions with LULUCF
+2021,2096.4,Total national emissions with LULUCF
+2022,2254.7,Total national emissions with LULUCF
+2023,2204.8,Total national emissions with LULUCF
+2024,2171.6,Total national emissions with LULUCF

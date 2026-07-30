@@ -292,8 +292,8 @@
             "constraints": {
               "enum": [
                 "Dry weight in tonnes",
-                "Percentage",
-                "Kilograms",
+                "Percentage (%)",
+                "Kilograms (kg)",
                 ""
               ]
             }
@@ -1817,6 +1817,28 @@
         ]
       },
       "title": "Prevalence of undernourishment"
+    },
+    {
+      "path": "12-6-1/data.csv",
+      "name": "12-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Number of companies publishing sustainability reports"
     },
     {
       "path": "10-4-2/data.csv",
@@ -3446,6 +3468,17 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total national emissions without LULUCF",
+                "Total national emissions with LULUCF",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -6778,28 +6811,6 @@
         ]
       },
       "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
-    },
-    {
-      "path": "12-6-1/data.csv",
-      "name": "12-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Number of companies publishing sustainability reports"
     },
     {
       "path": "11-7-2/data.csv",
