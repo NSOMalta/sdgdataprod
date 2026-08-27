@@ -1,22 +1,11 @@
-Year,Series,Units,Value
-2016,1. Use of public transport (number of commuters),Number of commuters,43253238
-2017,1. Use of public transport (number of commuters),Number of commuters,48053045
-2018,1. Use of public transport (number of commuters),Number of commuters,53467404
-2019,1. Use of public transport (number of commuters),Number of commuters,57409385
-2020,1. Use of public transport (number of commuters),Number of commuters,33778974
-2021,1. Use of public transport (number of commuters),Number of commuters,35207171
-2022,1. Use of public transport (number of commuters),Number of commuters,49222424
-2023,1. Use of public transport (number of commuters),Number of commuters,67241760
-2024,1. Use of public transport (number of commuters),Number of commuters,75773333
-2025,1. Use of public transport (number of commuters),Number of commuters,82944589
-2015,"2. Number of passenger cars per 1,000 residents aged 18 and over","Cars per 1,000 residents",741
-2016,"2. Number of passenger cars per 1,000 residents aged 18 and over","Cars per 1,000 residents",744
-2017,"2. Number of passenger cars per 1,000 residents aged 18 and over","Cars per 1,000 residents",738
-2018,"2. Number of passenger cars per 1,000 residents aged 18 and over","Cars per 1,000 residents",727
-2019,"2. Number of passenger cars per 1,000 residents aged 18 and over","Cars per 1,000 residents",709
-2020,"2. Number of passenger cars per 1,000 residents aged 18 and over","Cars per 1,000 residents",709
-2021,"2. Number of passenger cars per 1,000 residents aged 18 and over","Cars per 1,000 residents",713
-2022,"2. Number of passenger cars per 1,000 residents aged 18 and over","Cars per 1,000 residents",690
-2023,"2. Number of passenger cars per 1,000 residents aged 18 and over","Cars per 1,000 residents",674
-2024,"2. Number of passenger cars per 1,000 residents aged 18 and over","Cars per 1,000 residents",673
-2025,"2. Number of passenger cars per 1,000 residents aged 18 and over","Cars per 1,000 residents",666
+Year,Value
+2016,43253238
+2017,48053045
+2018,53467404
+2019,57409385
+2020,33778974
+2021,35207171
+2022,49222424
+2023,67241760
+2024,75773333
+2025,82944589
