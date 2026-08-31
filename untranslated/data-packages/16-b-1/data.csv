@@ -1,10 +1,22 @@
-Year,Sex,Value
-2015,Both Sexes,14
-2015,Males,14
-2015,Females,14
-2019,Both Sexes,8
-2019,Males,8
-2019,Females,7
-2023,Both Sexes,22
-2023,Males,23
-2023,Females,22
+Year,Series,Reference period,Sex,Age,Value
+2025,1. Proportion of population (18+) experiencing discrimination or harassment,In the last 12 months,Both Sexes,All Ages,15.6
+2025,1. Proportion of population (18+) experiencing discrimination or harassment,In the last 12 months,Females,All Ages,15.7
+2025,1. Proportion of population (18+) experiencing discrimination or harassment,In the last 12 months,Males,All Ages,15.5
+2025,1. Proportion of population (18+) experiencing discrimination or harassment,In the last 12 months,Both Sexes,18-34,17.9
+2025,1. Proportion of population (18+) experiencing discrimination or harassment,In the last 12 months,Both Sexes,35-64,16.8
+2025,1. Proportion of population (18+) experiencing discrimination or harassment,In the last 12 months,Both Sexes,65+,9.3
+2025,1. Proportion of population (18+) experiencing discrimination or harassment,In the last 5 years,Both Sexes,All Ages,25.1
+2025,1. Proportion of population (18+) experiencing discrimination or harassment,In the last 5 years,Females,All Ages,26.4
+2025,1. Proportion of population (18+) experiencing discrimination or harassment,In the last 5 years,Males,All Ages,23.9
+2025,1. Proportion of population (18+) experiencing discrimination or harassment,In the last 5 years,Both Sexes,18-34,28.9
+2025,1. Proportion of population (18+) experiencing discrimination or harassment,In the last 5 years,Both Sexes,35-64,27.0
+2025,1. Proportion of population (18+) experiencing discrimination or harassment,In the last 5 years,Both Sexes,65+,14.8
+2015,2. Proportion of population reporting having felt discriminated against,,Both Sexes,,14.0
+2015,2. Proportion of population reporting having felt discriminated against,,Males,,14.0
+2015,2. Proportion of population reporting having felt discriminated against,,Females,,14.0
+2019,2. Proportion of population reporting having felt discriminated against,,Both Sexes,,8.0
+2019,2. Proportion of population reporting having felt discriminated against,,Males,,8.0
+2019,2. Proportion of population reporting having felt discriminated against,,Females,,7.0
+2023,2. Proportion of population reporting having felt discriminated against,,Both Sexes,,22.0
+2023,2. Proportion of population reporting having felt discriminated against,,Males,,23.0
+2023,2. Proportion of population reporting having felt discriminated against,,Females,,22.0

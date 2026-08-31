@@ -15,6 +15,28 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Proportion of population (18+) experiencing discrimination or harassment",
+                "2. Proportion of population reporting having felt discriminated against",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Reference period",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "In the last 12 months",
+                "In the last 5 years",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -27,8 +49,21 @@
             }
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All Ages",
+                "18-34",
+                "35-64",
+                "65+",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
