@@ -12,7 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Annual inflation, consumer prices",
+                "2. General government gross debt as a proportion of GDP",
+                "3. Cash surplus/deficit as a percentage of GDP",
+                "4. Tax revenue as a percentage of GDP",
+                "5. Current account balance as a proportion of GDP",
+                "6. Annual growth of exports of goods and services",
+                "7. Annual growth of imports of goods and services",
+                "8. Net portfolio investment",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Current US$ (millions)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

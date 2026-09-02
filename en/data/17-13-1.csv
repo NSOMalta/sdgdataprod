@@ -1,1 +1,125 @@
-Year,Value
+Year,Series,Units,Value
+2010,"1. Annual inflation, consumer prices",Percentage (%),1.51
+2011,"1. Annual inflation, consumer prices",Percentage (%),2.72
+2012,"1. Annual inflation, consumer prices",Percentage (%),2.42
+2013,"1. Annual inflation, consumer prices",Percentage (%),1.38
+2014,"1. Annual inflation, consumer prices",Percentage (%),0.31
+2015,"1. Annual inflation, consumer prices",Percentage (%),1.1
+2016,"1. Annual inflation, consumer prices",Percentage (%),0.64
+2017,"1. Annual inflation, consumer prices",Percentage (%),1.37
+2018,"1. Annual inflation, consumer prices",Percentage (%),1.16
+2019,"1. Annual inflation, consumer prices",Percentage (%),1.64
+2020,"1. Annual inflation, consumer prices",Percentage (%),0.64
+2021,"1. Annual inflation, consumer prices",Percentage (%),1.5
+2022,"1. Annual inflation, consumer prices",Percentage (%),6.15
+2023,"1. Annual inflation, consumer prices",Percentage (%),5.09
+2024,"1. Annual inflation, consumer prices",Percentage (%),1.65
+2025,"1. Annual inflation, consumer prices",Percentage (%),2.36
+2010,2. General government gross debt as a proportion of GDP,Percentage (%),65.0
+2011,2. General government gross debt as a proportion of GDP,Percentage (%),68.9
+2012,2. General government gross debt as a proportion of GDP,Percentage (%),65.6
+2013,2. General government gross debt as a proportion of GDP,Percentage (%),64.9
+2014,2. General government gross debt as a proportion of GDP,Percentage (%),60.7
+2015,2. General government gross debt as a proportion of GDP,Percentage (%),55.0
+2016,2. General government gross debt as a proportion of GDP,Percentage (%),53.1
+2017,2. General government gross debt as a proportion of GDP,Percentage (%),45.6
+2018,2. General government gross debt as a proportion of GDP,Percentage (%),41.4
+2019,2. General government gross debt as a proportion of GDP,Percentage (%),39.2
+2020,2. General government gross debt as a proportion of GDP,Percentage (%),48.8
+2021,2. General government gross debt as a proportion of GDP,Percentage (%),49.7
+2022,2. General government gross debt as a proportion of GDP,Percentage (%),50.3
+2023,2. General government gross debt as a proportion of GDP,Percentage (%),46.9
+2024,2. General government gross debt as a proportion of GDP,Percentage (%),45.9
+2025,2. General government gross debt as a proportion of GDP,Percentage (%),46.4
+2010,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),-4.1
+2011,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),-3.1
+2012,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),-4.8
+2013,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),-3.2
+2014,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),-1.5
+2015,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),-2.3
+2016,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),0.1
+2017,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),1.5
+2018,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),-0.5
+2019,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),0.1
+2020,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),-10.2
+2021,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),-7.4
+2022,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),-4.9
+2023,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),-3.9
+2024,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),-1.9
+2025,3. Cash surplus/deficit as a percentage of GDP,Percentage (%),-3.3
+2010,4. Tax revenue as a percentage of GDP,Percentage (%),31.8
+2011,4. Tax revenue as a percentage of GDP,Percentage (%),32.3
+2012,4. Tax revenue as a percentage of GDP,Percentage (%),32.0
+2013,4. Tax revenue as a percentage of GDP,Percentage (%),31.6
+2014,4. Tax revenue as a percentage of GDP,Percentage (%),31.8
+2015,4. Tax revenue as a percentage of GDP,Percentage (%),30.2
+2016,4. Tax revenue as a percentage of GDP,Percentage (%),32.1
+2017,4. Tax revenue as a percentage of GDP,Percentage (%),31.6
+2018,4. Tax revenue as a percentage of GDP,Percentage (%),31.0
+2019,4. Tax revenue as a percentage of GDP,Percentage (%),30.6
+2020,4. Tax revenue as a percentage of GDP,Percentage (%),28.3
+2021,4. Tax revenue as a percentage of GDP,Percentage (%),27.9
+2022,4. Tax revenue as a percentage of GDP,Percentage (%),28.4
+2023,4. Tax revenue as a percentage of GDP,Percentage (%),26.6
+2024,4. Tax revenue as a percentage of GDP,Percentage (%),29.2
+2025,4. Tax revenue as a percentage of GDP,Percentage (%),29.9
+2010,5. Current account balance as a proportion of GDP,Percentage (%),-6.0
+2011,5. Current account balance as a proportion of GDP,Percentage (%),-2.0
+2012,5. Current account balance as a proportion of GDP,Percentage (%),-0.4
+2013,5. Current account balance as a proportion of GDP,Percentage (%),0.1
+2014,5. Current account balance as a proportion of GDP,Percentage (%),5.5
+2015,5. Current account balance as a proportion of GDP,Percentage (%),2.6
+2016,5. Current account balance as a proportion of GDP,Percentage (%),-0.6
+2017,5. Current account balance as a proportion of GDP,Percentage (%),18.9
+2018,5. Current account balance as a proportion of GDP,Percentage (%),13.3
+2019,5. Current account balance as a proportion of GDP,Percentage (%),17.9
+2020,5. Current account balance as a proportion of GDP,Percentage (%),16.0
+2021,5. Current account balance as a proportion of GDP,Percentage (%),9.4
+2022,5. Current account balance as a proportion of GDP,Percentage (%),-2.9
+2023,5. Current account balance as a proportion of GDP,Percentage (%),6.5
+2024,5. Current account balance as a proportion of GDP,Percentage (%),7.1
+2010,6. Annual growth of exports of goods and services,Percentage (%),17.7
+2011,6. Annual growth of exports of goods and services,Percentage (%),9.1
+2012,6. Annual growth of exports of goods and services,Percentage (%),7.5
+2013,6. Annual growth of exports of goods and services,Percentage (%),2.4
+2014,6. Annual growth of exports of goods and services,Percentage (%),6.1
+2015,6. Annual growth of exports of goods and services,Percentage (%),24.0
+2016,6. Annual growth of exports of goods and services,Percentage (%),8.1
+2017,6. Annual growth of exports of goods and services,Percentage (%),16.0
+2018,6. Annual growth of exports of goods and services,Percentage (%),13.2
+2019,6. Annual growth of exports of goods and services,Percentage (%),7.2
+2020,6. Annual growth of exports of goods and services,Percentage (%),3.8
+2021,6. Annual growth of exports of goods and services,Percentage (%),6.7
+2022,6. Annual growth of exports of goods and services,Percentage (%),14.3
+2023,6. Annual growth of exports of goods and services,Percentage (%),10.2
+2024,6. Annual growth of exports of goods and services,Percentage (%),7.6
+2010,7. Annual growth of imports of goods and services,Percentage (%),15.0
+2011,7. Annual growth of imports of goods and services,Percentage (%),6.6
+2012,7. Annual growth of imports of goods and services,Percentage (%),8.1
+2013,7. Annual growth of imports of goods and services,Percentage (%),-2.5
+2014,7. Annual growth of imports of goods and services,Percentage (%),2.1
+2015,7. Annual growth of imports of goods and services,Percentage (%),32.0
+2016,7. Annual growth of imports of goods and services,Percentage (%),6.7
+2017,7. Annual growth of imports of goods and services,Percentage (%),9.2
+2018,7. Annual growth of imports of goods and services,Percentage (%),16.4
+2019,7. Annual growth of imports of goods and services,Percentage (%),10.6
+2020,7. Annual growth of imports of goods and services,Percentage (%),3.4
+2021,7. Annual growth of imports of goods and services,Percentage (%),5.5
+2022,7. Annual growth of imports of goods and services,Percentage (%),21.0
+2023,7. Annual growth of imports of goods and services,Percentage (%),5.9
+2024,7. Annual growth of imports of goods and services,Percentage (%),7.9
+2010,8. Net portfolio investment,Current US$ (millions),6419.0
+2011,8. Net portfolio investment,Current US$ (millions),16214.8
+2012,8. Net portfolio investment,Current US$ (millions),12106.1
+2013,8. Net portfolio investment,Current US$ (millions),12041.1
+2014,8. Net portfolio investment,Current US$ (millions),17571.6
+2015,8. Net portfolio investment,Current US$ (millions),5421.3
+2016,8. Net portfolio investment,Current US$ (millions),5277.1
+2017,8. Net portfolio investment,Current US$ (millions),3877.7
+2018,8. Net portfolio investment,Current US$ (millions),-5686.3
+2019,8. Net portfolio investment,Current US$ (millions),-2841.2
+2020,8. Net portfolio investment,Current US$ (millions),831.7
+2021,8. Net portfolio investment,Current US$ (millions),-1801.5
+2022,8. Net portfolio investment,Current US$ (millions),2047.9
+2023,8. Net portfolio investment,Current US$ (millions),5258.8
+2024,8. Net portfolio investment,Current US$ (millions),1157.0
