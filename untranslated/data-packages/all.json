@@ -2987,12 +2987,53 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%)",
-                "Number of households",
+                "1. Proportion of population that feel safe walking alone in the neighbourhood after dark",
+                "2. Proportion of households reporting crime, violence, or vandalism in the area they live",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Males",
+                "Females",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All Ages",
+                "18-34",
+                "35-64",
+                "65+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "District of Residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All Areas",
+                "Southern Harbour",
+                "Northern Harbour",
+                "South Eastern",
+                "Western",
+                "Northern",
+                "Gozo and Comino",
                 ""
               ]
             }

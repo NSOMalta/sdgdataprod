@@ -1,33 +1,29 @@
-Year,Units,Value
-2010,Percentage (%),10.8
-2011,Percentage (%),12.1
-2012,Percentage (%),12.4
-2013,Percentage (%),12.5
-2014,Percentage (%),12.2
-2015,Percentage (%),11.4
-2016,Percentage (%),11.1
-2017,Percentage (%),10.0
-2018,Percentage (%),12.5
-2019,Percentage (%),14.2
-2020,Percentage (%),12.1
-2021,Percentage (%),10.2
-2022,Percentage (%),10.3
-2023,Percentage (%),7.6
-2024,Percentage (%),9.5
-2025,Percentage (%),9.4
-2010,Number of households,16075.0
-2011,Number of households,18225.0
-2012,Number of households,18894.0
-2013,Number of households,19700.0
-2014,Number of households,19808.0
-2015,Number of households,19230.0
-2016,Number of households,19398.0
-2017,Number of households,17927.0
-2018,Number of households,23487.0
-2019,Number of households,27830.0
-2020,Number of households,25083.0
-2021,Number of households,21368.0
-2022,Number of households,21774.0
-2023,Number of households,16733.0
-2024,Number of households,21828.0
-2025,Number of households,22125.0
+Year,Series,Sex,Age,District of Residence,Value
+2025,1. Proportion of population that feel safe walking alone in the neighbourhood after dark,Both Sexes,All Ages,All Areas,73.5
+2025,1. Proportion of population that feel safe walking alone in the neighbourhood after dark,Males,All Ages,All Areas,81.1
+2025,1. Proportion of population that feel safe walking alone in the neighbourhood after dark,Females,All Ages,All Areas,64.9
+2025,1. Proportion of population that feel safe walking alone in the neighbourhood after dark,Both Sexes,18-34,All Areas,77.8
+2025,1. Proportion of population that feel safe walking alone in the neighbourhood after dark,Both Sexes,35-64,All Areas,75.4
+2025,1. Proportion of population that feel safe walking alone in the neighbourhood after dark,Both Sexes,65+,All Areas,63.0
+2025,1. Proportion of population that feel safe walking alone in the neighbourhood after dark,Both Sexes,All Ages,Southern Harbour,72.6
+2025,1. Proportion of population that feel safe walking alone in the neighbourhood after dark,Both Sexes,All Ages,Northern Harbour,71.2
+2025,1. Proportion of population that feel safe walking alone in the neighbourhood after dark,Both Sexes,All Ages,South Eastern,74.9
+2025,1. Proportion of population that feel safe walking alone in the neighbourhood after dark,Both Sexes,All Ages,Western,74.7
+2025,1. Proportion of population that feel safe walking alone in the neighbourhood after dark,Both Sexes,All Ages,Northern,76.2
+2025,1. Proportion of population that feel safe walking alone in the neighbourhood after dark,Both Sexes,All Ages,Gozo and Comino,74.9
+2010,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,10.8
+2011,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,12.1
+2012,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,12.4
+2013,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,12.5
+2014,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,12.2
+2015,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,11.4
+2016,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,11.1
+2017,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,10.0
+2018,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,12.5
+2019,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,14.2
+2020,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,12.1
+2021,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,10.2
+2022,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,10.3
+2023,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,7.6
+2024,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,9.5
+2025,"2. Proportion of households reporting crime, violence, or vandalism in the area they live",,,,9.4
