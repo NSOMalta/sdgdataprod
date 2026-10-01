@@ -9,6 +9,7 @@ Year,Series,Particulate Matter Type,Units,Value
 2022,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,10.6
 2023,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,11.3
 2024,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,11.5
+2025,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM2.5,micrograms per cubic metre,9.1
 2015,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,27.3
 2016,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,31.7
 2017,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,26.2
@@ -19,6 +20,7 @@ Year,Series,Particulate Matter Type,Units,Value
 2022,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,27.9
 2023,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,28.7
 2024,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,29.1
+2025,1. Annual mean levels of particulate matter PM2.5 and PM10 (population weighted),PM10,micrograms per cubic metre,25.2
 2010,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,187.0
 2011,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,242.0
 2012,2. Premature deaths due to exposure to fine particulate matter,,Number of deaths,180.0
@@ -57,4 +59,5 @@ Year,Series,Particulate Matter Type,Units,Value
 2021,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,107.5
 2022,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,91.4
 2023,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,91.3
-2024,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,75.1
+2024,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,74.2
+2025,3. Average CO2 emissions per km from new passenger cars,,Grams per kilometre,76.7
