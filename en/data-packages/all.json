@@ -2571,6 +2571,42 @@
       "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
     },
     {
+      "path": "6-3-1/data.csv",
+      "name": "6-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of total wastewater flow safely treated",
+                "Proportion of total wastewater flow treated",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of domestic and industrial wastewater flows safely treated"
+    },
+    {
       "path": "15-1-2/data.csv",
       "name": "15-1-2",
       "profile": "tabular-data-resource",
@@ -5789,10 +5825,13 @@
                 "2. General government gross debt as a proportion of GDP",
                 "3. Cash surplus/deficit as a percentage of GDP",
                 "4. Tax revenue as a percentage of GDP",
-                "5. Current account balance as a proportion of GDP",
-                "6. Annual growth of exports of goods and services",
-                "7. Annual growth of imports of goods and services",
-                "8. Net portfolio investment",
+                "5. Annual GDP growth",
+                "6. Annual growth of the general government final consumption expenditure",
+                "7. Annual growth of the gross capital formation",
+                "8. Current account balance as a proportion of GDP",
+                "9. Annual growth of exports of goods and services",
+                "10. Annual growth of imports of goods and services",
+                "11. Net portfolio investment",
                 ""
               ]
             },
@@ -8633,30 +8672,6 @@
         ]
       },
       "title": "Number of people who died or disappeared in the process of migration towards an international destinationi"
-    },
-    {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of domestic and industrial wastewater flows safely treated"
     },
     {
       "path": "16-10-2/data.csv",

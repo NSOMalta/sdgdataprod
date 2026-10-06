@@ -63,63 +63,111 @@ Year,Value,Units,Series
 2023,26.6,Percentage (%),4. Tax revenue as a percentage of GDP
 2024,29.2,Percentage (%),4. Tax revenue as a percentage of GDP
 2025,29.9,Percentage (%),4. Tax revenue as a percentage of GDP
-2010,-6.0,Percentage (%),5. Current account balance as a proportion of GDP
-2011,-2.0,Percentage (%),5. Current account balance as a proportion of GDP
-2012,-0.4,Percentage (%),5. Current account balance as a proportion of GDP
-2013,0.1,Percentage (%),5. Current account balance as a proportion of GDP
-2014,5.5,Percentage (%),5. Current account balance as a proportion of GDP
-2015,2.6,Percentage (%),5. Current account balance as a proportion of GDP
-2016,-0.6,Percentage (%),5. Current account balance as a proportion of GDP
-2017,18.9,Percentage (%),5. Current account balance as a proportion of GDP
-2018,13.3,Percentage (%),5. Current account balance as a proportion of GDP
-2019,17.9,Percentage (%),5. Current account balance as a proportion of GDP
-2020,16.0,Percentage (%),5. Current account balance as a proportion of GDP
-2021,9.4,Percentage (%),5. Current account balance as a proportion of GDP
-2022,-2.9,Percentage (%),5. Current account balance as a proportion of GDP
-2023,6.5,Percentage (%),5. Current account balance as a proportion of GDP
-2024,7.1,Percentage (%),5. Current account balance as a proportion of GDP
-2010,17.7,Percentage (%),6. Annual growth of exports of goods and services
-2011,9.1,Percentage (%),6. Annual growth of exports of goods and services
-2012,7.5,Percentage (%),6. Annual growth of exports of goods and services
-2013,2.4,Percentage (%),6. Annual growth of exports of goods and services
-2014,6.1,Percentage (%),6. Annual growth of exports of goods and services
-2015,24.0,Percentage (%),6. Annual growth of exports of goods and services
-2016,8.1,Percentage (%),6. Annual growth of exports of goods and services
-2017,16.0,Percentage (%),6. Annual growth of exports of goods and services
-2018,13.2,Percentage (%),6. Annual growth of exports of goods and services
-2019,7.2,Percentage (%),6. Annual growth of exports of goods and services
-2020,3.8,Percentage (%),6. Annual growth of exports of goods and services
-2021,6.7,Percentage (%),6. Annual growth of exports of goods and services
-2022,14.3,Percentage (%),6. Annual growth of exports of goods and services
-2023,10.2,Percentage (%),6. Annual growth of exports of goods and services
-2024,7.6,Percentage (%),6. Annual growth of exports of goods and services
-2010,15.0,Percentage (%),7. Annual growth of imports of goods and services
-2011,6.6,Percentage (%),7. Annual growth of imports of goods and services
-2012,8.1,Percentage (%),7. Annual growth of imports of goods and services
-2013,-2.5,Percentage (%),7. Annual growth of imports of goods and services
-2014,2.1,Percentage (%),7. Annual growth of imports of goods and services
-2015,32.0,Percentage (%),7. Annual growth of imports of goods and services
-2016,6.7,Percentage (%),7. Annual growth of imports of goods and services
-2017,9.2,Percentage (%),7. Annual growth of imports of goods and services
-2018,16.4,Percentage (%),7. Annual growth of imports of goods and services
-2019,10.6,Percentage (%),7. Annual growth of imports of goods and services
-2020,3.4,Percentage (%),7. Annual growth of imports of goods and services
-2021,5.5,Percentage (%),7. Annual growth of imports of goods and services
-2022,21.0,Percentage (%),7. Annual growth of imports of goods and services
-2023,5.9,Percentage (%),7. Annual growth of imports of goods and services
-2024,7.9,Percentage (%),7. Annual growth of imports of goods and services
-2010,6419.0,Current US$ (millions),8. Net portfolio investment
-2011,16214.8,Current US$ (millions),8. Net portfolio investment
-2012,12106.1,Current US$ (millions),8. Net portfolio investment
-2013,12041.1,Current US$ (millions),8. Net portfolio investment
-2014,17571.6,Current US$ (millions),8. Net portfolio investment
-2015,5421.3,Current US$ (millions),8. Net portfolio investment
-2016,5277.1,Current US$ (millions),8. Net portfolio investment
-2017,3877.7,Current US$ (millions),8. Net portfolio investment
-2018,-5686.3,Current US$ (millions),8. Net portfolio investment
-2019,-2841.2,Current US$ (millions),8. Net portfolio investment
-2020,831.7,Current US$ (millions),8. Net portfolio investment
-2021,-1801.5,Current US$ (millions),8. Net portfolio investment
-2022,2047.9,Current US$ (millions),8. Net portfolio investment
-2023,5258.8,Current US$ (millions),8. Net portfolio investment
-2024,1157.0,Current US$ (millions),8. Net portfolio investment
+2010,6.2,Percentage (%),5. Annual GDP growth
+2011,0.99,Percentage (%),5. Annual GDP growth
+2012,4.1,Percentage (%),5. Annual GDP growth
+2013,6.29,Percentage (%),5. Annual GDP growth
+2014,7.63,Percentage (%),5. Annual GDP growth
+2015,9.62,Percentage (%),5. Annual GDP growth
+2016,4.08,Percentage (%),5. Annual GDP growth
+2017,12.97,Percentage (%),5. Annual GDP growth
+2018,7.19,Percentage (%),5. Annual GDP growth
+2019,4.09,Percentage (%),5. Annual GDP growth
+2020,-3.46,Percentage (%),5. Annual GDP growth
+2021,13.31,Percentage (%),5. Annual GDP growth
+2022,4.06,Percentage (%),5. Annual GDP growth
+2023,7.1,Percentage (%),5. Annual GDP growth
+2024,5.29,Percentage (%),5. Annual GDP growth
+2025,4.7,Percentage (%),5. Annual GDP growth
+2010,0.41,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2011,3.54,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2012,5.94,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2013,1.69,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2014,9.7,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2015,7.81,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2016,5.55,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2017,6.71,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2018,8.64,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2019,9.1,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2020,11.99,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2021,4.08,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2022,1.19,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2023,3.34,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2024,5.19,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2025,4.44,Percentage (%),6. Annual growth of the general government final consumption expenditure
+2010,12.63,Percentage (%),7. Annual growth of the gross capital formation
+2011,-18.93,Percentage (%),7. Annual growth of the gross capital formation
+2012,15.61,Percentage (%),7. Annual growth of the gross capital formation
+2013,-5.17,Percentage (%),7. Annual growth of the gross capital formation
+2014,0.23,Percentage (%),7. Annual growth of the gross capital formation
+2015,63.74,Percentage (%),7. Annual growth of the gross capital formation
+2016,-1.84,Percentage (%),7. Annual growth of the gross capital formation
+2017,-1.26,Percentage (%),7. Annual growth of the gross capital formation
+2018,8.66,Percentage (%),7. Annual growth of the gross capital formation
+2019,11.31,Percentage (%),7. Annual growth of the gross capital formation
+2020,-8.23,Percentage (%),7. Annual growth of the gross capital formation
+2021,27.59,Percentage (%),7. Annual growth of the gross capital formation
+2022,17.94,Percentage (%),7. Annual growth of the gross capital formation
+2023,-16.01,Percentage (%),7. Annual growth of the gross capital formation
+2024,4.62,Percentage (%),7. Annual growth of the gross capital formation
+2025,2.73,Percentage (%),7. Annual growth of the gross capital formation
+2010,-6.0,Percentage (%),8. Current account balance as a proportion of GDP
+2011,-2.0,Percentage (%),8. Current account balance as a proportion of GDP
+2012,-0.4,Percentage (%),8. Current account balance as a proportion of GDP
+2013,0.1,Percentage (%),8. Current account balance as a proportion of GDP
+2014,5.5,Percentage (%),8. Current account balance as a proportion of GDP
+2015,2.6,Percentage (%),8. Current account balance as a proportion of GDP
+2016,-0.6,Percentage (%),8. Current account balance as a proportion of GDP
+2017,18.9,Percentage (%),8. Current account balance as a proportion of GDP
+2018,13.3,Percentage (%),8. Current account balance as a proportion of GDP
+2019,17.9,Percentage (%),8. Current account balance as a proportion of GDP
+2020,16.0,Percentage (%),8. Current account balance as a proportion of GDP
+2021,9.4,Percentage (%),8. Current account balance as a proportion of GDP
+2022,-2.9,Percentage (%),8. Current account balance as a proportion of GDP
+2023,6.5,Percentage (%),8. Current account balance as a proportion of GDP
+2024,7.1,Percentage (%),8. Current account balance as a proportion of GDP
+2010,17.7,Percentage (%),9. Annual growth of exports of goods and services
+2011,9.1,Percentage (%),9. Annual growth of exports of goods and services
+2012,7.5,Percentage (%),9. Annual growth of exports of goods and services
+2013,2.4,Percentage (%),9. Annual growth of exports of goods and services
+2014,6.1,Percentage (%),9. Annual growth of exports of goods and services
+2015,24.0,Percentage (%),9. Annual growth of exports of goods and services
+2016,8.1,Percentage (%),9. Annual growth of exports of goods and services
+2017,16.0,Percentage (%),9. Annual growth of exports of goods and services
+2018,13.2,Percentage (%),9. Annual growth of exports of goods and services
+2019,7.2,Percentage (%),9. Annual growth of exports of goods and services
+2020,3.8,Percentage (%),9. Annual growth of exports of goods and services
+2021,6.7,Percentage (%),9. Annual growth of exports of goods and services
+2022,14.3,Percentage (%),9. Annual growth of exports of goods and services
+2023,10.2,Percentage (%),9. Annual growth of exports of goods and services
+2024,7.6,Percentage (%),9. Annual growth of exports of goods and services
+2010,15.0,Percentage (%),10. Annual growth of imports of goods and services
+2011,6.6,Percentage (%),10. Annual growth of imports of goods and services
+2012,8.1,Percentage (%),10. Annual growth of imports of goods and services
+2013,-2.5,Percentage (%),10. Annual growth of imports of goods and services
+2014,2.1,Percentage (%),10. Annual growth of imports of goods and services
+2015,32.0,Percentage (%),10. Annual growth of imports of goods and services
+2016,6.7,Percentage (%),10. Annual growth of imports of goods and services
+2017,9.2,Percentage (%),10. Annual growth of imports of goods and services
+2018,16.4,Percentage (%),10. Annual growth of imports of goods and services
+2019,10.6,Percentage (%),10. Annual growth of imports of goods and services
+2020,3.4,Percentage (%),10. Annual growth of imports of goods and services
+2021,5.5,Percentage (%),10. Annual growth of imports of goods and services
+2022,21.0,Percentage (%),10. Annual growth of imports of goods and services
+2023,5.9,Percentage (%),10. Annual growth of imports of goods and services
+2024,7.9,Percentage (%),10. Annual growth of imports of goods and services
+2010,6419.0,Current US$ (millions),11. Net portfolio investment
+2011,16214.8,Current US$ (millions),11. Net portfolio investment
+2012,12106.1,Current US$ (millions),11. Net portfolio investment
+2013,12041.1,Current US$ (millions),11. Net portfolio investment
+2014,17571.6,Current US$ (millions),11. Net portfolio investment
+2015,5421.3,Current US$ (millions),11. Net portfolio investment
+2016,5277.1,Current US$ (millions),11. Net portfolio investment
+2017,3877.7,Current US$ (millions),11. Net portfolio investment
+2018,-5686.3,Current US$ (millions),11. Net portfolio investment
+2019,-2841.2,Current US$ (millions),11. Net portfolio investment
+2020,831.7,Current US$ (millions),11. Net portfolio investment
+2021,-1801.5,Current US$ (millions),11. Net portfolio investment
+2022,2047.9,Current US$ (millions),11. Net portfolio investment
+2023,5258.8,Current US$ (millions),11. Net portfolio investment
+2024,1157.0,Current US$ (millions),11. Net portfolio investment

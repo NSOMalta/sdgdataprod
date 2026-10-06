@@ -23,10 +23,13 @@
                 "2. General government gross debt as a proportion of GDP",
                 "3. Cash surplus/deficit as a percentage of GDP",
                 "4. Tax revenue as a percentage of GDP",
-                "5. Current account balance as a proportion of GDP",
-                "6. Annual growth of exports of goods and services",
-                "7. Annual growth of imports of goods and services",
-                "8. Net portfolio investment",
+                "5. Annual GDP growth",
+                "6. Annual growth of the general government final consumption expenditure",
+                "7. Annual growth of the gross capital formation",
+                "8. Current account balance as a proportion of GDP",
+                "9. Annual growth of exports of goods and services",
+                "10. Annual growth of imports of goods and services",
+                "11. Net portfolio investment",
                 ""
               ]
             }
