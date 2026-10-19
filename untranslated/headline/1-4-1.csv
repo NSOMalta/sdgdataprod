@@ -60,12 +60,12 @@ Year,Value,Series
 2023,100,4. Proportion of the rural population who live within 2 km of an all-season road
 2024,100,4. Proportion of the rural population who live within 2 km of an all-season road
 2025,100,4. Proportion of the rural population who live within 2 km of an all-season road
-2010,100,5. Percentage of population with primary reliance on clean fuels and technology
-2011,100,5. Percentage of population with primary reliance on clean fuels and technology
-2012,100,5. Percentage of population with primary reliance on clean fuels and technology
-2013,100,5. Percentage of population with primary reliance on clean fuels and technology
-2014,100,5. Percentage of population with primary reliance on clean fuels and technology
-2015,100,5. Percentage of population with primary reliance on clean fuels and technology
+2010,99,5. Percentage of population with primary reliance on clean fuels and technology
+2011,99,5. Percentage of population with primary reliance on clean fuels and technology
+2012,99,5. Percentage of population with primary reliance on clean fuels and technology
+2013,99,5. Percentage of population with primary reliance on clean fuels and technology
+2014,99,5. Percentage of population with primary reliance on clean fuels and technology
+2015,99,5. Percentage of population with primary reliance on clean fuels and technology
 2016,100,5. Percentage of population with primary reliance on clean fuels and technology
 2017,100,5. Percentage of population with primary reliance on clean fuels and technology
 2018,100,5. Percentage of population with primary reliance on clean fuels and technology
@@ -74,3 +74,4 @@ Year,Value,Series
 2021,100,5. Percentage of population with primary reliance on clean fuels and technology
 2022,100,5. Percentage of population with primary reliance on clean fuels and technology
 2023,100,5. Percentage of population with primary reliance on clean fuels and technology
+2024,100,5. Percentage of population with primary reliance on clean fuels and technology

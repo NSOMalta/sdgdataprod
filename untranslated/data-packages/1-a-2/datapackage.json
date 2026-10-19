@@ -19,11 +19,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "Proportion of total government spending on essential services",
+                "Proportion of total government spending as a percentage of GDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Services",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Education, Health, and Social Protection",
                 "Education",
                 "Health",
-                "Social protection",
-                "Percentage of GDP",
+                "Social Protection",
                 ""
               ]
             }

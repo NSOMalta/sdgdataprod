@@ -2022,7 +2022,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of victims of intentional homicide per 100,000 population",
+                "Victims of intentional homicide per 100,000 population",
                 "Number of victims of intentional homicide",
                 ""
               ]
@@ -2047,7 +2047,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 mid-year population",
+                "Per 100,000 population",
                 "Number of victims",
                 ""
               ]
@@ -5878,15 +5878,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Education",
-                "Health",
-                "Social protection",
-                "Percentage of GDP",
+                "Proportion of total government spending on essential services",
+                "Proportion of total government spending as a percentage of GDP",
                 ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Services",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Education, Health, and Social Protection",
+                "Education",
+                "Health",
+                "Social Protection",
+                ""
+              ]
+            },
+            "title": "Services"
           },
           {
             "name": "Value",

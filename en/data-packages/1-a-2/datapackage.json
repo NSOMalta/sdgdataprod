@@ -20,15 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Education",
-                "Health",
-                "Social protection",
-                "Percentage of GDP",
+                "Proportion of total government spending on essential services",
+                "Proportion of total government spending as a percentage of GDP",
                 ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Services",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Education, Health, and Social Protection",
+                "Education",
+                "Health",
+                "Social Protection",
+                ""
+              ]
+            },
+            "title": "Services"
           },
           {
             "name": "Value",
